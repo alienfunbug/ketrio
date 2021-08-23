@@ -1,7 +1,7 @@
 import React from "react";
 import "./Landing.css";
 import profiles from "../data/profiles.json"
-import Button from "../components/Button.js";
+import Button from "../components/button/Button.js";
 
 function Landing() {
   return (
