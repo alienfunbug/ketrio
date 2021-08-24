@@ -2,4 +2,6 @@
 
 :root{
   --default-gray: rgb(100, 100, 100);
+  --tileWidth: 225px;
+  --tileHeight: 120px;
 }

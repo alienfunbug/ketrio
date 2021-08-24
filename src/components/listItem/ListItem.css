@@ -1,6 +1,6 @@
 .listItem{
-    width:225px;
-    height: 120px;
+    width:var(--tileWidth);
+    height: var(--tileHeight);
     background-color: white;
     margin-right:  10px;
 } 
