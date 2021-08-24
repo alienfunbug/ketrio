@@ -1,6 +1,26 @@
-.listItem{
-    width:var(--tileWidth);
-    height: var(--tileHeight);
-    background-color: white;
-    margin-right:  10px;
-} 
+.listItem {
+  width: var(--tileWidth);
+  height: var(--tileHeight);
+  background-color: rgb(170, 22, 22);
+  margin-right: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.listItem > img {
+  object-fit: cover;
+  width: 95%;
+  height: 140%;
+  border: 5px solid transparent;
+}
+
+.listItem:hover {
+
+  width: 245px;
+  height: 265px;
+  border: 5px solid white;
+}
+
+.listItem:hover > img {
+  height: 200px;
+}
