@@ -4,7 +4,8 @@
   background-color: rgb(170, 22, 22);
   margin-right: 10px;
   overflow: hidden;
-  cursor: pointer;
+  
+  position: relative;
 }
 
 .listItem > img {
@@ -28,6 +29,39 @@
 }
 
 
-.listItem > .icons {
 
+.listItem > .characterTitle {
+    position:absolute;
+    top: 6px;
+    left: 14px;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    text-shadow: rgb(29, 25, 25);
+
+
+ }
+ 
+
+.listItem > .characterInfo {
+   display:flex;
+}
+
+.listItem > .characterName {
+ width: 50%;
+
+}
+
+.listItem > .icons {
+    width: 50%;
+
+}
+
+.listItem > .positionInfo {
+    width: 50%;
+
+}
+.listItem > .rating {
+    width: 30%;
 }
