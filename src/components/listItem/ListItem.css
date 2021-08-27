@@ -23,7 +23,7 @@
 }
 
 .listItem:hover > img {
-  height: 215px;
+  height: 210px;
   transition: all 0.7s ease;
 }
 
@@ -40,21 +40,28 @@
 
 .characterInfo {
   display: flex;
-  flex-direction: row;
+
   padding: 5px;
   justify-content: space-between;
   color: white;
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Roboto";
   font-weight: 400;
+  
 }
 
+.positionInfo {
+  display: flex;
+ margin-bottom: 5px;
+
+}
 .position1,
 .position2,
 .position3 {
-  border-radius: 50%;
-  width: 10px;
-  height: 10px;
+  border-radius: 100%;
+  width: 17px;
+  height: 17px;
+  text-align: center;
   font-size: 14px;
   padding: 4px;
   border: 2px solid white;
