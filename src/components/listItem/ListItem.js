@@ -40,9 +40,7 @@ function ListItem() {
 export default ListItem;
 
 /*
-set up flex box and spacing for character name,
- positions (special CSS),
- rating
+
 
  structure basic data for json import
 

@@ -2,7 +2,15 @@
   width: 100%;
   margin-top: 10px;
   margin-left: 20px;
+
+  /* scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll; */
 }
+/*
+.list-container::-webkit-scrollbar {
+display:none;
+} */
 
 .list-container > .wrapper {
   position: relative;
