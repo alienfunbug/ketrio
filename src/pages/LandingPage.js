@@ -1,9 +1,9 @@
 import React from "react";
-import "./Landing.css";
-import profiles from "../data/profiles.json"
+import "./LandingPage.css";
+import profiles from "../data/profiles/profiles.json"
 import Button from "../components/button/Button.js";
 
-function Landing() {
+function LandingPage() {
   return (
     <div className="landing-container">
       {/* <img /> */} 
@@ -26,4 +26,4 @@ function Landing() {
   );
 }
 
-export default Landing;
+export default LandingPage;
