@@ -3,7 +3,11 @@ import ListItem from "../listItem/ListItem";
 import React, { useRef, useState } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
 
-function List() {
+function List(props) {
+
+  const {
+    position
+  } = props
   
   const [isMoved, setIsMoved] = useState(false);
   const listReference = useRef();
@@ -33,7 +37,7 @@ function List() {
 
   return (
     <div className="list-container">
-      <div className="title">All Stars</div>
+      <div className="title">{position}</div>
       <div className="wrapper">
         <ArrowBackIosOutlined
           className="slider-arrow-left"

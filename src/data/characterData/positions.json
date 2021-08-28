@@ -1,27 +1,27 @@
 [
   {
-    "Position": "All-Star",
+    "position": "All-Stars",
     "username": "Characters"
   },
   {
-    "Position": "Center",
+    "position": "Centers",
     "username": "Talents"
+  },
+  {
+    "position": "Small Forwards",
+    "username": "Coming Soon"
+  },
+  {
+    "position": "Power Forwards",
+    "username": "Weekly Video"
   },
 
   {
-    "Position": "Power Forward",
-    "username": "Weekly Video"
-  },
-  {
-    "Position": "Small Forward",
+    "position": "Shooting Guards",
     "username": "Coming Soon"
   },
   {
-    "Position": "Shooting Guard",
-    "username": "Coming Soon"
-  },
-  {
-    "Position": "Point Guard",
+    "position": "Point Guards",
     "username": "Coming Soon"
   }
 ]
