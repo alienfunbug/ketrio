@@ -4,11 +4,8 @@ import React, { useRef, useState } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
 
 function List(props) {
+  const { position } = props;
 
-  const {
-    position
-  } = props
-  
   const [isMoved, setIsMoved] = useState(false);
   const listReference = useRef();
   const tileWidthLeft = 215;
@@ -43,7 +40,6 @@ function List(props) {
           className="slider-arrow-left"
           onClick={() => clickHandler("left")}
           //style={{display: !isMoved && "none"}} slider
-        
         />
         <div className="container" ref={listReference}>
           <ListItem />
