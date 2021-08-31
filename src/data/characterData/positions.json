@@ -1,7 +1,10 @@
 [
   {
     "position": "All-Stars",
-    "username": "Characters"
+    "roster":{
+        "lat":37.7952005,
+        "lon":-122.4027927
+     }
   },
   {
     "position": "Centers",
