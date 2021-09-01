@@ -2,10 +2,22 @@ import "./List.css";
 import ListItem from "../listItem/ListItem";
 import React, { useRef, useState } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
+import characterData from "../../data/characterData/positions.json";
 
 function List(props) {
-  const { position } = props;
 
+  const {
+    position
+  } = props
+
+ 
+
+
+ // if (player !== undefined) console.log(player[0].name)
+
+  const test = characterData;
+
+  
   const [isMoved, setIsMoved] = useState(false);
   const listReference = useRef();
   const tileWidthLeft = 215;
@@ -21,18 +33,22 @@ function List(props) {
       listReference.current.style.transform = `translateX(${
         tileWidthLeft + distance
       }px)`;
-      console.log(distance);
+
     }
 
     if (direction === "right") {
       listReference.current.style.transform = `translateX(${
         tileWidthRight * -1 + distance
       }px)`;
-      console.log(distance);
+ 
     }
   };
 
   return (
+<div>
+
+
+
     <div className="list-container">
       <div className="title">{position}</div>
       <div className="wrapper">
@@ -40,18 +56,13 @@ function List(props) {
           className="slider-arrow-left"
           onClick={() => clickHandler("left")}
           //style={{display: !isMoved && "none"}} slider
+        
         />
         <div className="container" ref={listReference}>
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
-          <ListItem />
+        {test.map((players,img) => 
+          <ListItem player={{position}.players}/>
+          )}
+
         </div>
         <ArrowForwardIos
           className="slider-arrow-right"
@@ -59,7 +70,8 @@ function List(props) {
         />
       </div>
     </div>
-  );
+
+  </div>);
 }
 
 export default List;
