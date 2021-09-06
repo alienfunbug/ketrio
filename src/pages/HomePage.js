@@ -4,10 +4,10 @@ import List from "../components/list/List";
 import positionsData from "../data/characterData/positions.json";
 
 function HomePage() {
-  const position = positionsData.map(({ position }) => {
+  const position = positionsData.map(({ position }, i) => {
     return (
-      <div className="home-container">
-        <List  position={position} />
+      <div className="home-container"  key={i}>
+        <List  position={position}/>
       </div>
     );
   });

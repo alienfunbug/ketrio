@@ -1,30 +1,215 @@
 [
   {
     "position": "All-Stars",
-    "roster":{
-        "lat":37.7952005,
-        "lon":-122.4027927
-     }
+    "players": [
+
+      {
+        "name": "Mr.Beard",
+        "img": "../assets/images/Beard_full.PNG",
+        "rating":"Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Claw",
+        "img": "../assets/images/Claw_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Gori",
+        "img": "../assets/images/Gori_full.PNG",
+        "rating":"Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Lebron",
+        "img": "../assets/images/Lebron_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Lifia",
+        "img": "../assets/images/Lifia_full.PNG",
+        "rating":"Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mac",
+        "img": "../assets/images/Mac_full.PNG",
+        "rating":"Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mai",
+        "img": "../assets/images/Mai_full.PNG",
+        "rating":"Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mimi",
+        "img": "../assets/images/Mimi_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mitsuki",
+        "img": "../assets/images/Mitsuki_full.PNG",
+        "rating":"Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Ryo",
+        "img": "../assets/images/Ryo_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Tsuna",
+        "img": "../assets/images/Tsuna_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/WhiteBeard_full.PNG",
+        "rating":"Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      }
+    ]
   },
   {
     "position": "Centers",
-    "username": "Talents"
+    "players": [
+
+      {
+          "name": "Fred Durst",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "James  Bond",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Harold Porter",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+
+    ]
   },
   {
     "position": "Small Forwards",
-    "username": "Coming Soon"
+    "players": [
+
+      {
+          "name": "Fred Durst",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "James  Bond",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Harold Porter",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+
+    ]
   },
   {
     "position": "Power Forwards",
-    "username": "Weekly Video"
+    "players": [
+
+      {
+          "name": "Fred Durst",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "James  Bond",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Harold Porter",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+
+    ]
   },
 
   {
     "position": "Shooting Guards",
-    "username": "Coming Soon"
+    "players": [
+
+      {
+          "name": "Fred Durst",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "James  Bond",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Harold Porter",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+
+    ]
   },
   {
     "position": "Point Guards",
-    "username": "Coming Soon"
+    "players": [
+
+      {
+          "name": "Fred Durst",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "James  Bond",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Harold Porter",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+
+    ]
   }
 ]

@@ -1,35 +1,36 @@
 import {
-  PlayArrow,
-  Add,
-  ThumbDownAltOutlined,
-  ThumbUpAltOutlined,
+
 } from "@material-ui/icons";
 import React from "react";
 import "./ListItem.css";
 
-function ListItem() {
+function ListItem(props) {
+
+  const {
+    playerName,
+
+    playerImg,
+    playerRating,
+    playerPosition1,
+    playerPosition2,
+    playerPosition3,
+    id
+} = props
+
   return (
-    <div className="listItem">
-      <div className="characterTitle">Eric</div>
-      <img src="../assets/images/Eric_full.PNG" alt="" />
+    <div className="listItem" key={id}>
+      <div className="characterTitle">{playerName}</div>
+      <img src={playerImg} alt="" />
       <div className="SEPARATOR-CONTAINER-HERE">
         <div className="characterInfo">
-          {/*
-        <span className="characterName">Eric</span> 
-        <div className="icons">
-          <PlayArrow />
-          <Add />
-          <ThumbUpAltOutlined />
-          <ThumbDownAltOutlined />
-        </div>
-        */}
+
           <div className="ratingInfo">
-            <span className="rating">Rating 500</span>
+            <span className="rating">{playerRating}</span>
           </div>
           <div className="positionInfo">
-            <span className="position1">PG</span>
-            <span className="position2">C</span>
-            <span className="position3">SF</span>
+            <span className="position1">{playerPosition1}</span>
+            <span className="position2">{playerPosition2}</span>
+            <span className="position3">{playerPosition3}</span>
           </div>
         </div>
       </div>

@@ -1,0 +1,30 @@
+[
+  {
+    "position": "All-Stars",
+    "roster":{
+        "lat":37.7952005,
+        "lon":-122.4027927
+     }
+  },
+  {
+    "position": "Centers",
+    "username": "Talents"
+  },
+  {
+    "position": "Small Forwards",
+    "username": "Coming Soon"
+  },
+  {
+    "position": "Power Forwards",
+    "username": "Weekly Video"
+  },
+
+  {
+    "position": "Shooting Guards",
+    "username": "Coming Soon"
+  },
+  {
+    "position": "Point Guards",
+    "username": "Coming Soon"
+  }
+]
