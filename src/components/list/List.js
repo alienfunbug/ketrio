@@ -22,45 +22,32 @@ function List(props) {
       listReference.current.style.transform = `translateX(${
         tileWidthLeft + distance
       }px)`;
-
     }
 
     if (direction === "right") {
       listReference.current.style.transform = `translateX(${
         tileWidthRight * -1 + distance
       }px)`;
- 
     }
   };
 
-  const testData = characterData.map((n) => {
-
+  const characterCard = characterData.map((n) => {
     if (n.position === position) {
-
-    return  n.players.map((player,i) =>{
-
-        return(
-        <ListItem 
-        id={i}
-        playerName={player.name}
-        playerImg={player.img}
-        playerRating={player.rating}
-        playerPosition1={player.position1}
-        playerPosition3={player.position2}
-        playerPosition3={player.position3}
-
-
-
-        />
+      return n.players.map((player, i) => {
+        return (
+          <ListItem
+            id={i}
+            playerName={player.name}
+            playerImg={player.img}
+            playerRating={player.rating}
+            playerPosition1={player.position1}
+            playerPosition2={player.position2}
+            playerPosition3={player.position3}
+          />
         );
-
-      })
+      });
     }
-
-
-    
-  })
-
+  });
 
   return (
     <div className="list-container">
@@ -71,12 +58,9 @@ function List(props) {
           onClick={() => clickHandler("left")}
           //style={{display: !isMoved && "none"}} slider
         />
-        
+
         <div className="container" ref={listReference}>
-        
-
-          {testData}
-
+          {characterCard}
         </div>
         <ArrowForwardIos
           className="slider-arrow-right"
