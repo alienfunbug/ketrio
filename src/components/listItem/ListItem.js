@@ -1,11 +1,8 @@
-import {
-
-} from "@material-ui/icons";
+import {} from "@material-ui/icons";
 import React from "react";
 import "./ListItem.css";
 
 function ListItem(props) {
-
   const {
     playerName,
 
@@ -14,8 +11,8 @@ function ListItem(props) {
     playerPosition1,
     playerPosition2,
     playerPosition3,
-    id
-} = props
+    id,
+  } = props;
 
   return (
     <div className="listItem" key={id}>
@@ -23,7 +20,6 @@ function ListItem(props) {
       <img src={playerImg} alt="" />
       <div className="SEPARATOR-CONTAINER-HERE">
         <div className="characterInfo">
-
           <div className="ratingInfo">
             <span className="rating">{playerRating}</span>
           </div>

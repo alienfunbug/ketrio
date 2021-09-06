@@ -7,15 +7,12 @@ import characterData from "../../data/characterData/positions.json";
 function List(props) {
   const { position } = props;
 
-
   const listReference = useRef();
   const tileWidthLeft = 215;
   const tileWidthRight = 255;
   //tile width - 10px for margin right of listItem
 
   const clickHandler = (direction) => {
-
-
     let distance = listReference.current.getBoundingClientRect().x - 50;
 
     if (direction === "left") {
@@ -46,7 +43,8 @@ function List(props) {
           />
         );
       });
- }   return null
+    }
+    return null;
   });
 
   return (

@@ -2,18 +2,14 @@
   width: 100%;
   margin-top: 10px;
   margin-left: 20px;
-
-
 }
 
-.list-container>.wrapper::-webkit-scrollbar {
+.list-container > .wrapper::-webkit-scrollbar {
   display: none;
 }
 
 .list-container > .wrapper {
   position: relative;
-  
-
   overflow-y: hidden;
   overflow-x: scroll;
 }
