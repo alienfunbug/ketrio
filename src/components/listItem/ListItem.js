@@ -39,13 +39,3 @@ function ListItem(props) {
 }
 
 export default ListItem;
-
-/*
-
-
- structure basic data for json import
-
- put character name on top left of tile
-
- import json file and fill in basic elements
-*/

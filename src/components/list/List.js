@@ -1,20 +1,20 @@
 import "./List.css";
 import ListItem from "../listItem/ListItem";
-import React, { useRef, useState } from "react";
+import React, { useRef } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
 import characterData from "../../data/characterData/positions.json";
 
 function List(props) {
   const { position } = props;
 
-  const [isMoved, setIsMoved] = useState(false);
+
   const listReference = useRef();
   const tileWidthLeft = 215;
   const tileWidthRight = 255;
   //tile width - 10px for margin right of listItem
 
   const clickHandler = (direction) => {
-    setIsMoved(true); //activate slider
+
 
     let distance = listReference.current.getBoundingClientRect().x - 50;
 
@@ -46,7 +46,7 @@ function List(props) {
           />
         );
       });
-    }
+ }   return null
   });
 
   return (
