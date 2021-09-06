@@ -60,6 +60,7 @@
   margin-left: 50px;
   transform: translateX(00px);
   transition: all 0.5s ease;
+  padding-top: 15px;
 }
 
 @media screen and (max-width: 1020px) {
