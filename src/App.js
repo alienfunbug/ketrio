@@ -2,7 +2,7 @@
 import { HashRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import LandingPage from './pages/LandingPage';
-import HomePage from './pages/HomePage';
+import CharacterPage from './pages/CharacterPage';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div>
     
-        <Route path="/" component={HomePage}/>
+        <Route path="/" component={CharacterPage}/>
         {/*<Landing /> */}
       </div>
     </Router>

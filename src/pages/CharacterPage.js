@@ -1,9 +1,9 @@
-import "./HomePage.css";
+import "./CharacterPage.css";
 import React from "react";
 import List from "../components/list/List";
 import positionsData from "../data/characterData/positions.json";
 
-function HomePage() {
+function CharacterPage() {
   const position = positionsData.map(({ position }, i) => {
     return (
       <div className="home-container"  key={i}>
@@ -13,4 +13,4 @@ function HomePage() {
   });
   return <div>{position}</div>;
 }
-export default HomePage;
+export default CharacterPage;
