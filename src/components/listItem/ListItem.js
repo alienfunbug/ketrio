@@ -5,7 +5,6 @@ import "./ListItem.css";
 function ListItem(props) {
   const {
     playerName,
-
     playerImg,
     playerRating,
     playerPosition1,
