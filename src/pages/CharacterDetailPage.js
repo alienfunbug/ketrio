@@ -10,7 +10,7 @@ function CharacterDetailPage() {
       <header className="header">
         <div className="header-container">
           <ArrowBackOutlined className="back-arrow" />
-          Gori
+          <div>Gori</div>
         </div>
       </header>
       <div className="background">
@@ -20,14 +20,7 @@ function CharacterDetailPage() {
             alt="no image here"
             className="img1"
           />
-          <div className="avatar">
 
-            <img
-              src={`${process.env.PUBLIC_URL}/assets/images/portraits/Gori_full.PNG`}
-              alt="no image here"
-              className="img2"
-            />
-          </div>
         </div>
       </div>
     </div>
