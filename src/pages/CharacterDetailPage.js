@@ -27,3 +27,13 @@ function CharacterDetailPage() {
   );
 }
 export default CharacterDetailPage;
+
+/* load data from json file first step
+rewrite paper form of profile
+set up header with content and fonts
+set up middle data plan
+set up footer
+)
+
+
+*/
