@@ -64,7 +64,7 @@
 
 .titleInfo{
   grid-area:titleInfo;
-  background: #00ffff;
+  background: #708090;
   display:  flex;
   justify-content: space-evenly;
 
@@ -79,6 +79,7 @@
 
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
+  
 }
 
 .positionInfo2{
@@ -87,6 +88,7 @@
 
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
+  
 }
 .positionInfo3{
   grid-area:positionInfo3;
@@ -106,7 +108,7 @@
 }
 #cost{
   grid-area:cost;
-  background: #6fffd5;
+  background: #6A5ACD;
 
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);

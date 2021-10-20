@@ -18,7 +18,12 @@ function CharacterDetailPage() {
           </div>
         </div>
 
-        <div className="positionInfo1">Position1</div>
+        <div className="positionInfo1">Position info
+        <div>Feature here</div>
+        <div>skill information here if allstar</div>
+        <div>stat information</div>
+        <span></span>
+        </div>
         <div className="positionInfo2">Position2</div>
         <div className="positionInfo3">Position3</div>
 
