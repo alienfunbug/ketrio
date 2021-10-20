@@ -175,3 +175,29 @@ padding-top: var(--main-padding);
 
 
 
+@media only screen and (max-width: 650px){
+  .container{
+
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.2fr 0.4fr 0.1fr 3fr 1fr 1fr 1fr 0.4fr;
+    grid-template-areas:
+      "navbar"
+      "title"
+      "titleInfo"
+      "main"
+      "positionInfo1"
+      "positionInfo2"
+      "positionInfo3"
+      "footer";
+  } 
+
+  .main{
+    height:100vw;
+    padding: 10px;
+  }
+  .main img {
+    max-width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+  }
+}
