@@ -1,3 +1,9 @@
+:root {
+  --main-radius: 5px;
+  --main-padding: 15px;
+}
+
+
 .header {
   padding:2vh;
   color: rgb(255, 255, 255);
@@ -20,8 +26,152 @@
     #434 100%
   );
   color:white;
-
   display:grid;
   height:100vh;
+  text-align:center;
+  grid-gap: 0.3rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 0.4fr 0.2fr 1fr 1fr 1fr 0.4fr;
+  
+  grid-template-areas:
+  "navBar navBar navBar"
+  "title title title"
+  "titleInfo titleInfo titleInfo"
+  "positionInfo1 main main"
+  "positionInfo2 main main"
+  "positionInfo3 main main"
+  "footer footer footer"
+  ;
+}
+
+#navbar{
+  
+  grid-area:navBar;
+  background: #1de9b6;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+.title{
+  grid-area:title;
+  background: #00ffff;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
 
 }
+
+.titleInfo{
+  grid-area:titleInfo;
+  background: #00ffff;
+  display:  flex;
+  justify-content: space-evenly;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+  
+}
+
+.positionInfo1{
+  grid-area:positionInfo1;
+  background: #8A2BE2;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+.positionInfo2{
+  grid-area:positionInfo2;
+  background: #A52A2A;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+.positionInfo3{
+  grid-area:positionInfo3;
+  background: #808000;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+
+}
+
+#rating{
+  grid-area:rating;
+  background: #BDB76B;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+#cost{
+  grid-area:cost;
+  background: #6fffd5;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+#TBD{
+  grid-area:TBD;
+  background: #008B8B;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+.footer{
+  grid-area:footer;
+  background: #6fffd2;
+  display:  flex;
+  justify-content: space-evenly;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+#evolve{
+  grid-area:evolve;
+  background: 
+  #6495ED;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+
+}
+
+#fate{
+  grid-area:fate;
+  background: #A9A9A9;
+  
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+#avatar{
+  grid-area:avatar;
+  background: #2F4F4F;
+
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+
+
+.main{
+  grid-area:main;
+background-color: #000000;
+
+border-radius: var(--main-radius);
+padding-top: var(--main-padding);
+
+}
+.main img {
+
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+
+
