@@ -1,19 +1,19 @@
 [
   {
-    "image_src": "assets/images/MZ_color_test.PNG",
+    "image_src": "assets/images/portraits/MZ_color_test.PNG",
     "username": "Characters"
   },
   {
-    "image_src": "assets/images/question_mark.jpeg",
+    "image_src": "assets/images/portraits/question_mark.jpeg",
     "username": "Talents"
   },
 
   {
-    "image_src": "assets/images/question_mark.jpeg",
+    "image_src": "assets/images/portraits/question_mark.jpeg",
     "username": "Weekly Video"
   },
   {
-    "image_src": "assets/images/question_mark.jpeg",
+    "image_src": "assets/images/portraits/question_mark.jpeg",
     "username": "Coming Soon"
   }
 ]
