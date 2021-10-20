@@ -136,7 +136,7 @@
   #6495ED;
 
   border-radius: var(--main-radius);
-  padding-top: var(--main-padding);
+
 
 }
 
@@ -145,7 +145,7 @@
   background: #A9A9A9;
   
   border-radius: var(--main-radius);
-  padding-top: var(--main-padding);
+
 }
 
 #avatar{
@@ -153,7 +153,7 @@
   background: #2F4F4F;
 
   border-radius: var(--main-radius);
-  padding-top: var(--main-padding);
+
 }
 
 
@@ -163,7 +163,7 @@
 background-color: #000000;
 
 border-radius: var(--main-radius);
-padding-top: var(--main-padding);
+  padding-top: var(--main-padding);
 
 }
 .main img {
