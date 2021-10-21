@@ -18,17 +18,25 @@ function CharacterDetailPage() {
           </div>
         </div>
 
-        <div className="positionInfo1">Position info
-        <div>Feature here</div>
-        <div>skill information here if allstar</div>
-        <div>stat information</div>
-        <span></span>
+        <div className="positionInfo1">
+          <div id="positionName1">SG</div>
+          <div>
+            Reaper II: Fairly increases 3-pointer FG% when falling behind.
+            Effect cleared after regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          Stats:
+          <span className="stats">
+            <span id="stat1">+2 3pt</span>
+            <span id="stat2">+3 Run</span>
+            <span id="stat3">-5 Contact</span>
+          </span>
+      
         </div>
-        <div className="positionInfo2">Position2</div>
-        <div className="positionInfo3">Position3</div>
+        <div className="positionInfo2">Position2 sf +5m.-5c: Fairly increase midshot resistance when falling behind. Effect cleared after regaining the lead </div>
+        <div className="positionInfo3">Position3 pg -5c +3steal +2run: Fairly increase intercept rate when falling behind. Fairly increase midshot resistance when behind. Effect cleared after regaining the lead</div>
 
         <div className="footer">
-
           <div id="evolve">
             <p>Evolve</p>
             <img
@@ -38,7 +46,7 @@ function CharacterDetailPage() {
             />
           </div>
           <div id="fate">
-          <p>Fate</p>
+            <p>Fate</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"
@@ -46,7 +54,7 @@ function CharacterDetailPage() {
             />
           </div>
           <div id="avatar">
-          <p>Avatar</p>
+            <p>Avatar</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"

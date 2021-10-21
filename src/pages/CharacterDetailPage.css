@@ -28,7 +28,7 @@
   color:white;
   display:grid;
   height:100vh;
-  text-align:center;
+
   grid-gap: 0.3rem;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0.2fr 0.4fr 0.2fr 1fr 1fr 1fr 0.4fr;
@@ -75,13 +75,36 @@
 
 .positionInfo1{
   grid-area:positionInfo1;
-  background: #8A2BE2;
-
-  border-radius: var(--main-radius);
-  padding-top: var(--main-padding);
+  background: black;
   
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+ 
 }
 
+#positionName1{
+  font-weight: 600;
+}
+.stats{
+  font-weight: 400;
+
+}
+ #stat1{
+  color: #00FFFF;
+  padding: 10px;
+
+}
+#stat2{
+  color: #00FFFF;
+  padding: 5px;
+
+}
+
+#stat3{
+  color: #F41919;
+  padding: 5px;
+
+}
 .positionInfo2{
   grid-area:positionInfo2;
   background: #A52A2A;
