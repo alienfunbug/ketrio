@@ -10,7 +10,7 @@ function CharacterDetailPage() {
       <div className="container">
         <div id="navBar">NavBar</div>
         <div className="title">
-          <span id="characterName">Elke </span>
+          <span id="characterName">Elke</span>
           <div className="titleInfo">
             <div id="rating">Rating 500</div>
             <div id="cost">1 token / 500 shards</div>
@@ -30,6 +30,7 @@ function CharacterDetailPage() {
             <span className="statPositive">+2 3pt</span>
             <span className="statPositive">+3 Run</span>
             <span className="statNegative">-5 Contact</span>
+
           </span>
           <div className="fakeLink">Elite Skills Link</div>
         </div>
@@ -104,7 +105,10 @@ function CharacterDetailPage() {
 }
 export default CharacterDetailPage;
 
-/* load data from json file first step
+/*
+setup routing for ketrio project
+
+load data from json file first step
 rewrite paper form of profile
 set up header with content and fonts
 set up middle data plan
