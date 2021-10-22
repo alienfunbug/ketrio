@@ -10,7 +10,7 @@ function CharacterDetailPage() {
       <div className="container">
         <div id="navBar">NavBar</div>
         <div className="title">
-          Elke
+          <span id="characterName">Elke </span>
           <div className="titleInfo">
             <div id="rating">Rating 500</div>
             <div id="cost">1 token / 500 shards</div>
@@ -25,16 +25,44 @@ function CharacterDetailPage() {
             Effect cleared after regaining the lead.
           </div>
           <div>Skill: N/A</div>
-          Stats:
+          <span className="statsHeader">Stats:</span>
           <span className="stats">
-            <span id="stat1">+2 3pt</span>
-            <span id="stat2">+3 Run</span>
-            <span id="stat3">-5 Contact</span>
+            <span className="statPositive">+2 3pt</span>
+            <span className="statPositive">+3 Run</span>
+            <span className="statNegative">-5 Contact</span>
           </span>
-      
+          <div className="fakeLink">Elite Skills Link</div>
         </div>
-        <div className="positionInfo2">Position2 sf +5m.-5c: Fairly increase midshot resistance when falling behind. Effect cleared after regaining the lead </div>
-        <div className="positionInfo3">Position3 pg -5c +3steal +2run: Fairly increase intercept rate when falling behind. Fairly increase midshot resistance when behind. Effect cleared after regaining the lead</div>
+        <div className="positionInfo2">
+          <div id="positionName1">SF</div>
+          <div>
+            Reaper II: Fairly increase midshot resistance when falling behind.
+            Effect cleared after regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          <span className="statsHeader">Stats:</span>
+          <span className="stats">
+            <span className="statPositive">+5 mid</span>
+            <span className="statNegative">-5 Contact</span>
+          </span>
+          <div className="fakeLink">Elite Skills Link</div>
+        </div>
+        <div className="positionInfo3">
+          <div id="positionName1">PG</div>
+          <div>
+            Reaper II: Fairly increase intercept rate when falling behind.
+            Fairly increase midshot resistance when behind. Effect cleared after
+            regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          <span className="statsHeader">Stats:</span>
+          <span className="stats">
+            <span className="statPositive">+3 Steal</span>
+            <span className="statPositive">+2 Run</span>
+            <span className="statNegative">-5 Contact</span>
+          </span>
+          <div className="fakeLink">Elite Skills Link</div>
+        </div>
 
         <div className="footer">
           <div id="evolve">
