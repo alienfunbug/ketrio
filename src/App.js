@@ -10,8 +10,10 @@ function App() {
     <Router>
       <div>
     
-        <Route path="/" component={CharacterDetailPage}/>
-        {/*<Landing /> */}
+        <Route exact path="/" component={LandingPage}/>
+        <Route path="/characters" component={CharacterPage}/>
+        <Route path="/details" component={CharacterDetailPage}/>
+
       </div>
     </Router>
   );

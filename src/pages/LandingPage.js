@@ -2,6 +2,7 @@ import React from "react";
 import "./LandingPage.css";
 import profiles from "../data/profiles/profiles.json"
 import Button from "../components/button/Button.js";
+import {Link} from 'react-router-dom';
 
 function LandingPage() {
   return (
@@ -13,8 +14,11 @@ function LandingPage() {
         <div className="profiles">
           {profiles.map((profile,index)=> (
           <div className="profile">
+  
             <img className="image" src={profile.image_src} alt={profile.image_src}/>
-            <span className="username">{profile.username}</span>
+            <span className="display">{profile.display}</span>
+            <Link to={`/${profile.link}/`}>  URL here  </Link>
+         
           </div>
           ))}
 

@@ -1,3 +1,4 @@
+
 .landing-container {
   font-family: Roboto;
 }
@@ -46,7 +47,7 @@
  
 }
 
-.landing-container > .content > .profiles > .profile:hover > .username {
+.landing-container > .content > .profiles > .profile:hover > .display {
   color: rgb(220, 220, 220);
 }
 
@@ -63,7 +64,7 @@
   border: 5px solid transparent;
 }
 
-.landing-container > .content > .profiles > .profile > .username {
+.landing-container > .content > .profiles > .profile > .display {
   color: var(--default-gray);
   text-align: center;
   font-size: 22px;

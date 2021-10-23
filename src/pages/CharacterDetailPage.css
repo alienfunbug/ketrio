@@ -3,7 +3,7 @@
   --main-padding: 15px;
 }
 
-.header {
+.details-header {
   padding: 2vh;
   color: rgb(255, 255, 255);
   font-family: "Roboto", sans-serif;
@@ -17,7 +17,7 @@
   );
 }
 
-.container {
+.details-container {
   background-image: radial-gradient(
     farthest-corner at 90px 940px,
     #f4a460 0%,
@@ -41,7 +41,7 @@
     "footer footer footer";
 }
 
-#navbar {
+#details-navbar {
   grid-area: navBar;
   background: #1de9b6;
 
@@ -49,7 +49,7 @@
   padding-top: var(--main-padding);
 }
 
-.title {
+.details-title {
   grid-area: title;
   background: #00ffff;
 
@@ -59,19 +59,19 @@
   font-weight: 400;
 
 }
-#characterName{
+#details-characterName{
   font-size: 36px;
   font-weight: 600;
 }
 
 
 
-.fakeLink{
+.details-fakeLink{
 
   text-shadow: 1px 1px grey;
 }
 
-.titleInfo {
+.details-titleInfo {
   grid-area: titleInfo;
   background: #708090;
   display: flex;
@@ -81,7 +81,7 @@
   padding-top: var(--main-padding);
 }
 
-.positionInfo1 {
+.details-positionInfo1 {
   grid-area: positionInfo1;
   background: black;
 
@@ -89,32 +89,32 @@
   padding: var(--main-padding);
 }
 
-#positionName1 {
+#details-positionName1 {
   font-weight: 600;
   font-size: 21px;
   text-shadow: 2px 2px grey;
 }
-.stats {
+.details-stats {
   font-weight: 500;
 }
-.statPositive {
+.details-statPositive {
   color: #00ffff;
 
   padding: 10px;
 }
 
-.statNegative {
+.details-statNegative {
   color: #f41919;
   padding: 10px;
 }
-.positionInfo2 {
+.details-positionInfo2 {
   grid-area: positionInfo2;
   background: #a52a2a;
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
-.positionInfo3 {
+.details-positionInfo3 {
   grid-area: positionInfo3;
   background: #808000;
 
@@ -122,14 +122,14 @@
   padding: var(--main-padding);
 }
 
-#rating {
+#details-rating {
   grid-area: rating;
   background: #bdb76b;
 
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
-#cost {
+#details-cost {
   grid-area: cost;
   background: #6a5acd;
 
@@ -137,7 +137,7 @@
   padding-top: var(--main-padding);
 }
 
-#TBD {
+#details-TBD {
   grid-area: TBD;
   background: #008b8b;
 
@@ -145,7 +145,7 @@
   padding-top: var(--main-padding);
 }
 
-.footer {
+.details-footer {
   grid-area: footer;
   background: #6fffd2;
   display: flex;
@@ -155,42 +155,42 @@
   padding-top: var(--main-padding);
 }
 
-#evolve {
+#details-evolve {
   grid-area: evolve;
   background: #6495ed;
 
   border-radius: var(--main-radius);
 }
 
-#fate {
+#details-fate {
   grid-area: fate;
   background: #a9a9a9;
 
   border-radius: var(--main-radius);
 }
 
-#avatar {
+#details-avatar {
   grid-area: avatar;
   background: #2f4f4f;
 
   border-radius: var(--main-radius);
 }
 
-.main {
+.details-main {
   grid-area: main;
   background-color: #000000;
 
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
-.main img {
+.details-main img {
   height: 100%;
   object-fit: cover;
   overflow: hidden;
 }
 
 @media only screen and (max-width: 650px) {
-  .container {
+  .details-container {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.4fr 0.1fr 3fr 1fr 1fr 1fr 0.4fr;
     grid-template-areas:
@@ -204,11 +204,11 @@
       "footer";
   }
 
-  .main {
+  .details-main {
     height: 100vw;
     padding: 10px;
   }
-  .main img {
+  .details-main img {
     max-width: 100%;
     object-fit: cover;
     overflow: hidden;

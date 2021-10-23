@@ -7,66 +7,66 @@ import positionsData from "../data/characterData/positions.json";
 function CharacterDetailPage() {
   return (
     <div>
-      <div className="container">
-        <div id="navBar">NavBar</div>
-        <div className="title">
-          <span id="characterName">Elke</span>
-          <div className="titleInfo">
-            <div id="rating">Rating 500</div>
-            <div id="cost">1 token / 500 shards</div>
-            <div id="TBD">TBD</div>
+      <div className="details-container">
+        <div id="details-navBar">NavBar</div>
+        <div className="details-title">
+          <span id="details-characterName">Elke</span>
+          <div className="details-titleInfo">
+            <div id="details-rating">Rating 500</div>
+            <div id="details-cost">1 token / 500 shards</div>
+            <div id="details-TBD">TBD</div>
           </div>
         </div>
 
-        <div className="positionInfo1">
-          <div id="positionName1">SG</div>
+        <div className="details-positionInfo1">
+          <div id="details-positionName1">SG</div>
           <div>
             Reaper II: Fairly increases 3-pointer FG% when falling behind.
             Effect cleared after regaining the lead.
           </div>
           <div>Skill: N/A</div>
-          <span className="statsHeader">Stats:</span>
-          <span className="stats">
-            <span className="statPositive">+2 3pt</span>
-            <span className="statPositive">+3 Run</span>
-            <span className="statNegative">-5 Contact</span>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-statPositive">+2 3pt</span>
+            <span className="details-statPositive">+3 Run</span>
+            <span className="details-statNegative">-5 Contact</span>
 
           </span>
-          <div className="fakeLink">Elite Skills Link</div>
+          <div className="details-fakeLink">Elite Skills Link</div>
         </div>
-        <div className="positionInfo2">
-          <div id="positionName1">SF</div>
+        <div className="details-positionInfo2">
+          <div id="details-positionName1">SF</div>
           <div>
             Reaper II: Fairly increase midshot resistance when falling behind.
             Effect cleared after regaining the lead.
           </div>
           <div>Skill: N/A</div>
-          <span className="statsHeader">Stats:</span>
-          <span className="stats">
-            <span className="statPositive">+5 mid</span>
-            <span className="statNegative">-5 Contact</span>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-statPositive">+5 mid</span>
+            <span className="details-statNegative">-5 Contact</span>
           </span>
-          <div className="fakeLink">Elite Skills Link</div>
+          <div className="details-fakeLink">Elite Skills Link</div>
         </div>
-        <div className="positionInfo3">
-          <div id="positionName1">PG</div>
+        <div className="details-positionInfo3">
+          <div id="details-positionName1">PG</div>
           <div>
             Reaper II: Fairly increase intercept rate when falling behind.
             Fairly increase midshot resistance when behind. Effect cleared after
             regaining the lead.
           </div>
           <div>Skill: N/A</div>
-          <span className="statsHeader">Stats:</span>
-          <span className="stats">
-            <span className="statPositive">+3 Steal</span>
-            <span className="statPositive">+2 Run</span>
-            <span className="statNegative">-5 Contact</span>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-statPositive">+3 Steal</span>
+            <span className="details-statPositive">+2 Run</span>
+            <span className="details-statNegative">-5 Contact</span>
           </span>
-          <div className="fakeLink">Elite Skills Link</div>
+          <div className="details-fakeLink">Elite Skills Link</div>
         </div>
 
-        <div className="footer">
-          <div id="evolve">
+        <div className="details-footer">
+          <div id="details-evolve">
             <p>Evolve</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
@@ -74,7 +74,7 @@ function CharacterDetailPage() {
               className="img1"
             />
           </div>
-          <div id="fate">
+          <div id="details-fate">
             <p>Fate</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
@@ -82,7 +82,7 @@ function CharacterDetailPage() {
               className="img1"
             />
           </div>
-          <div id="avatar">
+          <div id="details-avatar">
             <p>Avatar</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
@@ -92,7 +92,7 @@ function CharacterDetailPage() {
           </div>
         </div>
 
-        <div className="main">
+        <div className="details-main">
           <img
             src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/ranking_large_elke.PNG`}
             alt="no image here"
@@ -106,7 +106,7 @@ function CharacterDetailPage() {
 export default CharacterDetailPage;
 
 /*
-setup routing for ketrio project
+
 
 load data from json file first step
 rewrite paper form of profile
