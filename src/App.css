@@ -7,4 +7,6 @@
   --default-gray: rgb(100, 100, 100);
   --tileWidth: 225px;
   --tileHeight: 140px;
+  --main-radius: 5px;
+  --main-padding: 15px;
 }

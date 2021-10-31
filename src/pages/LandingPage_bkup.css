@@ -3,7 +3,7 @@
   font-family: Roboto;
 }
 
- .content {
+.landing-container > .content {
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -11,21 +11,22 @@
   align-items: center;
 }
 
- .title {
+.landing-container > .content > .title {
   color: white;
   font-family: inherit;
   font-size: 68px;
   user-select: none;
 }
 
- .profiles {
+.landing-container > .content > .profiles {
   display: flex;
   /*
     flex-wrap: row wrap;
   justify-content: space-around;
   */
 }
- .profile {
+
+.landing-container > .content > .profiles > .profile {
   display: flex;
   flex-direction: column;
   margin: 0px 25px;
@@ -33,27 +34,28 @@
   margin-bottom: 80px;
 }
 
-.profile:first-child {
+.landing-container > .content > .profiles > .profile:first-child {
   margin-left: 0px;
 }
-.profile:last-child {
+
+.landing-container > .content > .profiles > .profile:last-child {
   margin-right: 0px;
 }
 
- .profile:hover {
+.landing-container > .content > .profiles > .profile:hover {
   cursor: pointer;
  
 }
 
- .profile:hover  .display {
+.landing-container > .content > .profiles > .profile:hover > .display {
   color: rgb(220, 220, 220);
 }
 
- .profile:hover  .image {
+.landing-container > .content > .profiles > .profile:hover > .image {
     border: 5px solid white;
   }
 
- .profile  .image {
+.landing-container > .content > .profiles > .profile > .image {
 
   margin-bottom: 15px;
   object-fit: cover;
@@ -62,7 +64,7 @@
   border: 5px solid transparent;
 }
 
- .profile  .display {
+.landing-container > .content > .profiles > .profile > .display {
   color: var(--default-gray);
   text-align: center;
   font-size: 22px;
