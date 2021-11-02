@@ -32,7 +32,7 @@
   grid-template-rows: 0.2fr 0.4fr 0.2fr 1fr 1fr 1fr 0.4fr;
 
   grid-template-areas:
-    "navBar navBar navBar"
+    "navbar navbar navbar"
     "title title title"
     "titleInfo titleInfo titleInfo"
     "positionInfo1 main main"
@@ -42,7 +42,7 @@
 }
 
 #details-navbar {
-  grid-area: navBar;
+  grid-area: navbar;
   background: #1de9b6;
 
   border-radius: var(--main-radius);
@@ -57,21 +57,24 @@
   padding-top: var(--main-padding);
   text-align: center;
   font-weight: 400;
-
 }
-#details-characterName{
+#details-character-name {
   font-size: 36px;
   font-weight: 600;
 }
 
+#details-position-name {
+  font-weight: 600;
+  font-size: 21px;
+  text-shadow: 2px 2px grey;
+}
 
-
-.details-fakeLink{
-
+/*elite skills link*/
+.details-fake-link {
   text-shadow: 1px 1px grey;
 }
 
-.details-titleInfo {
+.details-title-info {
   grid-area: titleInfo;
   background: #708090;
   display: flex;
@@ -81,7 +84,9 @@
   padding-top: var(--main-padding);
 }
 
-.details-positionInfo1 {
+
+
+.details-position-info1 {
   grid-area: positionInfo1;
   background: black;
 
@@ -89,37 +94,33 @@
   padding: var(--main-padding);
 }
 
-#details-positionName1 {
-  font-weight: 600;
-  font-size: 21px;
-  text-shadow: 2px 2px grey;
-}
-.details-stats {
-  font-weight: 500;
-}
-.details-statPositive {
-  color: #00ffff;
-
-  padding: 10px;
-}
-
-.details-statNegative {
-  color: #f41919;
-  padding: 10px;
-}
-.details-positionInfo2 {
+.details-position-info2 {
   grid-area: positionInfo2;
   background: #a52a2a;
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
-.details-positionInfo3 {
+.details-position-info3 {
   grid-area: positionInfo3;
   background: #808000;
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
+}
+
+.details-stats {
+  font-weight: 500;
+}
+.details-stats-positive {
+  color: #00ffff;
+
+  padding: 10px;
+}
+
+.details-stats-negative {
+  color: #f41919;
+  padding: 10px;
 }
 
 #details-rating {
