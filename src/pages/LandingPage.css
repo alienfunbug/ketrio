@@ -45,15 +45,15 @@
  
 }
 
- .profile:hover  .display {
+ .profile:hover .display {
   color: rgb(220, 220, 220);
 }
 
- .profile:hover  .image {
+ .profile:hover .image {
     border: 5px solid white;
   }
 
- .profile  .image {
+ .profile .image {
 
   margin-bottom: 15px;
   object-fit: cover;
@@ -62,7 +62,7 @@
   border: 5px solid transparent;
 }
 
- .profile  .display {
+ .profile .display {
   color: var(--default-gray);
   text-align: center;
   font-size: 22px;

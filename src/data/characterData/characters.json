@@ -1,0 +1,46 @@
+// map all characters
+ELKE[
+
+    {  //object for each position1
+    character_name:elke
+    rating: rating 500
+    cost: 1 token/ 500 shards
+    TBD: BLANK
+    position1: SG
+    featureName: ReaperII
+    featureDescription: fairly increase 3pt
+    skill: N/A
+    statsPositive: +2 3pt +3 run
+    statsNegative: -5 contact
+    EliteskillsLink: ElkeSGskills
+    },
+    {  //object for each position1
+    character_name:elke
+    rating: rating 500
+    cost: 1 token/ 500 shards
+    TBD: BLANK
+    position1: SG
+    featureName: ReaperII
+    featureDescription: fairly increase 3pt
+    skill: N/A
+    statsPositive: +2 3pt +3 run
+    statsNegative: -5 contact
+    EliteskillsLink: ElkeSGskills
+    },
+    {  //object for each position1
+    character_name:elke
+    rating: rating 500
+    cost: 1 token/ 500 shards
+    TBD: BLANK
+    position1: SG
+    featureName: ReaperII
+    featureDescription: fairly increase 3pt
+    skill: N/A
+    statsPositive: +2 3pt +3 run
+    statsNegative: -5 contact
+    EliteskillsLink: ElkeSGskills
+    }
+    
+    
+    ],
+    NEXT CHARACTER
