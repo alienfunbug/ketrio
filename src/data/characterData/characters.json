@@ -1,46 +1,75 @@
-// map all characters
-ELKE[
+[
+  {
+    "character": "Elke",
+    "characterImage": "IMAGEHERE",
+    "rating": "Rating 500",
+    "cost": "1 Token / 4700 Shards",
+    "TBD": "TBD Blank",
+    "characterPositions": [
+      {
+        "position": "SG",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
 
-    {  //object for each position1
-    character_name:elke
-    rating: rating 500
-    cost: 1 token/ 500 shards
-    TBD: BLANK
-    position1: SG
-    featureName: ReaperII
-    featureDescription: fairly increase 3pt
-    skill: N/A
-    statsPositive: +2 3pt +3 run
-    statsNegative: -5 contact
-    EliteskillsLink: ElkeSGskills
-    },
-    {  //object for each position1
-    character_name:elke
-    rating: rating 500
-    cost: 1 token/ 500 shards
-    TBD: BLANK
-    position1: SG
-    featureName: ReaperII
-    featureDescription: fairly increase 3pt
-    skill: N/A
-    statsPositive: +2 3pt +3 run
-    statsNegative: -5 contact
-    EliteskillsLink: ElkeSGskills
-    },
-    {  //object for each position1
-    character_name:elke
-    rating: rating 500
-    cost: 1 token/ 500 shards
-    TBD: BLANK
-    position1: SG
-    featureName: ReaperII
-    featureDescription: fairly increase 3pt
-    skill: N/A
-    statsPositive: +2 3pt +3 run
-    statsNegative: -5 contact
-    EliteskillsLink: ElkeSGskills
-    }
-    
-    
-    ],
-    NEXT CHARACTER
+  {
+    "character": "SECOND CHARACTER",
+    "characterImage": "IMAGEHERE",
+    "rating": "Rating 500",
+    "cost": "1 Token / 4700 Shards",
+    "TBD": "TBD Blank",
+    "characterPositions": [
+      {
+        "position": "SG",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Reaper ??",
+        "featureDescription": "fairly increase 3pt and other stuff",
+        "skill": "N/A",
+        "statsPositive": "+2 3pt +3 run",
+        "statsNegative": "-5 contact",
+        "EliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  }
+]
