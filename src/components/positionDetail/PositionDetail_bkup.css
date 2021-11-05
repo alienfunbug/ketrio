@@ -94,7 +94,7 @@
     padding: var(--main-padding);
   }
   .SF {
-    grid-area: positionInfo1;
+    grid-area: positionInfo2;
     background: rgb(40, 14, 156);
     color: white;
   
@@ -102,7 +102,7 @@
     padding: var(--main-padding);
   }
   .PG {
-    grid-area: positionInfo1;
+    grid-area: positionInfo3;
     background: rgb(155, 129, 72);
     color: white;
   

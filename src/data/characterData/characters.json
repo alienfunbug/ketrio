@@ -38,12 +38,12 @@
   },
 
   {
-    "character": "SECOND CHARACTER",
+    "selectedCharacter": "Gori",
     "characterImage": "IMAGEHERE",
     "rating": "Rating 500",
     "cost": "1 Token / 4700 Shards",
     "TBD": "TBD Blank",
-    "characterPositions": [
+    "characterPosition": [
       {
         "position": "SG",
         "featureName": "Reaper ??",
@@ -52,24 +52,6 @@
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
         "eliteSkills": "ElkeSG_Skills_here"
-      },
-      {
-        "position": "SF",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
-        "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
-        "eliteSkills": "ElkeSF_Skills_here"
-      },
-      {
-        "position": "PG",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
-        "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
-        "eliteSkills": "ElkePG_Skills_here"
       }
     ]
   }

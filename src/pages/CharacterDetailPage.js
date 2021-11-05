@@ -10,7 +10,7 @@ function CharacterDetailPage() {
   const detailCard = characterData.map((n) => {
     if (n.selectedCharacter === "Elke") {
       return n.characterPosition.map((characterPosition, i) => {
-                  console.log(characterPosition)
+
         return (
 <PositionDetail
             id={i}
@@ -35,7 +35,8 @@ function CharacterDetailPage() {
 
   return (
     <div>
-      <div>{detailCard}</div>
+      {console.log(detailCard)}
+
       <div className="details-container">
         <div id="details-navbar">NavBar</div>
         <div className="details-title">
@@ -46,7 +47,11 @@ function CharacterDetailPage() {
             <div id="details-TBD">TBD</div>
           </div>
         </div>
+
+        <div className="details-position-info-block">{detailCard}</div>
 {/* position card here */}
+
+{/*
         <div className="details-position-info1">
           <div id="details-position-name">SG</div>
           <div>
@@ -92,7 +97,7 @@ function CharacterDetailPage() {
             <span className="details-stats-negative">-5 Contact</span>
           </span>
           <div className="details-fake-link">Elite Skills Link</div>
-        </div>
+        </div> */}
 
         <div className="details-footer">
           <div id="details-evolve">

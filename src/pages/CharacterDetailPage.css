@@ -35,9 +35,9 @@
     "navbar navbar navbar"
     "title title title"
     "titleInfo titleInfo titleInfo"
-    "positionInfo1 main main"
-    "positionInfo2 main main"
-    "positionInfo3 main main"
+    "positionInfoBlock main main"
+    "positionInfoBlock main main"
+    "positionInfoBlock main main"
     "footer footer footer";
 }
 
@@ -84,25 +84,61 @@
   padding-top: var(--main-padding);
 }
 
+.SG {
+  grid-area: positionInfo0;
+  background: rgb(96, 116, 25);
+  color: white;
 
-
-.details-position-info1 {
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+.SF {
   grid-area: positionInfo1;
-  background: black;
+  background: rgb(40, 14, 156);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+.PG {
+  grid-area: positionInfo2;
+  background: rgb(155, 129, 72);
+  color: white;
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
 
-.details-position-info2 {
-  grid-area: positionInfo2;
+
+.details-position-info-block {
+  grid-area: positionInfoBlock;
+  
+
+  background: rgb(104, 103, 103);
+  color: white;
+
+  border-radius: var(--main-radius);
+
+}
+
+.details-position-info0 {
+  grid-area: positionInfo0;
+  background: rgb(0, 0, 0);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.details-position-info1 {
+  grid-area: positionInfo1;
   background: #a52a2a;
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
-.details-position-info3 {
-  grid-area: positionInfo3;
+.details-position-info2 {
+  grid-area: positionInfo2;
   background: #808000;
 
   border-radius: var(--main-radius);
@@ -193,15 +229,13 @@
 @media only screen and (max-width: 650px) {
   .details-container {
     grid-template-columns: 1fr;
-    grid-template-rows: 0.2fr 0.4fr 0.1fr 3fr 1fr 1fr 1fr 0.4fr;
+    grid-template-rows: 0.2fr 0.4fr 0.1fr 3fr 1fr 0.4fr;
     grid-template-areas:
       "navbar"
       "title"
       "titleInfo"
       "main"
-      "positionInfo1"
-      "positionInfo2"
-      "positionInfo3"
+      "positionInfoBlock"
       "footer";
   }
 
