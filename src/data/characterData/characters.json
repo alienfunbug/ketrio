@@ -1,11 +1,12 @@
 [
   {
-    "character": "Elke",
+    "selectedCharacter": "Elke",
     "characterImage": "IMAGEHERE",
     "rating": "Rating 500",
     "cost": "1 Token / 4700 Shards",
     "TBD": "TBD Blank",
-    "characterPositions": [
+    "positionCount":3,
+    "characterPosition": [
       {
         "position": "SG",
         "featureName": "Reaper ??",
@@ -13,7 +14,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "ElkeSG_Skills_here"
       },
       {
         "position": "SF",
@@ -22,7 +23,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "ElkeSF_Skills_here"
       },
       {
         "position": "PG",
@@ -31,7 +32,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "ElkePG_Skills_here"
       }
     ]
   },
@@ -50,7 +51,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "ElkeSG_Skills_here"
       },
       {
         "position": "SF",
@@ -59,7 +60,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "ElkeSF_Skills_here"
       },
       {
         "position": "PG",
@@ -68,7 +69,7 @@
         "skill": "N/A",
         "statsPositive": "+2 3pt +3 run",
         "statsNegative": "-5 contact",
-        "EliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "ElkePG_Skills_here"
       }
     ]
   }

@@ -1,6 +1,6 @@
 import "./CharacterPage.css";
 import React from "react";
-import List from "../components/list/List";
+import List from "../components/list/List.js";
 import positionsData from "../data/characterData/positions.json";
 
 function CharacterPage() {

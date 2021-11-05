@@ -1,41 +1,12 @@
 import "./CharacterDetailPage.css";
 import React from "react";
-import PositionDetail from "../components/positionDetail/PositionDetail";
 import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
 
-import characterData from "../data/characterData/characters.json";
+import positionsData from "../data/characterData/positions.json";
 
 function CharacterDetailPage() {
-
-  const detailCard = characterData.map((n) => {
-    if (n.selectedCharacter === "Elke") {
-      return n.characterPosition.map((characterPosition, i) => {
-                  console.log(characterPosition)
-        return (
-<PositionDetail
-            id={i}
-            position={characterPosition.position}
-            featureName={characterPosition.featureName}
-            featureDescription={characterPosition.featureDescription}
-            skill={characterPosition.skill}
-            statsPositive={characterPosition.statsPositive}
-            statsNegative={characterPosition.statsNegative}
-            eliteSkills={characterPosition.eliteSkills}
-
-
-
-          /> 
-        );
-      });
-    }
-    return null;
-  });
-
-
-
   return (
     <div>
-      <div>{detailCard}</div>
       <div className="details-container">
         <div id="details-navbar">NavBar</div>
         <div className="details-title">
@@ -46,7 +17,7 @@ function CharacterDetailPage() {
             <div id="details-TBD">TBD</div>
           </div>
         </div>
-{/* position card here */}
+
         <div className="details-position-info1">
           <div id="details-position-name">SG</div>
           <div>

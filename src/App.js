@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div>
     
-        <Route exact path="/" component={LandingPage}/>
+        <Route exact path="/" component={CharacterDetailPage}/>
         <Route path="/characters" component={CharacterPage}/>
         <Route path="/characters" component={CharacterDetailPage}/>
 
