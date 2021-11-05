@@ -22,7 +22,7 @@ function CharacterDetailPage() {
             statsNegative={characterPosition.statsNegative}
             eliteSkills={characterPosition.eliteSkills}
 
-
+// add 3 more json topics for evolve fate avatar, elite skills
 
           /> 
         );
