@@ -13,6 +13,8 @@ function ListItem(props) {
     id,
   } = props;
 
+
+  
   return (
     <div className="listItem" key={id}>
       <div className="characterTitle">{playerName}</div>

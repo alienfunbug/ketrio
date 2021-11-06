@@ -7,7 +7,7 @@ function CharacterPage() {
   const position = positionsData.map(({ position }, i) => {
     return (
       <div className="home-container"  key={i}>
-        <List  position={position}/>
+        <List  position={position} />
       </div>
     );
   });

@@ -30,10 +30,10 @@ function List(props) {
 
   const characterCard = positionData.map((n) => {
     if (n.position === position) {
-      return n.players.map((player, i) => {
+      return n.players.map((player, index) => {
         return (
           <ListItem
-            id={i}
+            key={index}
             playerName={player.name}
             playerImg={player.img}
             playerRating={player.rating}

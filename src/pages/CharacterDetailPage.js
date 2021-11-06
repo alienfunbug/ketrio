@@ -17,11 +17,11 @@ function CharacterDetailPage() {
 
   const detailCard = characterData.map((n) => {
     if (n.selectedCharacter === "Elke") {
-      return n.characterPosition.map((characterPosition, i) => {
+      return n.characterPosition.map((characterPosition, index) => {
 
         return (
 <PositionDetail
-            id={i}
+            key={index}
             position={characterPosition.position}
             featureName={characterPosition.featureName}
             featureDescription={characterPosition.featureDescription}
@@ -41,7 +41,6 @@ function CharacterDetailPage() {
 
 characterData.map((n) => {
     if (n.selectedCharacter === "Elke") {
-
       selectedCharacter = n.selectedCharacter 
       characterImage = n.characterImage
       rating = n.rating
