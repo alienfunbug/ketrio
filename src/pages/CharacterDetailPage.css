@@ -93,6 +93,8 @@
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
+
+
 .SF {
   grid-area: positionInfo1;
   background: rgb(40, 14, 156);
@@ -110,6 +112,73 @@
   padding: var(--main-padding);
 }
 
+.PF {
+  grid-area: positionInfo0;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+
+.C {
+  grid-area: positionInfo1;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.Center {
+  grid-area: positionInfo0;
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #f4a460 0%,
+    #434 100%
+  );
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.Point_Guard {
+  grid-area: positionInfo0;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.Shooting_Guard {
+  grid-area: positionInfo0;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.Power_Forward {
+  grid-area: positionInfo0;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
+
+.Small_Forward {
+  grid-area: positionInfo0;
+  background: rgb(155, 129, 72);
+  color: white;
+
+  border-radius: var(--main-radius);
+  padding: var(--main-padding);
+}
 
 .details-position-info-block {
   grid-area: positionInfoBlock;

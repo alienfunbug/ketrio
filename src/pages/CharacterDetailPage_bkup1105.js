@@ -7,16 +7,8 @@ import characterData from "../data/characterData/characters.json";
 
 function CharacterDetailPage() {
 
-
-  let selectedCharacter
-  let characterImage
-  let rating 
-  let cost
-  let TBD
-
-
   const detailCard = characterData.map((n) => {
-    if (n.selectedCharacter === "Elke") {
+    if (n.selectedCharacter === "Gori") {
       return n.characterPosition.map((characterPosition, i) => {
 
         return (
@@ -39,35 +31,73 @@ function CharacterDetailPage() {
     return null;
   });
 
-characterData.map((n) => {
-    if (n.selectedCharacter === "Elke") {
 
-      selectedCharacter = n.selectedCharacter 
-      characterImage = n.characterImage
-      rating = n.rating
-      cost = n.cost
-      TBD = n.TBD
-      
-    }
-
-  })
-  
- 
 
   return (
     <div>
+
+
       <div className="details-container">
         <div id="details-navbar">NavBar</div>
         <div className="details-title">
-          <span id="details-character-name">{selectedCharacter}</span>
+          <span id="details-character-name">Elke</span>
           <div className="details-title-info">
-            <div id="details-rating">{rating}</div>
-            <div id="details-cost">{cost}</div>
-            <div id="details-TBD">{TBD}</div>
+            <div id="details-rating">Rating 500</div>
+            <div id="details-cost">1 token / 500 shards</div>
+            <div id="details-TBD">TBD</div>
           </div>
         </div>
 
         <div className="details-position-info-block">{detailCard}</div>
+{/* position card here */}
+
+{/*
+        <div className="details-position-info1">
+          <div id="details-position-name">SG</div>
+          <div>
+            Reaper II: Fairly increases 3-pointer FG% when falling behind.
+            Effect cleared after regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-stats-positive">+2 3pt</span>
+            <span className="details-stats-positive">+3 Run</span>
+            <span className="details-stats-negative">-5 Contact</span>
+
+          </span>
+          <div className="details-fake-link">Elite Skills Link</div>
+        </div>
+        <div className="details-position-info2">
+          <div id="details-position-name">SF</div>
+          <div>
+            Reaper II: Fairly increase midshot resistance when falling behind.
+            Effect cleared after regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-stats-positive">+5 mid</span>
+            <span className="details-stats-negative">-5 Contact</span>
+          </span>
+          <div className="details-fake-link">Elite Skills Link</div>
+        </div>
+        <div className="details-position-info3">
+          <div id="details-position-name">PG</div>
+          <div>
+            Reaper II: Fairly increase intercept rate when falling behind.
+            Fairly increase midshot resistance when behind. Effect cleared after
+            regaining the lead.
+          </div>
+          <div>Skill: N/A</div>
+          <span className="details-statsHeader">Stats:</span>
+          <span className="details-stats">
+            <span className="details-stats-positive">+3 Steal</span>
+            <span className="details-stats-positive">+2 Run</span>
+            <span className="details-stats-negative">-5 Contact</span>
+          </span>
+          <div className="details-fake-link">Elite Skills Link</div>
+        </div> */}
 
         <div className="details-footer">
           <div id="details-evolve">
