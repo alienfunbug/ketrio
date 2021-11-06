@@ -1,7 +1,6 @@
 import {} from "@material-ui/icons";
 import React from "react";
 import "./ListItem.css";
-import { Link } from "react-router-dom";
 
 function ListItem(props) {
   const {
@@ -17,9 +16,6 @@ function ListItem(props) {
 
   
   return (
-    <Link to={`/characterDetailPage/`}>
- {/* <Link to={`/${profile.link}/`}> */}
-  
     <div className="listItem" key={id}>
       <div className="characterTitle">{playerName}</div>
       <img src={playerImg} alt="" />
@@ -36,7 +32,6 @@ function ListItem(props) {
         </div>
       </div>
     </div>
-    </Link>
   );
 }
 

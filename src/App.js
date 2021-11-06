@@ -12,7 +12,7 @@ function App() {
     
         <Route exact path="/" component={LandingPage}/>
         <Route path="/characters" component={CharacterPage}/>
-        <Route path="/characters" component={CharacterDetailPage}/>
+        <Route path="/characterDetailPage" component={CharacterDetailPage}/>
 
       </div>
     </Router>
