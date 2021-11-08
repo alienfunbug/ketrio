@@ -103,7 +103,7 @@ characterData.map((n) => {
 
         <div className="details-main">
           <img
-            src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/ranking_large_elke.PNG`}
+           src={characterImage}
             alt="no image here"
             className="img1"
           />

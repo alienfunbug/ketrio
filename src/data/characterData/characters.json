@@ -1,7 +1,7 @@
 [
   {
     "selectedCharacter": "Elke",
-    "characterImage": "IMAGEHERE",
+    "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
     "cost": "1 Token / 4700 Shards",
     "TBD": "TBD Blank",
@@ -39,7 +39,7 @@
 
   {
     "selectedCharacter": "Gori",
-    "characterImage": "IMAGEHERE",
+    "characterImage": "../assets/images/ranking_images/ranking_large_gori.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD Blank",

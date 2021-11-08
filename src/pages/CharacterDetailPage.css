@@ -27,7 +27,6 @@
   display: grid;
   min-height: 100vh;
 
-
   grid-gap: 0.3rem;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0.2fr 0.4fr 0.2fr 1fr 1fr 1fr 0.4fr;
@@ -94,7 +93,6 @@
   padding: var(--main-padding);
 }
 
-
 .SF {
   grid-area: positionInfo1;
   background: rgb(40, 14, 156);
@@ -120,7 +118,6 @@
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
-
 
 .C {
   grid-area: positionInfo1;
@@ -186,7 +183,6 @@
   color: white;
 
   border-radius: var(--main-radius);
-
 }
 
 .details-position-info0 {
@@ -289,16 +285,15 @@
   padding-top: var(--main-padding);
 }
 .details-main img {
-  height: 100%;
+  max-height: 100%;
   max-width: 100%;
   object-fit: cover;
   overflow: hidden;
+  margin-left: 1.5rem;
+  border-radius: 15px;
 }
 
 @media only screen and (max-width: 650px) {
-
-
-
   .details-container {
     height: 100vh;
     grid-template-columns: 1fr;
