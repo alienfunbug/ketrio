@@ -49,19 +49,19 @@ function List(props) {
 
   return (
     <div className="list-container">
-      <div className="title">{position}</div>
-      <div className="wrapper">
+      <div className="list-title">{position}</div>
+      <div className="list-wrapper">
         <ArrowBackIosOutlined
-          className="slider-arrow-left"
+          className="list-slider-arrow-left"
           onClick={() => clickHandler("left")}
           //style={{display: !isMoved && "none"}} slider
         />
 
-        <div className="container" ref={listReference}>
+        <div className="list-container" ref={listReference}>
           {characterCard}
         </div>
         <ArrowForwardIos
-          className="slider-arrow-right"
+          className="list-slider-arrow-right"
           onClick={() => clickHandler("right")}
         />
       </div>
