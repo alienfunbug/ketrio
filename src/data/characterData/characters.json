@@ -3,35 +3,35 @@
     "selectedCharacter": "Elke",
     "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
-    "cost": "1 Token / 4700 Shards",
-    "passive": "passive",
+    "cost": "1 Token or 4700 Shards",
+    "passive": "VARIES",
     "positionCount":3,
     "characterPosition": [
       {
         "position": "SG",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
+        "featureName": "Reaper II: ",
+        "featureDescription": "Fairly increase 3pt fg% while losing.",
         "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
+        "statsPositive": "+2 3pt Shot +3 Run",
+        "statsNegative": "-5 Contact",
         "eliteSkills": "ElkeSG_Skills_here"
       },
       {
         "position": "SF",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
+        "featureName": "Reaper I: ",
+        "featureDescription": "Fairly increase M.Shot while losing.",
         "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
+        "statsPositive": "+5 M.Shot",
+        "statsNegative": "-5 Contact",
         "eliteSkills": "ElkeSF_Skills_here"
       },
       {
         "position": "PG",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
+        "featureName": "Reaper III: ",
+        "featureDescription": "Fairly increase Interception rate while losing.",
         "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
+        "statsPositive": "+3 Steal +2 Run",
+        "statsNegative": "-5 Contact",
         "eliteSkills": "ElkePG_Skills_here"
       }
     ]
@@ -47,9 +47,9 @@
       {
         "position": "Center",
         "featureName": "Monkey King: ",
-        "featureDescription": "Increase distance for Chasedown Blocks",
-        "skill": "Swat",
-        "skillDescription":"Increase distance for Chasedown Blocks",
+        "featureDescription": "Ball can't be stolen for 1.5 seconds after rebound",
+        "skill": "Increase Chasedown Block distance.",
+        "skillDescription":"Increase distance for Chasedown Blocks.",
         "statsPositive": "+10 Rebound +20 Contact",
         "statsNegative": "-20 3pt Shot",
         "eliteSkills": "Gori Elite Skills Here"
