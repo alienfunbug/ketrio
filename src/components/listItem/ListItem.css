@@ -1,4 +1,4 @@
-.listItem {
+.list-item {
   width: var(--tileWidth);
   height: var(--tileHeight);
 
@@ -11,26 +11,26 @@
   transition: all 0.3s ease-in-out;
 }
 
-.listItem > img {
+.list-item > img {
   object-fit: cover;
   width: 97%;
   height: 140%;
   border: 5px solid transparent;
 }
 
-.listItem:hover {
+.list-item:hover {
   width: 245px;
   height: 260px;
   border: 5px solid white;
   margin-top: -15px;
 }
 
-.listItem:hover > img {
+.list-item:hover > img {
   height: 210px;
   transition: all 0.3s ease;
 }
 
-.listItem > .characterTitle {
+.list-item > .list-item-characterTitle {
   position: absolute;
   top: 6px;
   left: 10px;
@@ -41,7 +41,7 @@
   text-shadow: 1px 1px 0 rgb(180, 180, 180);
 }
 
-.characterInfo {
+.list-item-characterInfo {
   display: flex;
 
   padding: 5px;
@@ -52,13 +52,13 @@
   font-weight: 400;
 }
 
-.positionInfo {
+.list-item-positionInfo {
   display: flex;
   margin-bottom: 5px;
 }
-.position1,
-.position2,
-.position3 {
+.list-item-position1,
+.list-item-position2,
+.list-item-position3 {
   border-radius: 100%;
   width: 17px;
   height: 17px;
@@ -69,5 +69,5 @@
   background-color: var(--default-gray);
 }
 
-.listItem > .rating {
+.list-item > .list-item-rating {
 }

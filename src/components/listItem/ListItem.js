@@ -25,18 +25,18 @@ function ListItem(props) {
       }}
       style={{ textDecoration: 'none' }}
     >
-      <div className="listItem" key={id}>
-        <div className="characterTitle">{playerName}</div>
+      <div className="list-item" key={id}>
+        <div className="list-item-characterTitle">{playerName}</div>
         <img src={playerImg} alt="" />
         <div className="SEPARATOR-CONTAINER-HERE">
-          <div className="characterInfo">
-            <div className="ratingInfo">
-              <span className="rating">{playerRating}</span>
+          <div className="list-item-characterInfo">
+            <div className="list-item-ratingInfo">
+              <span className="list-item-rating">{playerRating}</span>
             </div>
-            <div className="positionInfo">
-              <span className="position1">{playerPosition1}</span>
-              <span className="position2">{playerPosition2}</span>
-              <span className="position3">{playerPosition3}</span>
+            <div className="list-item-positionInfo">
+              <span className="list-item-position1">{playerPosition1}</span>
+              <span className="list-item-position2">{playerPosition2}</span>
+              <span className="list-item-position3">{playerPosition3}</span>
             </div>
           </div>
         </div>
