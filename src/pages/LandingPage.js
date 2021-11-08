@@ -7,16 +7,16 @@ import { Link } from "react-router-dom";
 function LandingPage() {
   return (
     <div className="landing-container">
-      <div className="content">
-        <span className="title"> Welcome Ballers...</span>
-        <div className="profiles">
+      <div className="landing-content">
+        <span className="landing-title"> Welcome Ballers...</span>
+        <div className="landing-profiles">
           {profiles.map((profile, index) => (
-            <div className="profile" key={index}>
+            <div className="landing-profile" key={index}>
               <Link to={`/${profile.link}/`}>
-                <img className="image" src={profile.image_src} />
+                <img className="landing-image" src={profile.image_src} />
               </Link>
 
-              <span className="display">{profile.display}</span>
+              <span className="landing-display">{profile.display}</span>
             </div>
           ))}
         </div>

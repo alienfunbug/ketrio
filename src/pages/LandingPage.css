@@ -2,7 +2,7 @@
   font-family: Roboto;
 }
 
-.content {
+.landing-content {
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -10,21 +10,21 @@
   align-items: center;
 }
 
-.title {
+.landing-title {
   color: white;
   font-family: inherit;
   font-size: 68px;
   user-select: none;
 }
 
-.profiles {
+.landing-profiles {
   display: flex;
   /*
     flex-wrap: row wrap;
   justify-content: space-around;
   */
 }
-.profile {
+.landing-profile {
   display: flex;
   flex-direction: column;
   margin: 0px 25px;
@@ -32,26 +32,26 @@
   margin-bottom: 80px;
 }
 
-.profile:first-child {
+.landing-profile:first-child {
   margin-left: 0px;
 }
-.profile:last-child {
+.landing-profile:last-child {
   margin-right: 0px;
 }
 
-.profile:hover {
+.landing-profile:hover {
   cursor: pointer;
 }
 
-.profile:hover .display {
+.landing-profile:hover .landing-display {
   color: rgb(220, 220, 220);
 }
 
-.profile:hover .image {
+.landing-profile:hover .landing-image {
   border: 5px solid white;
 }
 
-.profile .image {
+.landing-profile .landing-image {
   margin-bottom: 15px;
   object-fit: cover;
   width: 200px;
@@ -59,7 +59,7 @@
   border: 5px solid transparent;
 }
 
-.profile .display {
+.landing-profile .landing-display {
   color: var(--default-gray);
   text-align: center;
   font-size: 22px;
@@ -68,13 +68,13 @@
 @media only screen and (max-width: 650px) {
  
  
-  .title {
+  .landing-title {
     text-align: center;
     font-size: 2em;
     padding: 10px;
     margin-top: -20px;
   }
-  .content {
+  .landing-content {
    width: 100vw;
     height: 90vh;
     display: flex;
@@ -84,7 +84,7 @@
     align-items: center;
   }
 
-  .profiles {
+  .landing-profiles {
     width: 75vw;
     display: flex;
     flex-wrap: wrap;
@@ -93,7 +93,7 @@
     padding: 30px;
   }
 
-  .profile {
+  .landing-profile {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -101,7 +101,7 @@
   
     margin: 10px 0px;
   }
-  .profile .image {
+  .landing-profile .landing-image {
     margin-bottom: 5px;
     object-fit: cover;
     width: 100px;
@@ -109,7 +109,7 @@
     border: 5px solid transparent;
   }
 
-  .profile .display {
+  .landing-profile .landing-display {
     color: var(--default-gray);
     text-align: center;
     font-size: 18px;

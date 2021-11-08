@@ -4,7 +4,7 @@
     "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
     "cost": "1 Token / 4700 Shards",
-    "TBD": "TBD Blank",
+    "passive": "passive",
     "positionCount":3,
     "characterPosition": [
       {
@@ -42,16 +42,17 @@
     "characterImage": "../assets/images/ranking_images/ranking_large_gori.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
-    "TBD": "TBD Blank",
+    "passive": "Reb.Cont +15%",
     "characterPosition": [
       {
         "position": "Center",
-        "featureName": "Reaper ??",
-        "featureDescription": "fairly increase 3pt and other stuff",
-        "skill": "N/A",
-        "statsPositive": "+2 3pt +3 run",
-        "statsNegative": "-5 contact",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "featureName": "Monkey King: ",
+        "featureDescription": "Increase distance for Chasedown Blocks",
+        "skill": "Swat",
+        "skillDescription":"Increase distance for Chasedown Blocks",
+        "statsPositive": "+10 Rebound +20 Contact",
+        "statsNegative": "-20 3pt Shot",
+        "eliteSkills": "Gori Elite Skills Here"
       }
     ]
   }

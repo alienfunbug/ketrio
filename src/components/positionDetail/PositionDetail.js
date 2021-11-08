@@ -8,6 +8,7 @@ function PositionDetail(props) {
     featureName,
     featureDescription,
     skill,
+    skillDescription,
     statsPositive,
     statsNegative,
     eliteSkills,
@@ -15,31 +16,24 @@ function PositionDetail(props) {
   } = props;
 
   return (
-
-<div className={`details-position-info${id}`} key={id}>
-    <div className={position}>
-    <div id="details-position-name">{position}</div>
-    <div>
-      <span /*PUT STUFF HERE */>{featureName}</span>
-      <span /*PUT STUFF HERE */>{featureDescription}</span>
-    </div>
-    <div>
-        <span /*PUT STUFF HERE */>SKILL:</span>
-      <span /*PUT STUFF HERE */>{skill} </span>
-    </div>
-    <span className="details-statsHeader">Stats:</span>
-    <span className="details-stats">
-      <span className="details-stats-positive">{statsPositive}</span>
-      <span className="details-stats-negative">{statsNegative}</span>
-    </span>
-    <div className="details-fake-link">{eliteSkills}</div>
-  </div>
-
-
-
-
-
-
+    <div className={`details-position-info${id}`} key={id}>
+      <div className={position}>
+        <div id="details-position-name">{position}</div>
+        <div>
+          <span /*PUT STUFF HERE */>{featureName}</span>
+          <span /*PUT STUFF HERE */>{featureDescription}</span>
+        </div>
+        <div>
+          <span /*PUT STUFF HERE */>Skill: </span>
+          <span /*PUT STUFF HERE */>{skill} </span>
+        </div>
+        <span className="details-statsHeader">Stats:</span>
+        <span className="details-stats">
+          <span className="details-stats-positive">{statsPositive}</span>
+          <span className="details-stats-negative">{statsNegative}</span>
+        </span>
+        <div className="details-fake-link"> {eliteSkills}</div>
+      </div>
     </div>
   );
 }

@@ -71,7 +71,7 @@
 
 /*elite skills link*/
 .details-fake-link {
-  text-shadow: 1px 1px grey;
+  text-shadow: 1px 1px rgb(128, 128, 128);
 }
 
 .details-title-info {
@@ -214,13 +214,12 @@
 }
 .details-stats-positive {
   color: #00ffff;
-
-  padding: 10px;
+  margin-left: 10px;
 }
 
 .details-stats-negative {
   color: #f41919;
-  padding: 10px;
+  margin-left: 5px;
 }
 
 #details-rating {

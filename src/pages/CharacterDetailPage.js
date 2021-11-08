@@ -6,28 +6,24 @@ import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
 import characterData from "../data/characterData/characters.json";
 
 function CharacterDetailPage(props) {
+  console.log(props.match.params.char);
 
-  console.log(props.match.params.char)
-  
+  const playerNameProp = props.match.params.char;
 
-  const playerNameProp = props.match.params.char
+  let selectedCharacter;
+  let characterImage;
+  let rating;
+  let cost;
+  let passive;
 
-  let selectedCharacter
-  let characterImage
-  let rating 
-  let cost
-  let TBD
-
-  console.log(playerNameProp)
-
+  console.log(playerNameProp);
 
   const detailCard = characterData.map((n) => {
     if (n.selectedCharacter === playerNameProp) {
       return n.characterPosition.map((characterPosition, index) => {
-
         return (
-<PositionDetail
-            key={index}
+          <PositionDetail
+            id={index}
             position={characterPosition.position}
             featureName={characterPosition.featureName}
             featureDescription={characterPosition.featureDescription}
@@ -35,29 +31,25 @@ function CharacterDetailPage(props) {
             statsPositive={characterPosition.statsPositive}
             statsNegative={characterPosition.statsNegative}
             eliteSkills={characterPosition.eliteSkills}
+            key={index}
 
-// add 3 more json topics for evolve fate avatar, elite skills
-
-          /> 
+            // add 3 more json topics for evolve fate avatar, elite skills
+          />
         );
       });
     }
     return null;
   });
 
-characterData.map((n) => {
+  characterData.map((n) => {
     if (n.selectedCharacter === playerNameProp) {
-      selectedCharacter = n.selectedCharacter 
-      characterImage = n.characterImage
-      rating = n.rating
-      cost = n.cost
-      TBD = n.TBD
-      
+      selectedCharacter = n.selectedCharacter;
+      characterImage = n.characterImage;
+      rating = n.rating;
+      cost = n.cost;
+      passive = n.passive;
     }
-
-  })
-  
- 
+  });
 
   return (
     <div>
@@ -68,7 +60,7 @@ characterData.map((n) => {
           <div className="details-title-info">
             <div id="details-rating">{rating}</div>
             <div id="details-cost">{cost}</div>
-            <div id="details-TBD">{TBD}</div>
+            <div id="details-TBD">{passive}</div>
           </div>
         </div>
 
@@ -102,7 +94,7 @@ characterData.map((n) => {
         </div>
 
         <div className="details-main">
-          <img
+        <img
            src={characterImage}
             alt="no image here"
             className="img1"

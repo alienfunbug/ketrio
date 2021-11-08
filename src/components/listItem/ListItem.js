@@ -14,7 +14,7 @@ function ListItem(props) {
     playerPosition1,
     playerPosition2,
     playerPosition3,
-    key,
+    id,
   } = props;
 
   return (
@@ -25,7 +25,7 @@ function ListItem(props) {
       }}
       style={{ textDecoration: 'none' }}
     >
-      <div className="listItem" key={key}>
+      <div className="listItem" key={id}>
         <div className="characterTitle">{playerName}</div>
         <img src={playerImg} alt="" />
         <div className="SEPARATOR-CONTAINER-HERE">
