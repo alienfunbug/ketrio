@@ -23,7 +23,7 @@ function ListItem(props) {
         pathname: `/characterDetailPage/${playerName}`,
         state: { playerNameProp: `${playerName}` }
       }}
- 
+      style={{ textDecoration: 'none' }}
     >
       <div className="listItem" key={key}>
         <div className="characterTitle">{playerName}</div>
