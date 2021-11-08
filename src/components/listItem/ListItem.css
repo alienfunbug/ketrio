@@ -25,11 +25,13 @@
   border: 5px solid white;
   margin-top: -15px;
 
+
 }
 
 .listItem:hover > img {
   height: 210px;
   transition: all .3s ease;
+  
 }
 
 .listItem > .characterTitle {

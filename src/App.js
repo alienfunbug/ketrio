@@ -10,9 +10,9 @@ function App() {
     <Router>
       <div>
     
-        <Route exact path="/" component={LandingPage}/>
-        <Route path="/characters" component={CharacterPage}/>
-        <Route path="/characterDetailPage" component={CharacterDetailPage}/>
+        <Route exact path='/' component={LandingPage}/>
+        <Route path='/characters' component={CharacterPage}/>
+        <Route exact path={'/characterDetailPage/:char'} component={CharacterDetailPage}/>
 
       </div>
     </Router>

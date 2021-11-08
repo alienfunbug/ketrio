@@ -5,8 +5,12 @@ import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
 
 import characterData from "../data/characterData/characters.json";
 
-function CharacterDetailPage() {
+function CharacterDetailPage(props) {
 
+  console.log(props.match.params.char)
+  
+
+  const playerNameProp = props.match.params.char
 
   let selectedCharacter
   let characterImage
@@ -14,9 +18,11 @@ function CharacterDetailPage() {
   let cost
   let TBD
 
+  console.log(playerNameProp)
+
 
   const detailCard = characterData.map((n) => {
-    if (n.selectedCharacter === "Elke") {
+    if (n.selectedCharacter === playerNameProp) {
       return n.characterPosition.map((characterPosition, index) => {
 
         return (
@@ -40,7 +46,7 @@ function CharacterDetailPage() {
   });
 
 characterData.map((n) => {
-    if (n.selectedCharacter === "Elke") {
+    if (n.selectedCharacter === playerNameProp) {
       selectedCharacter = n.selectedCharacter 
       characterImage = n.characterImage
       rating = n.rating

@@ -1,7 +1,8 @@
 import {} from "@material-ui/icons";
 import React from "react";
 import "./ListItem.css";
-
+/* working character component page without link or pass through.
+ */
 function ListItem(props) {
   const {
     playerName,

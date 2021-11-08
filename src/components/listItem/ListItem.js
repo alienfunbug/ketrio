@@ -3,6 +3,9 @@ import React from "react";
 import "./ListItem.css";
 import { Link } from "react-router-dom";
 
+/* version with working link to default characterdetail page when clicking any character component
+ */
+
 function ListItem(props) {
   const {
     playerName,
@@ -11,31 +14,33 @@ function ListItem(props) {
     playerPosition1,
     playerPosition2,
     playerPosition3,
-    id,
+    key,
   } = props;
 
-
-  
   return (
-    <Link to={`/characterDetailPage/`}>
- {/* <Link to={`/${profile.link}/`}> */}
-  
-    <div className="listItem" key={id}>
-      <div className="characterTitle">{playerName}</div>
-      <img src={playerImg} alt="" />
-      <div className="SEPARATOR-CONTAINER-HERE">
-        <div className="characterInfo">
-          <div className="ratingInfo">
-            <span className="rating">{playerRating}</span>
-          </div>
-          <div className="positionInfo">
-            <span className="position1">{playerPosition1}</span>
-            <span className="position2">{playerPosition2}</span>
-            <span className="position3">{playerPosition3}</span>
+    <Link
+      to={{
+        pathname: `/characterDetailPage/${playerName}`,
+        state: { playerNameProp: `${playerName}` }
+      }}
+ 
+    >
+      <div className="listItem" key={key}>
+        <div className="characterTitle">{playerName}</div>
+        <img src={playerImg} alt="" />
+        <div className="SEPARATOR-CONTAINER-HERE">
+          <div className="characterInfo">
+            <div className="ratingInfo">
+              <span className="rating">{playerRating}</span>
+            </div>
+            <div className="positionInfo">
+              <span className="position1">{playerPosition1}</span>
+              <span className="position2">{playerPosition2}</span>
+              <span className="position3">{playerPosition3}</span>
+            </div>
           </div>
         </div>
       </div>
-    </div>
     </Link>
   );
 }
