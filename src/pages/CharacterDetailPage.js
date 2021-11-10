@@ -14,7 +14,7 @@ function CharacterDetailPage(props) {
   let characterImage;
   let rating;
   let cost;
-  let passive;
+  let TBD;
 
   console.log(playerNameProp);
 
@@ -31,6 +31,7 @@ function CharacterDetailPage(props) {
             statsPositive={characterPosition.statsPositive}
             statsNegative={characterPosition.statsNegative}
             eliteSkills={characterPosition.eliteSkills}
+            passive={characterPosition.passive}
             key={index}
 
             // add 3 more json topics for evolve fate avatar, elite skills
@@ -47,7 +48,7 @@ function CharacterDetailPage(props) {
       characterImage = n.characterImage;
       rating = n.rating;
       cost = n.cost;
-      passive = n.passive;
+      TBD = n.TBD;
     }
   });
 
@@ -60,7 +61,7 @@ function CharacterDetailPage(props) {
           <div className="details-title-info">
             <div id="details-rating">{rating}</div>
             <div id="details-cost">{cost}</div>
-            <div id="details-TBD">{passive}</div>
+            <div id="details-TBD">{TBD}</div>
           </div>
         </div>
 
@@ -84,7 +85,7 @@ function CharacterDetailPage(props) {
             />
           </div>
           <div id="details-avatar">
-            <p>Avatar</p>
+            <p>Highlights</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"
@@ -94,11 +95,7 @@ function CharacterDetailPage(props) {
         </div>
 
         <div className="details-main">
-        <img
-           src={characterImage}
-            alt="no image here"
-            className="img1"
-          />
+          <img src={characterImage} alt="no image here" className="img1" />
         </div>
       </div>
     </div>

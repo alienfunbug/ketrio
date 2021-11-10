@@ -11,6 +11,7 @@ function PositionDetail(props) {
     skillDescription,
     statsPositive,
     statsNegative,
+    passive,
     eliteSkills,
     id,
   } = props;
@@ -32,6 +33,10 @@ function PositionDetail(props) {
           <span className="details-stats-positive">{statsPositive}</span>
           <span className="details-stats-negative">{statsNegative}</span>
         </span>
+        <div>
+          <span /*PUT STUFF HERE */>Passive: </span>
+          <span /*PUT STUFF HERE */>{passive} </span>
+        </div>
         <div className="details-fake-link"> {eliteSkills}</div>
       </div>
     </div>

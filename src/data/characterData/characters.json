@@ -4,16 +4,17 @@
     "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
     "cost": "1 Token or 4700 Shards",
-    "passive": "VARIES",
+    "TBD": "TBD",
     "positionCount":3,
     "characterPosition": [
       {
         "position": "SG",
         "featureName": "Reaper II: ",
         "featureDescription": "Fairly increase 3pt fg% while losing.",
-        "skill": "N/A",
+        "skill": "None",
         "statsPositive": "+2 3pt Shot +3 Run",
         "statsNegative": "-5 Contact",
+        "passive": "+15% Reb.Cont",
         "eliteSkills": "ElkeSG_Skills_here"
       },
       {
@@ -23,6 +24,7 @@
         "skill": "N/A",
         "statsPositive": "+5 M.Shot",
         "statsNegative": "-5 Contact",
+        "passive": "+15% Reb.Cont",
         "eliteSkills": "ElkeSF_Skills_here"
       },
       {
@@ -32,6 +34,7 @@
         "skill": "N/A",
         "statsPositive": "+3 Steal +2 Run",
         "statsNegative": "-5 Contact",
+        "passive": "+15% Reb.Cont",
         "eliteSkills": "ElkePG_Skills_here"
       }
     ]
@@ -42,7 +45,7 @@
     "characterImage": "../assets/images/ranking_images/ranking_large_gori.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
-    "passive": "Reb.Cont +15%",
+    "TBD": "Reb.Cont +15%",
     "characterPosition": [
       {
         "position": "Center",
@@ -52,6 +55,7 @@
         "skillDescription":"Increase distance for Chasedown Blocks.",
         "statsPositive": "+10 Rebound +20 Contact",
         "statsNegative": "-20 3pt Shot",
+        "passive": "+15% Reb.Cont",
         "eliteSkills": "Gori Elite Skills Here"
       }
     ]

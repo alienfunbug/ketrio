@@ -4,7 +4,7 @@
   margin-left: 20px;
 }
 
-.list-container > .list-wrapper::-webkit-scrollbar {
+.list-container > .list-wrapper::-webkit-scrollbar{
   display: none;
 }
 
@@ -39,12 +39,11 @@
 .list-container > .list-wrapper > .list-slider-arrow-left {
   width: 50px;
   height: 100%;
-  height: 100%;
   color: white;
   background-color: rgb(15, 15, 15, 0.5);
   position: absolute;
-  left: 0;
   z-index: 99;
+  left: 0;
   top: 0;
   bottom: 0;
   cursor: pointer;
@@ -54,7 +53,7 @@
   display: flex;
   width: max-content;
   margin-left: 50px;
-  transform: translateX(00px);
+  transform: translateX(0px);
   transition: all 0.5s ease;
   padding-top: 15px;
 }
@@ -63,7 +62,7 @@
   .list-container > .list-wrapper > .list-slider-arrow-left {
     display: none;
   }
-  .list-container > .list-wrapper > .list-lider-arrow-right {
+  .list-container > .list-wrapper > .list-slider-arrow-right {
     display: none;
   }
 }
