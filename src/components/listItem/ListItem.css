@@ -19,7 +19,6 @@
 }
 
 .list-item:hover {
-  
   width: 245px;
   height: 260px;
   border: 5px solid white;
@@ -74,7 +73,7 @@
 }
 
 
-@media screen and (max-width: 1020px) {
+@media only screen and (max-width: 1020px) {
   .list-item {
     width: 125px;
     height: 110px;
@@ -95,6 +94,27 @@
     border: 5px solid transparent;
   }
   
+  
+.list-item:hover {
+  width: 125px;
+  height: 110px;
+
+  background-color: #2f4353;
+  background-image: linear-gradient(90deg, #2f4353 0%, #d2ccc4 94%);
+  margin-right: 10px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.list-item:hover > img {
+  object-fit: cover;
+  width: 97%;
+  height: 140%;
+  border: 5px solid transparent;
+}
+
 
   .list-item > .list-item-characterTitle {
     position: absolute;
