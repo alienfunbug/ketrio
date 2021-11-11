@@ -265,185 +265,7 @@
       }
     ]
   },
-  {
-    "position": "Small Forwards",
-    "players": [
-      {
-        "name": "Antony",
-        "img": "../assets/images/portraits/Antony_full.PNG",
-        "rating": "Rating 400",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
 
-      {
-        "name": "Avis",
-        "img": "../assets/images/portraits/Avis_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Kobe",
-        "img": "../assets/images/portraits/Kobe_full.PNG",
-        "rating": "Rating 300",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": null
-      },
-
-      {
-        "name": "Colonel",
-        "img": "../assets/images/portraits/Colonel_full.PNG",
-        "rating": "Rating 300",
-        "position1": "SF",
-        "position2": "PF",
-        "position3": null
-      },
-
-      {
-        "name": "Diana",
-        "img": "../assets/images/portraits/Diana_full.PNG",
-        "rating": "Rating 400",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": null
-      },
-      {
-        "name": "Elke",
-        "img": "../assets/images/portraits/Elke_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Hong",
-        "img": "../assets/images/portraits/Hong_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "PF",
-        "position3": null
-      },
-
-      {
-        "name": "Jamie",
-        "img": "../assets/images/portraits/Jamie_full.PNG",
-        "rating": "Rating 150",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": null
-      },
-
-      {
-        "name": "Kai",
-        "img": "../assets/images/portraits/Kai_full.PNG",
-        "rating": "Rating 300",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Lana",
-        "img": "../assets/images/portraits/Lana_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Lora",
-        "img": "../assets/images/portraits/Lora_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Lorsha",
-        "img": "../assets/images/portraits/Lorsha_full.PNG",
-        "rating": "Rating 300",
-        "position1": "SF",
-        "position2": "PF",
-        "position3": null
-      },
-      {
-        "name": "Lumi",
-        "img": "../assets/images/portraits/Lumi_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "MZ",
-        "img": "../assets/images/portraits/MZ_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
-
-      {
-        "name": "Mac",
-        "img": "../assets/images/portraits/Mac_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": null,
-        "position3": null
-      },
-
-      {
-        "name": "Mai",
-        "img": "../assets/images/portraits/Mai_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": null,
-        "position3": null
-      },
-      {
-        "name": "Maple",
-        "img": "../assets/images/portraits/Maple_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": null
-      },
-      {
-        "name": "Motizuki",
-        "img": "../assets/images/portraits/Motizuki_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
-      {
-        "name": "Sophia",
-        "img": "../assets/images/portraits/Sophia_full.PNG",
-        "rating": "Rating 400",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      },
-
-      {
-        "name": "Victor",
-        "img": "../assets/images/portraits/Victor_full.PNG",
-        "rating": "Rating 400",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": "PG"
-      }
-    ]
-  },
   {
     "position": "Power Forwards",
     "players": [
@@ -624,6 +446,185 @@
         "position1": "PF",
         "position2": "C",
         "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Small Forwards",
+    "players": [
+      {
+        "name": "Antony",
+        "img": "../assets/images/portraits/Antony_full.PNG",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Avis",
+        "img": "../assets/images/portraits/Avis_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.PNG",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Colonel",
+        "img": "../assets/images/portraits/Colonel_full.PNG",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+
+      {
+        "name": "Diana",
+        "img": "../assets/images/portraits/Diana_full.PNG",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Elke",
+        "img": "../assets/images/portraits/Elke_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Hong",
+        "img": "../assets/images/portraits/Hong_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+
+      {
+        "name": "Jamie",
+        "img": "../assets/images/portraits/Jamie_full.PNG",
+        "rating": "Rating 150",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Kai",
+        "img": "../assets/images/portraits/Kai_full.PNG",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Lana",
+        "img": "../assets/images/portraits/Lana_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Lora",
+        "img": "../assets/images/portraits/Lora_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Lorsha",
+        "img": "../assets/images/portraits/Lorsha_full.PNG",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Lumi",
+        "img": "../assets/images/portraits/Lumi_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "MZ",
+        "img": "../assets/images/portraits/MZ_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+
+      {
+        "name": "Mac",
+        "img": "../assets/images/portraits/Mac_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Mai",
+        "img": "../assets/images/portraits/Mai_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Maple",
+        "img": "../assets/images/portraits/Maple_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Motizuki",
+        "img": "../assets/images/portraits/Motizuki_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+      {
+        "name": "Sophia",
+        "img": "../assets/images/portraits/Sophia_full.PNG",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Victor",
+        "img": "../assets/images/portraits/Victor_full.PNG",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
       }
     ]
   },
