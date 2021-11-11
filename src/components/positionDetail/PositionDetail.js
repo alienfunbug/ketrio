@@ -11,6 +11,7 @@ function PositionDetail(props) {
     skillDescription,
     statsPositive,
     statsNegative,
+    statsNeutral,
     passive,
     eliteSkills,
     id,
@@ -26,10 +27,11 @@ function PositionDetail(props) {
         </div>
         <div>
           <span /*PUT STUFF HERE */>Skill: </span>
-          <span /*PUT STUFF HERE */>{skill} </span>
+          <span /*PUT STUFF HERE */>{skillDescription}</span>
         </div>
         <span className="details-statsHeader">Stats:</span>
         <span className="details-stats">
+          <span className="details-stats-neutral">{statsNeutral}</span>
           <span className="details-stats-positive">{statsPositive}</span>
           <span className="details-stats-negative">{statsNegative}</span>
         </span>

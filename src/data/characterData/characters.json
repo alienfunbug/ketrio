@@ -1,63 +1,1799 @@
 [
   {
+    "selectedCharacter": "Taylor",
+    "characterImage": "../assets/images/ranking_images/ranking_large_taylor.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PF",
+        "featureName": "Scarlet I: ",
+        "featureDescription": "While losing, a successful Block MARGINALLY increases Block Range and Height. Stacks (2x).",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Block Rate",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "C",
+        "featureName": "Scarlet II: ",
+        "featureDescription": "After a shot, MARGINALLY increase Speed towards basket and SLIGHTLY decrease Stamina Cost until a player grabs rebound.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+8.5% Reb.Cont.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Max",
+    "characterImage": "../assets/images/ranking_images/ranking_large_max.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Mask I: ",
+        "featureDescription": "Superior Box Out Position MARGINALLY increases Box Out Contact.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Mask II: ",
+        "featureDescription": "Successfully interrupting a shot MARGINALLY increases Rebound Height/Range and Speed for 4s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+8.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Hayes",
+    "characterImage": "../assets/images/ranking_images/ranking_large_hayes.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Charm I:",
+        "featureDescription": "MARGINALLY decrease opponents Dunk Rate and L/D FG% for 5s after staying in opponents Interruption Zone for 1s in paint.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Viking II:",
+        "featureDescription": "After receiving a pass in midrange MARGINALLY increases Dunk Rate, L/D range, and Contact for 5s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+8.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Johnson",
+    "characterImage": "../assets/images/ranking_images/ranking_large_johnson.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Armstrong I: ",
+        "featureDescription": "After a shot, SLIGHTLY increase Speed towards basket and SLIGHTLY decrease Stamina Cost until a player grabs rebound.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Armstrong II: ",
+        "featureDescription": "While losing, successful block SLIGHTLY increases Block Range and Height. Stacks (2x).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Min-Jun",
+    "characterImage": "../assets/images/ranking_images/ranking_large_min-jun.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Bigbang I: ",
+        "featureDescription": "Superior Box Out position FAIRLY increases Box Out Contact.",
+        "skill": "None",
+        "statsPositive": "+5 Contact",
+        "statsNegative": "-5 Control",
+        "statsNeutral": "",
+        "passive": "+13.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Bigbang II: ",
+        "featureDescription": "Successfully interrupting a shot SLIGHTLY increases Rebound Height/Range and Speed for 4s.",
+        "skill": "N/A",
+        "statsPositive": "+5 Rebound",
+        "statsNegative": "-5 Steal",
+        "statsNeutral": "N/A",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Cyborg T",
+    "characterImage": "../assets/images/ranking_images/ranking_large_cyborgt.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Cyborg I: ",
+        "featureDescription": "SLIGHTLY increase Rebound Height and Contact after a failed rebound. Stacks (3x). Clears after successful rebound.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Cyborg II: ",
+        "featureDescription": "After a shot, dash to SLIGHTLY increase Rebound Range, Height, and Contact until a player grabs rebound.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Shalice",
+    "characterImage": "../assets/images/ranking_images/ranking_large_shalice.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Agent I: ",
+        "featureDescription": "After a successful block, MARGINALLY decrease all oponents FG/Dunk Rates until someone scores.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Agent II: ",
+        "featureDescription": "FAIRLY increase Block Range and Height for 3.5s after using dash.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Harley",
+    "characterImage": "../assets/images/ranking_images/ranking_large_harley.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Lime I: ",
+        "featureDescription": "After a rebound, SLIGHTY increase all teammates' Steal Rate/Steal Resist for 8 seconds.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Lime II: ",
+        "featureDescription": "SLIGHTLY increase Block Rate/Range when under the basket, and MARGINALLY increase Speed.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Harmen",
+    "characterImage": "../assets/images/ranking_images/ranking_large_harmen.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Doom I: ",
+        "featureDescription": "While losing, increase Rebound Stat +30 and FAIRLY increase Rebound Height.",
+        "skill": "None",
+        "statsPositive": "+7 Rebound",
+        "statsNegative": "-7 Control",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Doom II: ",
+        "featureDescription": "While losing, increase Block Stat +30 and FAIRLY increase Block Rate.",
+        "skill": "N/A",
+        "statsPositive": "+7 Block",
+        "statsNegative": "-7 Pass",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Falco",
+    "characterImage": "../assets/images/ranking_images/ranking_large_falco.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Egyptian I: ",
+        "featureDescription": "FAIRLY increase Inside Shot FG%/Resistance after scoring. Stacks (2x). Clears after 3 point lead.",
+        "skill": "None",
+        "statsPositive": "+5 Rebound +5 L/D",
+        "statsNegative": "-10 M.Shot",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Egyptian II: ",
+        "featureDescription": "On Defense, FAIRLY increase Block Distance and Height in midrange area. SLIGHTLY lower Stamina Consumption.",
+        "skill": "N/A",
+        "statsPositive": "+5 Block",
+        "statsNegative": "-5 M.Shot",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Nova",
+    "characterImage": "../assets/images/ranking_images/ranking_large_nova.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Nova I: ",
+        "featureDescription": "After a Rebound, FAIRLY increase all teammates' Steal Rate/Steal Resist for 8 seconds.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Nova II: ",
+        "featureDescription": "FAIRLY increase Block Rate/Range when under the basket, and MARGINALLY increase Speed.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "MZ",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mz.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Cloud I: ",
+        "featureDescription": "FAIRLY increase Rebound Height and Contact after a failed rebound. Stacks (3x). Clears after successful rebound.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Cloud II: ",
+        "featureDescription": "After a shot, dash to FAIRLY increase Rebound Range, Height, and Contact until a player grabs rebound.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Cloud III: ",
+        "featureDescription": "After successful mid shot, FAIRLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Resist",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Raven",
+    "characterImage": "../assets/images/ranking_images/ranking_large_raven.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Death I: ",
+        "featureDescription": "Gives advantage in Box Out. FAIRLY increases Box Out Contact.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Death II: ",
+        "featureDescription": "Successfully interrupting a shot FAIRLY increases Rebound Height/Range and Speed for 4s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Motizuki",
+    "characterImage": "../assets/images/ranking_images/ranking_large_motizuki.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Ninja I: ",
+        "featureDescription": "After a shot, FAIRLY increase Speed towards basket and FAIRLY decrease Stamina Cost until a player grabs rebound.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Ninja II: ",
+        "featureDescription": "While losing, a successful block FAIRLY increases Block Range and Height. Stacks (2x).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Ninja III: ",
+        "featureDescription": "FAIRLY increase L/D Range and Contact for 3.5s after dash",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Resist",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Sakura",
+    "characterImage": "../assets/images/ranking_images/ranking_large_sakura.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PF",
+        "featureName": "MVP: ",
+        "featureDescription": "After receiving a pass in midrange FAIRLY increases Dunk Rate, L/D range, and Contact for 5s.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "C",
+        "featureName": "Genius II: ",
+        "featureDescription": "FAIRLY decrease opponents Dunk Rate and L/D FG% for 5s after staying in opponents Interruption Zone for 1s in paint.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Emily",
+    "characterImage": "../assets/images/ranking_images/ranking_large_emily.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "C",
+        "featureName": "Inject I: ",
+        "featureDescription": "After a successful Block, MARGINALLY decrease all oponents FG/Dunk rates until someone scores.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Reb.Cont.",
+
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Inject II: ",
+        "featureDescription": "FAIRLY increase Block Range and Height for 3.5s after using dash.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Colonel",
+    "characterImage": "../assets/images/ranking_images/ranking_large_colonel.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PF",
+        "featureName": "Gray Hair I: ",
+        "featureDescription": "After a shot, dash to MARGINALLY increase Rebound Range, Height, and Contact until a player grabs rebound.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Block Rate",
+
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Gray Hair II: ",
+        "featureDescription": "After successful mid shot, MARGINALLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% M.Shot Resist",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Lorsha",
+    "characterImage": "../assets/images/ranking_images/ranking_large_lorsha.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Racer I: ",
+        "featureDescription": "On Offense, MARGINALLY decrease Stamina Cost.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% M.Shot Resist",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Racer II: ",
+        "featureDescription": "On Offense, MARGINALLY increase Chip Range/Height.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Block Rate",
+        "eliteSkills": "ElkeSG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Hong",
+    "characterImage": "../assets/images/ranking_images/ranking_large_hong.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Qigong II: ",
+        "featureDescription": "On Offense, FAIRLY decrease Stamina Cost.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Resist",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PF",
+        "featureName": "Qigong I: ",
+        "featureDescription": "On Offense, FAIRLY increase Chip Range/Height.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "ElkeSG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Arthur",
+    "characterImage": "../assets/images/ranking_images/ranking_large_arthur.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PG",
+        "featureName": "Goggles I: ",
+        "featureDescription": "MARGINALLY increase Interception/Steal Rate against player with special status (double dribble, fake shot, holding ball, etc).",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Pass Speed",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Goggles I: ",
+        "featureDescription": "MARGINALLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+6% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Kai",
+    "characterImage": "../assets/images/ranking_images/ranking_large_kai.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PG",
+        "featureName": "Iga I: ",
+        "featureDescription": "On Offense, MARGINALLY increase L/D Range and Contact for 3.5s after using dash.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Pass Speed",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Iga II: ",
+        "featureDescription": "MARGINALLY increase 3pt FG% and Block Resistance after being blocked. Clears after successfully making a 3pt Shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+6% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Iga III: ",
+        "featureDescription": "In midrange area, enter interruption zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+8.5% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Jessica",
+    "characterImage": "../assets/images/ranking_images/ranking_large_jessica.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PG",
+        "featureName": "Red Lip I: ",
+        "featureDescription": "Stay in interruption zone for 1s to MARGINALLY increase Interception/Steal Rate for 5s.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Pass Speed",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Iga II - ERROR: ",
+        "featureDescription": "MARGINALLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+6% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Kai",
+    "characterImage": "../assets/images/ranking_images/ranking_large_sophia.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Cutie I: ",
+        "featureDescription": "Shaking off opponent SLIGHTLY increase midrange interruption resistance.  Clears after 3 point lead.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% M.Shot Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Cutie II: ",
+        "featureDescription": "SLIGHTLY increase Interception/Steal Rate against player with special status (double dribble, fake shot, holding ball, etc).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+13.5% Pass Speed.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Cutie III: ",
+        "featureDescription": "SLIGHTLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+9% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Antony",
+    "characterImage": "../assets/images/ranking_images/ranking_large_antony.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Fire Ant I: ",
+        "featureDescription": "Scoring midrange shot SLIGHTLY icnreases Block Res and Mid Shot Interruption Res. Stacks (2x). Clears after gaining 2 point lead.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% M.Shot Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Fire Ant III - ERROR: ",
+        "featureDescription": "Successful assists SLIGHTLY increase Nice Pass Rate and Nice Pass Buff. Stacks (3x).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+13.5% Pass Speed.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Fire Ant III: ",
+        "featureDescription": "Scoring 3pt shot SLIGHTLY increase 3pt FG%. Stacks (2x). Clears after missing a 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+9% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Victor",
+    "characterImage": "../assets/images/ranking_images/ranking_large_victor.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Resonance I: ",
+        "featureDescription": "On Defense, SLIGHTLY decrease Stamina Cost.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% M.Shot Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Resonance III: ",
+        "featureDescription": "Stay in interruption zone for 1s to SLIGHTLY increase Interception/Steal Rate for 5s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+13.5% Pass Speed.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Resonance II: ",
+        "featureDescription": "SLIGHTLY increase 3pt FG% when open.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+9% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Yuhyun",
+    "characterImage": "../assets/images/ranking_images/ranking_large_yuhyun.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PG",
+        "featureName": "Morale II: ",
+        "featureDescription": "SLIGHTLY increase L/D Range and Contact +20 for 3s after dash.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+8.5% Pass Speed",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Morale I - ERROR: ",
+        "featureDescription": "MARGINALLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+6% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
     "selectedCharacter": "Elke",
     "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
-    "cost": "1 Token or 4700 Shards",
-    "TBD": "TBD",
-    "positionCount":3,
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
     "characterPosition": [
       {
         "position": "SG",
         "featureName": "Reaper II: ",
-        "featureDescription": "Fairly increase 3pt fg% while losing.",
+        "featureDescription": "While losing, FAIRLY increase 3pt fg%.",
         "skill": "None",
         "statsPositive": "+2 3pt Shot +3 Run",
         "statsNegative": "-5 Contact",
-        "passive": "+15% Reb.Cont",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
         "eliteSkills": "ElkeSG_Skills_here"
       },
       {
         "position": "SF",
         "featureName": "Reaper I: ",
-        "featureDescription": "Fairly increase M.Shot while losing.",
+        "featureDescription": "While losing, FAIRLY increase M.Shot.",
         "skill": "N/A",
         "statsPositive": "+5 M.Shot",
         "statsNegative": "-5 Contact",
-        "passive": "+15% Reb.Cont",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
         "eliteSkills": "ElkeSF_Skills_here"
       },
       {
         "position": "PG",
         "featureName": "Reaper III: ",
-        "featureDescription": "Fairly increase Interception rate while losing.",
+        "featureDescription": "While losing, FAIRLY increase Interception rate.",
         "skill": "N/A",
         "statsPositive": "+3 Steal +2 Run",
         "statsNegative": "-5 Contact",
-        "passive": "+15% Reb.Cont",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
         "eliteSkills": "ElkePG_Skills_here"
       }
     ]
   },
 
   {
+    "selectedCharacter": "Avis",
+    "characterImage": "../assets/images/ranking_images/ranking_large_avis.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Exotic II: ",
+        "featureDescription": "FAIRLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Exotic I: ",
+        "featureDescription": "FAIRLY increase Block Resist/Mid Shot FG% after scoring midrange shot. Stacks (2x). Clears after 2 point lead.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Exotic III: ",
+        "featureDescription": "Successful assists FAIRLY increase Nice Pass Rate and Nice Pass Buff. Stacks (3x).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Frank",
+    "characterImage": "../assets/images/ranking_images/ranking_large_frank.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Magic I: ",
+        "featureDescription": "FAIRLY increase 3pt FG% and Block Resistance after being blocked. Clears after successfully making a 3pt Shot.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Magic II: ",
+        "featureDescription": "FAIRLY increase L/D Range and Contact for 3.5s after dash",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Lumi",
+    "characterImage": "../assets/images/ranking_images/ranking_large_lumi.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Lumi II: ",
+        "featureDescription": "FAIRLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Lumi I: ",
+        "featureDescription": "In midrange area, enter interruption zone for 1s to FAIRLY decrease opponent's speed and shake off rate for 5s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Lumi III: ",
+        "featureDescription": "Stay in interruption zone for 1s to FAIRLY increase Interception/Steal Rate for 5s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Lora",
+    "characterImage": "../assets/images/ranking_images/ranking_large_lora.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Charm II: ",
+        "featureDescription": "FAIRLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Charm I: ",
+        "featureDescription": "Shaking off opponent FAIRLY increase midrange interruption resistance.  Clears after 3 point lead.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Charm III: ",
+        "featureDescription": "FAIRLY increase Interception/Steal Rate against player with special status (double dribble, fake shot, holding ball, etc).",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Lana",
+    "characterImage": "../assets/images/ranking_images/ranking_large_lana.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 3,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Penguin II: ",
+        "featureDescription": "After receiving a pass, FAIRLY decrease Stamina Cost and Increase Stamina Regeneration for 5s.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Penguin I: ",
+        "featureDescription": "After receiving a pass in midrange, Fairly increase shakeoff rate for 6s.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      },
+      {
+        "position": "PG",
+        "featureName": "Penguin III: ",
+        "featureDescription": "FAIRLY increase Speed and Dive Range for loose ball.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "ElkePG_Skills_here"
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "selectedCharacter": "Kobe",
+    "characterImage": "../assets/images/ranking_images/ranking_large_kobe.PNG",
+    "rating": "Rating 300",
+    "cost": "300 Diamonds | 400 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SG",
+        "featureName": "Legend I: ",
+        "featureDescription": "MARGINALLY increase 3pt FG% when open.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+6% 3pt Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SF",
+        "featureName": "Mamba: ",
+        "featureDescription": "On Defense, SLIGHTLY decrease Stamina Cost.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+8.5% M.Shot Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Diana",
+    "characterImage": "../assets/images/ranking_images/ranking_large_diana.PNG",
+    "rating": "Rating 400",
+    "cost": "700 Diamonds | 900 Shards",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Heels I: ",
+        "featureDescription": "In midrange area, enter interruption zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% M.Shot Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Heels II: ",
+        "featureDescription": "SLIGHTLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+9% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Maple",
+    "characterImage": "../assets/images/ranking_images/ranking_large_maple.PNG",
+    "rating": "Rating 500",
+    "cost": "1 Token | 4700 Shards", 
+    "TBD": "TBD/AVATAR",
+    "positionCount": 2,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "SF",
+        "featureName": "Fox: ",
+        "featureDescription": "On Defense, FAIRLY decrease Stamina Cost.",
+        "skill": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "ElkeSG_Skills_here"
+      },
+      {
+        "position": "SG",
+        "featureName": "Purple II: ",
+        "featureDescription": "FAIRLY increase 3pt FG% when open.",
+        "skill": "N/A",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "N/A",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "ElkeSF_Skills_here"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
     "selectedCharacter": "Gori",
     "characterImage": "../assets/images/ranking_images/ranking_large_gori.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
-    "TBD": "Reb.Cont +15%",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
     "characterPosition": [
       {
         "position": "Center",
         "featureName": "Monkey King: ",
-        "featureDescription": "Ball can't be stolen for 1.5 seconds after rebound",
-        "skill": "Increase Chasedown Block distance.",
-        "skillDescription":"Increase distance for Chasedown Blocks.",
+        "featureDescription": "Ball can't be stolen for 1.5 seconds after rebound.",
+        "skill": "Swat",
+        "skillDescription": "Increase distance for Chasedown Blocks.",
         "statsPositive": "+10 Rebound +20 Contact",
         "statsNegative": "-20 3pt Shot",
-        "passive": "+15% Reb.Cont",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Livia",
+    "characterImage": "../assets/images/ranking_images/ranking_large_livia.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "Beauty: ",
+        "featureDescription": "Increase Screen and Flank Screen Range.",
+        "skill": "Super Long Legs",
+        "skillDescription": "Increase Screen Dash Distance.",
+        "statsPositive": "+20 Contact +10 Run",
+        "statsNegative": "-15 3pt Shot",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Tsuna",
+    "characterImage": "../assets/images/ranking_images/ranking_large_tsuna.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Super Strength: ",
+        "featureDescription": "Tsuna can Box Out further.",
+        "skill": "Power Move",
+        "skillDescription": "When in post-up, there's chance to bump opponent to ground.",
+        "statsPositive": "+20 Contact +5 L/D",
+        "statsNegative": "-10 Run",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Claw",
+    "characterImage": "../assets/images/ranking_images/ranking_large_claw.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Wild Roar!: ",
+        "featureDescription": "Increase Rebound Height and Range by 10%.",
+        "skill": "Stuffed",
+        "skillDescription": "Increase Blocking Range but decreases Activation Rate.",
+        "statsPositive": "+15 Rebound +15 Block",
+        "statsNegative": "-20 3pt Shot",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Lebron",
+    "characterImage": "../assets/images/ranking_images/ranking_large_lebron.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Buckle: ",
+        "featureDescription": "Lowers chances of being Blocked by minimizing the Blocking Points",
+        "skill": "Tomahawk",
+        "skillDescription": "Armor like body, nimble and agile when Dunking the ball.",
+        "statsPositive": "+20 Contact +10 Run",
+        "statsNegative": "-15 Steal",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Ryo",
+    "characterImage": "../assets/images/ranking_images/ranking_large_ryo.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Light: ",
+        "featureDescription": "Increase Dash Speed and Stamina Cost by 10%",
+        "skill": "Flash Steal",
+        "skillDescription": "Steal the ball in a flash.",
+        "statsPositive": "+15 Steal +5 Run",
+        "statsNegative": "-3pt Shoot",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Mary",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mary.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Sonar: ",
+        "featureDescription": "During loose ball, Mary's Speed is increased.",
+        "skill": "Dragon Claw",
+        "skillDescription": "Press Face-Up to increase Interception Rate while in passing Lane (Uses Stamina).",
+        "statsPositive": "+10 Pass +10 Run",
+        "statsNegative": "-5 Block",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Beard",
+    "characterImage": "../assets/images/ranking_images/ranking_large_beard.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Agile Shot: ",
+        "featureDescription": "FAIRLY increase Shot Speed for 1s after performing a drive.",
+        "skill": "Enhance Back Dribble",
+        "skillDescription": "Faster Step Back Dribble.",
+        "statsPositive": "+10 3pt Shot +30 Control",
+        "statsNegative": "-25 Rebound",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Mitsuki",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mitsuki.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Never Give Up: ",
+        "featureDescription": "While losing, increase 3pt Res for 3s. Increase 3pt FG% when open.",
+        "skill": "Heating Up",
+        "skillDescription": "3pt Shot and Quick Jumper Speed increased. 3pt FG% increase while open.",
+        "statsPositive": "+15 3pt Shot +10 M.Shot",
+        "statsNegative": "-10 Stamina",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Mac",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mac.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Tracy: ",
+        "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3-point FG.",
+        "skill": "Power 3pt",
+        "skillDescription": "3pt Shot and Quick Jumper Speed increased. 3pt FG% increase while open.",
+        "statsPositive": "+25 3pt Shot",
+        "statsNegative": "-10 Contact",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Mai",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mai.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Mai Moves: ",
+        "featureDescription": "Decreased Stamina Consumption while dribbling. Cannot be knocked down during fancy drive.",
+        "skill": "Butterfly",
+        "skillDescription": "Fancy Drive makes it easier to crossover defender.",
+        "statsPositive": "+30 Stamina +5 M.Shot",
+        "statsNegative": "-10 Contact",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Uncle Drew",
+    "characterImage": "../assets/images/ranking_images/ranking_large_uncledrew.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Change: ",
+        "featureDescription": "TBD",
+        "skill": "Tease",
+        "skillDescription": "TBD.",
+        "statsPositive": "+10 3pt Shot +10 Stamina",
+        "statsNegative": "-5 Pass",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Moon",
+    "characterImage": "../assets/images/ranking_images/ranking_large_moon.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Distance: ",
+        "featureDescription": "TBD.",
+        "skill": "Cresent Step",
+        "skillDescription": "TBD",
+        "statsPositive": "+10 3pt Shot +10 Run",
+        "statsNegative": "-5 L/D",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
         "eliteSkills": "Gori Elite Skills Here"
       }
     ]
   }
+
+
+
+
 ]
