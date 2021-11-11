@@ -28,6 +28,7 @@ function PositionDetail(props) {
         <div>
           <span /*PUT STUFF HERE */>Skill: </span>
           <span /*PUT STUFF HERE */>{skillDescription}</span>
+
         </div>
         <span className="details-statsHeader">Stats:</span>
         <span className="details-stats">
