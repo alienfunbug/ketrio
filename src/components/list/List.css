@@ -12,6 +12,7 @@
   position: relative;
   overflow-y: hidden;
   overflow-x: scroll;
+  margin-bottom: 15px;
 }
 
 .list-container > .list-title {

@@ -200,6 +200,14 @@
         "position3": null
       },
       {
+        "name": "Motizuki",
+        "img": "../assets/images/portraits/Motizuki_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+      {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.PNG",
         "rating": "Rating 500",
@@ -248,14 +256,6 @@
         "position3": null
       },
       {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.PNG",
-        "rating": "Rating 500",
-        "position1": "C",
-        "position2": "PF",
-        "position3": "SF"
-      },
-      {
         "name": "Wilson",
         "img": "../assets/images/portraits/Wilson_full.PNG",
         "rating": "Rating 150",
@@ -287,8 +287,8 @@
       },
 
       {
-        "name": "Bryant",
-        "img": "../assets/images/portraits/Bryant_full.PNG",
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.PNG",
         "rating": "Rating 300",
         "position1": "SF",
         "position2": "SG",
@@ -418,6 +418,14 @@
         "position3": null
       },
       {
+        "name": "Motizuki",
+        "img": "../assets/images/portraits/Motizuki_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+      {
         "name": "Sophia",
         "img": "../assets/images/portraits/Sophia_full.PNG",
         "rating": "Rating 400",
@@ -425,14 +433,7 @@
         "position2": "SG",
         "position3": "PG"
       },
-      {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
+
       {
         "name": "Victor",
         "img": "../assets/images/portraits/Victor_full.PNG",
@@ -552,6 +553,14 @@
         "position3": null
       },
       {
+        "name": "Motizuki",
+        "img": "../assets/images/portraits/Motizuki_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+      {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.PNG",
         "rating": "Rating 500",
@@ -599,14 +608,7 @@
         "position2": "C",
         "position3": null
       },
-      {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PF",
-        "position2": "C",
-        "position3": "SF"
-      },
+
       {
         "name": "Tsuna",
         "img": "../assets/images/portraits/Tsuna_full.PNG",
@@ -663,8 +665,8 @@
         "position3": null
       },
       {
-        "name": "Bryant",
-        "img": "../assets/images/portraits/Bryant_full.PNG",
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.PNG",
         "rating": "Rating 300",
         "position1": "SG",
         "position2": "SF",
@@ -773,7 +775,6 @@
         "position3": null
       },
 
-      
       {
         "name": "Rick",
         "img": "../assets/images/portraits/Rick_full.PNG",
@@ -821,7 +822,6 @@
   {
     "position": "Point Guards",
     "players": [
-
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.PNG",
