@@ -66,7 +66,7 @@
 #details-position-name {
   font-weight: 600;
   font-size: 21px;
-  text-shadow: 2px 2px grey;
+  text-shadow: 2px 2px rgb(100, 100, 100);
 }
 
 /*elite skills link*/
@@ -86,7 +86,7 @@
 
 .SG {
   grid-area: positionInfo0;
-  background: rgb(96, 116, 25);
+  background: rgb(201, 163, 5);
   color: white;
 
   border-radius: var(--main-radius);
@@ -95,7 +95,7 @@
 
 .SF {
   grid-area: positionInfo1;
-  background: rgb(40, 14, 156);
+  background: rgb(0, 198, 222);
   color: white;
 
   border-radius: var(--main-radius);
@@ -103,7 +103,7 @@
 }
 .PG {
   grid-area: positionInfo2;
-  background: rgb(155, 129, 72);
+  background: rgb(23, 168, 62);
   color: white;
 
   border-radius: var(--main-radius);
@@ -132,8 +132,8 @@
   grid-area: positionInfo0;
   background-image: radial-gradient(
     farthest-corner at 90px 940px,
-    #f4a460 0%,
-    #434 100%
+    #e4c53b 0%,
+    rgb(97, 2, 2) 100%
   );
   color: white;
 
@@ -143,7 +143,11 @@
 
 .Point_Guard {
   grid-area: positionInfo0;
-  background: rgb(155, 129, 72);
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #f4a460 0%,
+    rgb(23, 168, 62) 100%
+  );
   color: white;
 
   border-radius: var(--main-radius);
@@ -152,7 +156,11 @@
 
 .Shooting_Guard {
   grid-area: positionInfo0;
-  background: rgb(155, 129, 72);
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #faffd0 0%,
+    rgb(180, 145, 3) 100%
+  );
   color: white;
 
   border-radius: var(--main-radius);
@@ -161,7 +169,11 @@
 
 .Power_Forward {
   grid-area: positionInfo0;
-  background: rgb(155, 129, 72);
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #f4a460 0%,
+    rgb(52, 54, 177) 100%
+  );
   color: white;
 
   border-radius: var(--main-radius);
@@ -170,7 +182,11 @@
 
 .Small_Forward {
   grid-area: positionInfo0;
-  background: rgb(155, 129, 72);
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #f4a460 0%,
+    rgb(0, 198, 222) 100%
+  );
   color: white;
 
   border-radius: var(--main-radius);
@@ -179,15 +195,16 @@
 
 .details-position-info-block {
   grid-area: positionInfoBlock;
-  background: rgb(104, 103, 103);
+  background: rgb(0,0,0);
   color: white;
-
+  letter-spacing: 1px;
+  word-spacing: 1px;
   border-radius: var(--main-radius);
 }
 
 .details-position-info0 {
   grid-area: positionInfo0;
-  background: rgb(0, 0, 0);
+  background: rgb(30, 30, 30);
   color: white;
 
   border-radius: var(--main-radius);
@@ -196,14 +213,14 @@
 
 .details-position-info1 {
   grid-area: positionInfo1;
-  background: #a52a2a;
+  background: rgb(30, 30, 30);
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
 .details-position-info2 {
   grid-area: positionInfo2;
-  background: #808000;
+  background: rgb(30, 30, 30);
 
   border-radius: var(--main-radius);
   padding: var(--main-padding);
