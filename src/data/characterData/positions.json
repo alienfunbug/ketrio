@@ -105,6 +105,14 @@
         "position1": "SG",
         "position2": null,
         "position3": null
+      },
+      {
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.PNG",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
       }
     ]
   },
@@ -245,6 +253,14 @@
         "rating": "Rating 400",
         "position1": "C",
         "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.PNG",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
         "position3": null
       },
       {
@@ -568,15 +584,6 @@
       },
 
       {
-        "name": "MZ",
-        "img": "../assets/images/portraits/MZ_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
-
-      {
         "name": "Mac",
         "img": "../assets/images/portraits/Mac_full.PNG",
         "rating": "Rating 500",
@@ -609,6 +616,16 @@
         "position2": "C",
         "position3": "PF"
       },
+      
+      {
+        "name": "MZ",
+        "img": "../assets/images/portraits/MZ_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+
       {
         "name": "Sophia",
         "img": "../assets/images/portraits/Sophia_full.PNG",
@@ -617,7 +634,14 @@
         "position2": "SG",
         "position3": "PG"
       },
-
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Victor",
         "img": "../assets/images/portraits/Victor_full.PNG",
@@ -775,6 +799,14 @@
         "position2": null,
         "position3": null
       },
+      {
+        "name": "Moon",
+        "img": "../assets/images/portraits/Moon_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
 
       {
         "name": "Rick",
@@ -916,6 +948,14 @@
         "position1": "PG",
         "position2": "SG",
         "position3": "SF"
+      },
+      {
+        "name": "Mary",
+        "img": "../assets/images/portraits/Mary_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
       },
 
       {

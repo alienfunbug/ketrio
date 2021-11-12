@@ -2076,5 +2076,32 @@
         "eliteSkills": "Gori Elite Skills Here"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Shaq",
+    "characterImage": "../assets/images/ranking_images/ranking_large_shaq.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD/AVATAR",
+    "positionCount": 1,
+    "highlights": "HIGHLIGHTS VIDEO",
+    "evolve": "EVOLVE DETAILS",
+    "fate": "FATE DETAILS",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "TBD: ",
+        "featureDescription": "TBD.",
+        "skill": "Swat",
+        "skillDescription": "TBD.",
+        "statsPositive": "+40 Contact +15 L/D +10 Rebound +2 Inside Shot +2 Block",
+        "statsNegative": "-20 Stamina -12 3pt Shot -10 M.Shot -10 Run -2 Control",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "Gori Elite Skills Here"
+      }
+    ]
   }
 ]
