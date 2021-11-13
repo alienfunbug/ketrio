@@ -9,7 +9,7 @@
   font-family: "Roboto", sans-serif;
   font-weight: 200;
   font-size: 70px;
-  text-shadow: 1px 1px 1 #050100;
+  text-shadow: 1px 1px  #050100;
   background-image: radial-gradient(
     farthest-corner at 90px 940px,
     #f4a460 0%,
@@ -227,7 +227,7 @@
 }
 
 .details-stats {
-  font-weight: 500;
+  font-weight: 800;
 }
 .details-stats-positive {
   color: #00ffff;
@@ -235,8 +235,9 @@
 }
 
 .details-stats-negative {
-  color: #f41919;
+  color: #f54242;
   margin-left: 5px;
+
 }
 .details-stats-neutral {
   color: rgb(209, 198, 162);
