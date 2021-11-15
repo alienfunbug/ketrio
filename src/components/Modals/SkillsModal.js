@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Modal.css";
 
-function Modal(props) {
+function SkillsModal(props) {
   const { selectedCharacter, position, eliteSkills } = props;
 
   const [modal, setModal] = useState(false);
@@ -33,4 +33,4 @@ function Modal(props) {
   );
 }
 
-export default Modal;
+export default SkillsModal;

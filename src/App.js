@@ -5,7 +5,7 @@ import LandingPage from './pages/LandingPage';
 import CharacterPage from './pages/CharacterPage';
 import CharacterDetailPage from './pages/CharacterDetailPage';
 
-import Modal from './components/Modal/Modal'
+import SkillsModal from './components/Modals/SkillsModal';
 
 function App() {
   const selectedCharacter = "Claw"
@@ -19,7 +19,7 @@ function App() {
 
 
 
-      <Modal selectedCharacter={selectedCharacter} position = {position} eliteSkills={eliteSkills} />
+      <SkillsModal selectedCharacter={selectedCharacter} position = {position} eliteSkills={eliteSkills} />
 
 </div>
     /*
