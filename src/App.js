@@ -8,10 +8,18 @@ import CharacterDetailPage from './pages/CharacterDetailPage';
 import Modal from './components/Modal/Modal'
 
 function App() {
+  const selectedCharacter = "Claw"
+  const eliteSkills = "../assets/images/elite_skills/claw_pf_elite_skills.PNG"
+  const position = "Power_Forward"
+
+
   return (
     <div>
 <div style={{color: "white"}}>modal testing</div>
-      <Modal/>
+
+
+
+      <Modal selectedCharacter={selectedCharacter} position = {position} eliteSkills={eliteSkills} />
 
 </div>
     /*

@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import "./Modal.css";
 
-function Modal() {
+function Modal(props) {
+  const { selectedCharacter, position, eliteSkills } = props;
+
   const [modal, setModal] = useState(false);
 
   const toggleModal = () => {
@@ -9,30 +11,25 @@ function Modal() {
   };
 
   return (
-    <>
+    <div>
       <button onClick={toggleModal} className="btn-modal">
-        Open Modal Button
+        Elite Skills
       </button>
       {modal && (
         <div className="modal">
           <div className="overlay" onClick={toggleModal}>
             <div className="modal-content">
-              <h2>Modal Elite Skills</h2>
+              <h2>{selectedCharacter} {position} Elite Skills</h2>
 
-              <img
-              src={`${process.env.PUBLIC_URL}/assets/images/elite_skills/claw_elite_skills.PNG`}
-              alt="no image here"
-         
-            />
+              <img src={eliteSkills} alt="no image here" />
               <button className="close-modal" onClick={toggleModal}>
-                
                 Close
               </button>
             </div>
           </div>
         </div>
       )}
-    </>
+    </div>
   );
 }
 
