@@ -73,7 +73,7 @@ function CharacterDetailPage(props) {
           <div id="details-evolve">
             <p>Evolve</p>
             <img
-              src={`${process.env.PUBLIC_URL}/assets/images/elite_skills/claw_elite_skills.PNG`}
+              src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"
               className="img1"
             />
