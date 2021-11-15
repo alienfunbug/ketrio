@@ -12,14 +12,14 @@ function SkillsModal(props) {
 
   return (
     <div>
-      <button onClick={toggleModal} className="btn-modal">
+      <div onClick={toggleModal} className="details-fake-link">
         Elite Skills
-      </button>
+      </div>
       {modal && (
         <div className="modal">
           <div className="overlay" onClick={toggleModal}>
             <div className="modal-content">
-              <h2>{selectedCharacter} {position} Elite Skills</h2>
+              <h2 className={position}>{selectedCharacter} {position} Elite Skills</h2>
 
               <img src={eliteSkills} alt="no image here" />
               <button className="close-modal" onClick={toggleModal}>

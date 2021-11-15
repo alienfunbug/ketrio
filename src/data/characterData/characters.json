@@ -1834,7 +1834,7 @@
         "statsNegative": "-20 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/claw_pf_elite_skills.PNG"
       }
     ]
   },

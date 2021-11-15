@@ -24,6 +24,7 @@ function CharacterDetailPage(props) {
         return (
           <PositionDetail
             id={index}
+            selectedCharacter={n.selectedCharacter}
             position={characterPosition.position}
             featureName={characterPosition.featureName}
             featureDescription={characterPosition.featureDescription}

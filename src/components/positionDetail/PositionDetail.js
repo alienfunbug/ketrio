@@ -1,9 +1,11 @@
 import {} from "@material-ui/icons";
 import React from "react";
 //import "./PositionDetail.css";
+import SkillsModal from "../../components/Modals/SkillsModal";
 
 function PositionDetail(props) {
   const {
+    selectedCharacter,
     position,
     featureName,
     featureDescription,
@@ -40,7 +42,10 @@ function PositionDetail(props) {
           <span /*PUT STUFF HERE */>Passive: </span>
           <span /*PUT STUFF HERE */>{passive} </span>
         </div>
-        <div className="details-fake-link"> {eliteSkills}</div>
+
+        <SkillsModal className="details-fake-link" selectedCharacter={selectedCharacter} position = {position} eliteSkills={eliteSkills} />
+
+
       </div>
     </div>
   );
