@@ -72,7 +72,7 @@ function CharacterDetailPage(props) {
 
         <div className="details-footer">
           <div id="details-evolve">
-            <p>Evolve</p>
+            <p>Evolve-- switch with Fate</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"
@@ -80,7 +80,7 @@ function CharacterDetailPage(props) {
             />
           </div>
           <div id="details-fate">
-            <p>Fate</p>
+            <p>Fate -- switch with avatar</p>
             <img
               src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
               alt="no image here"

@@ -21,7 +21,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kaisa_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -33,7 +33,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Reb.Cont.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kaisa_c_elite_skills.PNG"
       }
     ]
   },
@@ -60,7 +60,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/wilson_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -72,7 +72,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Reb.Cont.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/wilson_c_elite_skills.PNG"
       }
     ]
   },
@@ -99,7 +99,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/rick_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -111,7 +111,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/rick_sg_elite_skills.PNG"
       }
     ]
   },
@@ -138,7 +138,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/eric_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -150,7 +150,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/eric_sg_elite_skills.PNG"
       }
     ]
   },
@@ -177,7 +177,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sugar_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -189,7 +189,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sugar_sg_elite_skills.PNG"
       }
     ]
   },
@@ -217,7 +217,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/jamie_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -229,7 +229,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/jamie_sg_elite_skills.PNG"
       }
     ]
   },
@@ -256,7 +256,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/taylor_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -268,7 +268,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/taylor_c_elite_skills.PNG"
       }
     ]
   },
@@ -295,7 +295,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/max_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -307,7 +307,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/max_pf_elite_skills.PNG"
       }
     ]
   },
@@ -334,7 +334,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/hayes_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -346,7 +346,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/hayes_pf_elite_skills.PNG"
       }
     ]
   },
@@ -373,7 +373,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/johnson_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -385,7 +385,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/johnson_pf_elite_skills.PNG"
       }
     ]
   },
@@ -412,7 +412,7 @@
         "statsNegative": "-5 Control",
         "statsNeutral": "",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/min-jun_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -424,7 +424,7 @@
         "statsNegative": "-5 Steal",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/min-jun_pf_elite_skills.PNG"
       }
     ]
   },
@@ -451,7 +451,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/cyborgt_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -463,7 +463,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/cyborgt_pf_elite_skills.PNG"
       }
     ]
   },
@@ -490,7 +490,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/shalice_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -502,7 +502,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/shalice_pf_elite_skills.PNG"
       }
     ]
   },
@@ -529,7 +529,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/harley_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -541,7 +541,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/harley_pf_elite_skills.PNG"
       }
     ]
   },
@@ -568,7 +568,7 @@
         "statsNegative": "-7 Control",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/harmen_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -580,7 +580,7 @@
         "statsNegative": "-7 Pass",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/harmen_pf_elite_skills.PNG"
       }
     ]
   },
@@ -607,7 +607,7 @@
         "statsNegative": "-10 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/falco_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -619,7 +619,7 @@
         "statsNegative": "-5 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/falco_pf_elite_skills.PNG"
       }
     ]
   },
@@ -646,7 +646,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/nova_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -658,7 +658,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/nova_pf_elite_skills.PNG"
       }
     ]
   },
@@ -685,7 +685,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/mz_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -697,7 +697,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/mz_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -709,7 +709,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/mz_sf_elite_skills.PNG"
       }
     ]
   },
@@ -736,7 +736,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/raven_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -748,7 +748,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/raven_pf_elite_skills.PNG"
       }
     ]
   },
@@ -775,7 +775,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/motizuki_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -787,7 +787,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/motizuki_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -799,7 +799,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/motizuki_sf_elite_skills.PNG"
       }
     ]
   },
@@ -826,7 +826,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sakura_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -838,7 +838,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sakura_c_elite_skills.PNG"
       }
     ]
   },
@@ -865,8 +865,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/emily_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -878,7 +877,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/emily_pf_elite_skills.PNG"
       }
     ]
   },
@@ -905,8 +904,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/colonel_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -918,7 +916,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/colonel_sf_elite_skills.PNG"
       }
     ]
   },
@@ -944,7 +942,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lorsha_sf_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -956,7 +954,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lorsha_pf_elite_skills.PNG"
       }
     ]
   },
@@ -983,7 +981,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/hong_sf_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -995,7 +993,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/hong_pf_elite_skills.PNG"
       }
     ]
   },
@@ -1022,7 +1020,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/arthur_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1034,7 +1032,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/arthur_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1061,7 +1059,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kai_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1073,7 +1071,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kai_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1085,7 +1083,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kai_sf_elite_skills.PNG"
       }
     ]
   },
@@ -1112,7 +1110,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/jessica_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1124,7 +1122,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/jessica_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1151,7 +1149,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sophia_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1163,7 +1161,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sophia_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1175,7 +1173,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/sophia_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1202,7 +1200,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/antony_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1214,7 +1212,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/antony_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1226,7 +1224,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/antony_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1253,7 +1251,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/victor_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1265,7 +1263,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/victor_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1277,7 +1275,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/victor_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1304,7 +1302,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/yuhyun_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1316,7 +1314,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/yuhyun_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1343,7 +1341,7 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/elke_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1355,7 +1353,7 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/elke_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1367,7 +1365,7 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/elke_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1394,7 +1392,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/avis_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1406,7 +1404,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/avis_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1418,7 +1416,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/avis_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1445,7 +1443,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/frank_sg_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1457,7 +1455,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/frank_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1484,7 +1482,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lumi_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1496,7 +1494,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lumi_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1508,7 +1506,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lumi_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1535,7 +1533,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lora_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1547,7 +1545,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lora_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1559,7 +1557,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lora_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1586,7 +1584,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lana_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1598,7 +1596,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lana_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1610,7 +1608,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "ElkePG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/lana_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1637,7 +1635,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kobe_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1649,7 +1647,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/kobe_sf_elite_skills.PNG"
       }
     ]
   },
@@ -1676,7 +1674,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/diana_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1688,7 +1686,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/diana_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1714,7 +1712,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "ElkeSG_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/maple_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1726,7 +1724,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "ElkeSF_Skills_here"
+        "eliteSkills": "../assets/images/elite_skills/maple_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1753,7 +1751,7 @@
         "statsNegative": "-20 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/gori_c_elite_skills.PNG"
       }
     ]
   },
@@ -1780,7 +1778,7 @@
         "statsNegative": "-15 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/livia_c_elite_skills.PNG"
       }
     ]
   },
@@ -1807,7 +1805,7 @@
         "statsNegative": "-10 Run",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/tsuna_pf_elite_skills.PNG"
       }
     ]
   },
@@ -1861,7 +1859,7 @@
         "statsNegative": "-15 Steal",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/lebron_pf_elite_skills.PNG"
       }
     ]
   },
@@ -1888,7 +1886,7 @@
         "statsNegative": "-3pt Shoot",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/ryo_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1914,7 +1912,7 @@
         "statsNegative": "-5 Block",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/mary_pg_elite_skills.PNG"
       }
     ]
   },
@@ -1940,7 +1938,7 @@
         "statsNegative": "-25 Rebound",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/beard_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1967,7 +1965,7 @@
         "statsNegative": "-10 Stamina",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/mitsuki_sg_elite_skills.PNG"
       }
     ]
   },
@@ -1994,7 +1992,7 @@
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/mac_sf_elite_skills.PNG"
       }
     ]
   },
@@ -2020,7 +2018,7 @@
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/mai_sf_elite_skills.PNG"
       }
     ]
   },
@@ -2046,7 +2044,7 @@
         "statsNegative": "-5 Pass",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/uncledrew_sf_elite_skills.PNG"
       }
     ]
   },
@@ -2073,7 +2071,7 @@
         "statsNegative": "-5 L/D",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/moon_sf_elite_skills.PNG"
       }
     ]
   },
@@ -2100,7 +2098,7 @@
         "statsNegative": "-20 Stamina -12 3pt Shot -10 M.Shot -10 Run -2 Control",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "Gori Elite Skills Here"
+        "eliteSkills": "../assets/images/elite_skills/shaq_c_elite_skills.PNG"
       }
     ]
   }
