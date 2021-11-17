@@ -36,6 +36,19 @@ body.active-modal {
   max-width: 600px;
   min-width: 300px;
 }
+.modal-content-test {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 8px 8px;
+  border-radius: 10px;
+  max-width: 600px;
+  min-width: 300px;
+}
+
 
 .modal-content img {
   max-height: 100%;
