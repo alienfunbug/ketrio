@@ -3,6 +3,8 @@ import "./App.css";
 import LandingPage from "./pages/LandingPage";
 import CharacterPage from "./pages/CharacterPage";
 import CharacterDetailPage from "./pages/CharacterDetailPage";
+import VideoPage from "./pages/VideoPage";
+import ComingSoonPage from "./pages/ComingSoonPage";
 
 function App() {
   return (
@@ -15,6 +17,9 @@ function App() {
           path={"/characterDetailPage/:char"}
           component={CharacterDetailPage}
         />
+        <Route path="/weeklyvideo" component={VideoPage} />
+        <Route path="/skills" component={ComingSoonPage} />
+        <Route path="/comingsoon" component={ComingSoonPage} />
       </div>
     </Router>
   );

@@ -1,23 +1,22 @@
 [
   {
-    "image_src": "assets/images/portraits/MZ_color_test.PNG",
+    "image_src": "assets/images/landing_page/MZ_color_test.PNG",
     "display": "Characters",
     "link": "characters"
   },
   {
-    "image_src": "assets/images/portraits/question_mark.jpeg",
-    "display": "Elite Skills",
-    "link": "skills"
-  },
-
-  {
-    "image_src": "assets/images/portraits/question_mark.jpeg",
+    "image_src": "assets/videos/landing_page/test.gif",
     "display": "Weekly Video",
     "link": "weeklyvideo"
   },
   {
-    "image_src": "assets/images/portraits/question_mark.jpeg",
-    "display": "Coming Soon",
+    "image_src": "assets/images/landing_page/question_mark.jpeg",
+    "display": "Elite Skills",
+    "link": "skills"
+  },
+  {
+    "image_src": "assets/images/landing_page/question_mark.jpeg",
+    "display": "TBD",
     "link": "comingsoon"
   }
 ]
