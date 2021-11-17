@@ -2,7 +2,7 @@ import "./CharacterDetailPage.css";
 import React from "react";
 import PositionDetail from "../components/positionDetail/PositionDetail";
 import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
-
+import VideoModal from "../components/Modals/VideoModal";
 import characterData from "../data/characterData/characters.json";
 
 function CharacterDetailPage(props) {
@@ -15,6 +15,7 @@ function CharacterDetailPage(props) {
   let rating;
   let cost;
   let TBD;
+  let highlights;
 
   console.log(playerNameProp);
 
@@ -29,7 +30,7 @@ function CharacterDetailPage(props) {
             featureName={characterPosition.featureName}
             featureDescription={characterPosition.featureDescription}
             skill={characterPosition.skill}
-            skillDescription={characterPosition.skillDescription }
+            skillDescription={characterPosition.skillDescription}
             statsPositive={characterPosition.statsPositive}
             statsNegative={characterPosition.statsNegative}
             statsNeutral={characterPosition.statsNeutral}
@@ -52,6 +53,7 @@ function CharacterDetailPage(props) {
       rating = n.rating;
       cost = n.cost;
       TBD = n.TBD;
+      highlights = n.highlights;
     }
   });
 
@@ -88,12 +90,17 @@ function CharacterDetailPage(props) {
             />
           </div>
           <div id="details-avatar">
-            <p>Highlights</p>
-            <img
-              src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
-              alt="no image here"
-              className="img1"
-            />
+            <div className="details_icons_text">Highlights </div>
+
+            {highlights ? (
+              <VideoModal highlights={highlights} />
+            ) : (
+              <img
+                className="details_icons"
+                src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/1b.PNG`}
+                alt="no image here"
+              />
+            )}
           </div>
         </div>
 

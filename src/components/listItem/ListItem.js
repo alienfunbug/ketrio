@@ -27,6 +27,7 @@ function ListItem(props) {
     >
       <div className="list-item" key={id}>
         <div className="list-item-characterTitle">{playerName}</div>
+        {console.log(playerName)}
         <img src={playerImg} alt="" />
         <div className="SEPARATOR-CONTAINER-HERE">
           <div className="list-item-characterInfo">

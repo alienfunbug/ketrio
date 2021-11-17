@@ -192,6 +192,14 @@
         "position3": null
       },
       {
+        "name": "Livia",
+        "img": "../assets/images/portraits/Livia_full.PNG",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Max",
         "img": "../assets/images/portraits/Max_full.PNG",
         "rating": "Rating 300",
@@ -350,6 +358,14 @@
         "position3": null
       },
       {
+        "name": "Hong",
+        "img": "../assets/images/portraits/Hong_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+      {
         "name": "Johnson",
         "img": "../assets/images/portraits/Johnson_full.PNG",
         "rating": "Rating 400",
@@ -365,7 +381,14 @@
         "position2": "C",
         "position3": null
       },
-
+      {
+        "name": "Lebron",
+        "img": "../assets/images/portraits/Lebron_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Lorsha",
         "img": "../assets/images/portraits/Lorsha_full.PNG",

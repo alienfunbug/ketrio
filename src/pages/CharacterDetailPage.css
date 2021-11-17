@@ -9,7 +9,7 @@
   font-family: "Roboto", sans-serif;
   font-weight: 200;
   font-size: 70px;
-  text-shadow: 1px 1px  #050100;
+  text-shadow: 1px 1px #050100;
   background-image: radial-gradient(
     farthest-corner at 90px 940px,
     #f4a460 0%,
@@ -79,9 +79,7 @@
   text-shadow: 3px 3px rgb(128, 128, 128);
   font-size: 1.65rem;
   transition: all 0.3s ease-in-out;
-  
 }
-
 
 .details-title-info {
   grid-area: titleInfo;
@@ -204,7 +202,7 @@
 
 .details-position-info-block {
   grid-area: positionInfoBlock;
-  background: rgb(0,0,0);
+  background: rgb(0, 0, 0);
   color: white;
   letter-spacing: 1px;
   word-spacing: 1px;
@@ -246,7 +244,6 @@
 .details-stats-negative {
   color: #f54242;
   margin-left: 5px;
-
 }
 .details-stats-neutral {
   color: rgb(209, 198, 162);
@@ -303,8 +300,15 @@
 #details-avatar {
   grid-area: avatar;
   background: #2f4f4f;
-
   border-radius: var(--main-radius);
+}
+
+.details_icons_text {
+  margin: 5px;
+}
+.details_icons {
+  padding-left: 10px;
+
 }
 
 .details-main {
@@ -322,7 +326,6 @@
   margin-left: 0.6rem;
   border-radius: 15px;
 }
-
 
 .home-container:first-child {
   margin-top: 50px;
