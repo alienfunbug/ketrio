@@ -88,6 +88,10 @@ body.active-modal {
   color:rgb(136, 135, 135);
 }
 
+.message-1 {
+  font-size: 1.15rem;
+}
+
 .disclaimer {
   font-size: .75rem;
   text-shadow: .75px .75px gray;

@@ -24,7 +24,7 @@ function MessageModal() {
               </h2>
 
               <div className="fate-total">
-                <div className="fate-1"> ...For Practice. A big thanks to the crew; especially Runtz and Delay for being The Plugs.
+                <div className="message-1"> ...For Practice. A big thanks to the crew; especially Runtz and Delay for being The Plugs.
  
                 If something needs to be updated or corrected, smd or email: alienfunbug@gmail.com</div>
       
