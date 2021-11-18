@@ -3,11 +3,10 @@ import React from "react";
 import PositionDetail from "../components/positionDetail/PositionDetail";
 import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
 import VideoModal from "../components/Modals/VideoModal";
+import FateModal from "../components/Modals/FateModal";
 import characterData from "../data/characterData/characters.json";
 
 function CharacterDetailPage(props) {
-  console.log(props.match.params.char);
-
   const playerNameProp = props.match.params.char;
 
   let selectedCharacter;
@@ -16,12 +15,15 @@ function CharacterDetailPage(props) {
   let cost;
   let TBD;
   let highlights;
-
-  console.log(playerNameProp);
+  let fate1;
+  let fate2;
+  let fate3;
+  let defaultPosition;
 
   const detailCard = characterData.map((n) => {
     if (n.selectedCharacter === playerNameProp) {
       return n.characterPosition.map((characterPosition, index) => {
+        defaultPosition=characterPosition.position
         return (
           <PositionDetail
             id={index}
@@ -54,14 +56,20 @@ function CharacterDetailPage(props) {
       cost = n.cost;
       TBD = n.TBD;
       highlights = n.highlights;
+      fate1 = n.fate1;
+      fate2 = n.fate2;
+      fate3 = n.fate3;
     }
   });
 
   return (
     <div>
       <div className="details-container">
-        <div id="details-navbar">NavBar</div>
-        <div className="details-title">
+        {/*<div id="details-navbar">NavBar</div>
+         <div className="details-title">
+        */}
+       
+        <div className={`details-title-${defaultPosition}`}>
           <span id="details-character-name">{selectedCharacter}</span>
           <div className="details-title-info">
             <div id="details-rating">{rating}</div>
@@ -73,33 +81,26 @@ function CharacterDetailPage(props) {
         <div className="details-position-info-block">{detailCard}</div>
 
         <div className="details-footer">
-          <div id="details-evolve">
-            <p>Evolve-- switch with Fate</p>
-            <img
-              src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
-              alt="no image here"
-              className="img1"
-            />
-          </div>
-          <div id="details-fate">
-            <p>Fate -- switch with avatar</p>
-            <img
-              src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/info_box.PNG`}
-              alt="no image here"
-              className="img1"
-            />
-          </div>
-          <div id="details-avatar">
-            <div className="details_icons_text">Highlights </div>
+          <div id="details-footer-subcontent">
+          <FateModal className="details_icons_text" selectedCharacter={selectedCharacter} fatePosition={defaultPosition} fate1={fate1} fate2={fate2} fate3={fate3} />
 
+
+          </div>
+          <div id="details-footer-subcontent">
+            <div className="details-fake-link-footer">N/A </div>
+
+          </div>
+          <div id="details-footer-subcontent">
             {highlights ? (
-              <VideoModal highlights={highlights} />
+              <div>
+                <div className="details-fake-link-footer">Highlights</div>
+                <VideoModal highlights={highlights} />
+              </div>
             ) : (
-              <img
-                className="details_icons"
-                src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/1b.PNG`}
-                alt="no image here"
-              />
+              <div className="border-test">
+                <div className="details-fake-link-footer">Not Available</div>
+                <VideoModal highlights={highlights} />
+              </div>
             )}
           </div>
         </div>

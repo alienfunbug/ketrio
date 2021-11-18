@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={VideoModal} />
+        <Route exact path="/" component={LandingPage} />
         <Route path="/characters" component={CharacterPage} />
         <Route
           exact

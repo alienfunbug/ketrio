@@ -14,11 +14,7 @@ function VideoModal(props) {
   return (
     <div>
       <div onClick={toggleModal} className="details-fake-link">
-      <img
-                className="details_icons"
-                src={`${process.env.PUBLIC_URL}/assets/images/trio_test_images/3b.PNG`}
-                alt="no image here"
-              />
+
       </div>
       {modal && (
         <div>
