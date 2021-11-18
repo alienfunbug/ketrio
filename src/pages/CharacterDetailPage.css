@@ -177,7 +177,7 @@
 }
 .details-fake-link-footer:hover {
   cursor: pointer;
-  text-shadow: 3px 3px rgb(128, 128, 128);
+  text-shadow: 2px 2px rgb(48, 48, 49);
 }
 
 .details-title-info {

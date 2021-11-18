@@ -3,8 +3,7 @@ import React, { useState } from "react";
 import "./VideoModal.css";
 
 function VideoModal(props) {
-
-    const {highlights} = props;
+  const { highlights } = props;
   const [modal, setModal] = useState(false);
 
   const toggleModal = () => {
@@ -12,10 +11,10 @@ function VideoModal(props) {
   };
 
   return (
-    <div>
-      <div onClick={toggleModal} className="details-fake-link">
-
-      </div>
+    <span>
+      <span onClick={toggleModal} className="details-fake-link-footer">
+        Highlights
+      </span>
       {modal && (
         <div>
           <ModalVideo
@@ -28,7 +27,7 @@ function VideoModal(props) {
           />
         </div>
       )}
-    </div>
+    </span>
   );
 }
 

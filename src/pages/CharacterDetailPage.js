@@ -22,7 +22,7 @@ function CharacterDetailPage(props) {
   const detailCard = characterData.map((n) => {
     if (n.selectedCharacter === playerNameProp) {
       return n.characterPosition.map((characterPosition, index) => {
-        defaultPosition=characterPosition.position
+        defaultPosition = characterPosition.position;
         return (
           <PositionDetail
             id={index}
@@ -58,7 +58,8 @@ function CharacterDetailPage(props) {
       fate1 = n.fate1;
       fate2 = n.fate2;
       fate3 = n.fate3;
-    }return null;
+    }
+    return null;
   });
 
   return (
@@ -67,7 +68,7 @@ function CharacterDetailPage(props) {
         {/*<div id="details-navbar">NavBar</div>
          <div className="details-title">
         */}
-       
+
         <div className={`details-title-${defaultPosition}`}>
           <span id="details-character-name">{selectedCharacter}</span>
           <div className="details-title-info">
@@ -81,29 +82,32 @@ function CharacterDetailPage(props) {
 
         <div className="details-footer">
           <div id="details-footer-subcontent">
-          <FateModal className="details_icons_text" selectedCharacter={selectedCharacter} fatePosition={defaultPosition} fate1={fate1} fate2={fate2} fate3={fate3} />
-
-
+            <FateModal
+              className="details_icons_text"
+              selectedCharacter={selectedCharacter}
+              fatePosition={defaultPosition}
+              fate1={fate1}
+              fate2={fate2}
+              fate3={fate3}
+            />
           </div>
           <div id="details-footer-subcontent">
             <div className="details-fake-link-footer">N/A </div>
-
           </div>
           <div id="details-footer-subcontent">
             {highlights ? (
               <div>
-                <div className="details-fake-link-footer">Highlights</div>
                 <VideoModal highlights={highlights} />
               </div>
             ) : (
               <div className="border-test">
-                <div className="details-fake-link-footer">Not Available</div>
-                <VideoModal highlights={highlights} />
+                <span className="details-fake-link-footer">No Video</span>
+ 
               </div>
             )}
           </div>
         </div>
- 
+
         <div className="details-main">
           <img src={characterImage} alt="file not found" className="img1" />
         </div>
@@ -112,4 +116,3 @@ function CharacterDetailPage(props) {
   );
 }
 export default CharacterDetailPage;
-
