@@ -39,11 +39,11 @@ body.active-modal {
 
 .dark-modal-content {
   position: absolute;
-  top: 40%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   line-height: 1.4;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, .95);
   padding: 8px 8px;
   border-radius: 10px;
   max-width: 600px;

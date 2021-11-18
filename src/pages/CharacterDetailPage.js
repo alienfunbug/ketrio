@@ -1,8 +1,8 @@
 import "./CharacterDetailPage.css";
 import React from "react";
 import PositionDetail from "../components/positionDetail/PositionDetail";
-import VideoModal from "../components/Modals/VideoModal";
-import FateModal from "../components/Modals/FateModal";
+import VideoModal from "../components/modals/VideoModal";
+import FateModal from "../components/modals/FateModal";
 import characterData from "../data/characterData/characters.json";
 
 function CharacterDetailPage(props) {

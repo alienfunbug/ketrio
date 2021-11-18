@@ -1,7 +1,7 @@
 import {} from "@material-ui/icons";
 import React from "react";
 //import "./PositionDetail.css";
-import SkillsModal from "../../components/Modals/SkillsModal";
+import SkillsModal from "../modals/SkillsModal";
 
 function PositionDetail(props) {
   const {
