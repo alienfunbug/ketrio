@@ -1,7 +1,6 @@
 import React from "react";
 import "./LandingPage.css";
 import profiles from "../data/characterData/landingpage.json";
-import Button from "../components/button/Button.js";
 import { Link } from "react-router-dom";
 import MessageModal from "../components/modals/MessageModal";
 
@@ -26,7 +25,7 @@ function LandingPage() {
         </div>
         <div>
           <MessageModal/>
-          {/*<Button label="About Page" /> */}
+
         </div>
       </div>
     </div>

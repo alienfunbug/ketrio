@@ -5,7 +5,7 @@ import CharacterPage from "./pages/CharacterPage";
 import CharacterDetailPage from "./pages/CharacterDetailPage";
 import VideoPage from "./pages/VideoPage";
 import ComingSoonPage from "./pages/ComingSoonPage";
-import MessageModal from "./components/modals/MessageModal";
+
 
 
 
