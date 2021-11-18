@@ -23,7 +23,7 @@ function SkillsModal(props) {
                 {selectedCharacter} {position} Elite Skills
               </h2>
 
-              <img src={eliteSkills} alt="no image here" />
+              <img src={eliteSkills} alt="file not found" />
               {/*<button className="close-modal" onClick={toggleModal}>
                 Close
       </button> */}

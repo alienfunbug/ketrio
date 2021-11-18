@@ -1,7 +1,6 @@
 import "./CharacterDetailPage.css";
 import React from "react";
 import PositionDetail from "../components/positionDetail/PositionDetail";
-import { ArrowBackOutlined, ArrowForwardIos } from "@material-ui/icons";
 import VideoModal from "../components/Modals/VideoModal";
 import FateModal from "../components/Modals/FateModal";
 import characterData from "../data/characterData/characters.json";
@@ -59,7 +58,7 @@ function CharacterDetailPage(props) {
       fate1 = n.fate1;
       fate2 = n.fate2;
       fate3 = n.fate3;
-    }
+    }return null;
   });
 
   return (
@@ -104,9 +103,9 @@ function CharacterDetailPage(props) {
             )}
           </div>
         </div>
-
+ 
         <div className="details-main">
-          <img src={characterImage} alt="no image here" className="img1" />
+          <img src={characterImage} alt="file not found" className="img1" />
         </div>
       </div>
     </div>
@@ -114,14 +113,3 @@ function CharacterDetailPage(props) {
 }
 export default CharacterDetailPage;
 
-/*
-
-
-load data from json file first step
-rewrite paper form of profile
-set up header with content and fonts
-set up middle data plan
-set up footer
-)
-
-*/

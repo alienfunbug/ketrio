@@ -13,7 +13,7 @@ function LandingPage() {
           {profiles.map((profile, index) => (
             <div className="landing-profile" key={index}>
               <Link to={`/${profile.link}/`}>
-                <img className="landing-image" src={profile.image_src} />
+                <img className="landing-image" src={profile.image_src} alt="file not found" />
               </Link>
 
               <span className="landing-display">{profile.display}</span>
