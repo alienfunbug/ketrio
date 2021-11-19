@@ -3,7 +3,7 @@ import "./App.css";
 import LandingPage from "./pages/LandingPage";
 import CharacterPage from "./pages/CharacterPage";
 import CharacterDetailPage from "./pages/CharacterDetailPage";
-import VideoPage from "./pages/VideoPage";
+import WeeklyVideoPage from "./pages/WeeklyVideoPage";
 import ComingSoonPage from "./pages/ComingSoonPage";
 
 
@@ -20,7 +20,7 @@ function App() {
           path={"/characterDetailPage/:char"}
           component={CharacterDetailPage}
         />
-        <Route path="/weeklyvideo" component={VideoPage} />
+        <Route path="/weeklyvideo" component={WeeklyVideoPage} />
         <Route path="/skills" component={ComingSoonPage} />
         <Route path="/comingsoon" component={ComingSoonPage} />
       </div>

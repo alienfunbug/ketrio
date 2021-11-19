@@ -1,11 +1,13 @@
 import React, { useEffect } from "react";
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import Loader from "react-loader-spinner";
-import "./VideoPage.css";
+import "./WeeklyVideoPage.css";
 
-function VideoPage() {
+function WeeklyVideoPage() {
+
+
   useEffect(() => {
-    window.location.href = "https://www.youtube.com/watch?v=23Puq-crFXM";
+    window.location.href = "https://www.youtube.com/watch?v=-0vY64SHA8A";
   }, []);
 
   return (
@@ -15,10 +17,10 @@ function VideoPage() {
         color="#191919"
         height={400}
         width={400}
-        timeout={15000} //3 secs
+        timeout={15000} 
       />
     </div>
   );
 }
 
-export default VideoPage;
+export default WeeklyVideoPage;

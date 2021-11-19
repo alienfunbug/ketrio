@@ -1,11 +1,11 @@
 import React, {  } from "react";
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import Loader from "react-loader-spinner";
-import "./VideoPage.css";
+import "./WeeklyVideoPage.css";
 
 function ComingSoonPage() {
   /*useEffect(() => {
-    window.location.href = "https://www.youtube.com/watch?v=23Puq-crFXM";
+    window.location.href = "https://www.youtube.com/watch?v=";
   }, []);*/
 
   return (
@@ -18,7 +18,7 @@ function ComingSoonPage() {
           color="#191919"
           height={400}
           width={400}
-          timeout={95000} //3 secs
+          timeout={95000} //95 secs
         />
       </div>
     </div>

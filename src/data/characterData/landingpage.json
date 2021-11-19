@@ -1,21 +1,21 @@
 [
   {
-    "image_src": "assets/images/landing_page/lead_char.PNG",
+    "image_src": "/ketrio/assets/images/landing_page/lead_char.PNG",
     "display": "Characters",
     "link": "characters"
   },
   {
-    "image_src": "assets/videos/landing_page/test.gif",
+    "image_src": "/ketrio/assets/videos/landing_page/test.gif",
     "display": "Weekly Video",
     "link": "weeklyvideo"
   },
   {
-    "image_src": "assets/images/landing_page/question_mark_comingsoon.jpeg",
+    "image_src": "/ketrio/assets/images/landing_page/question_mark_comingsoon.jpeg",
     "display": "Elite Skills",
     "link": "skills"
   },
   {
-    "image_src": "assets/images/landing_page/question_mark_comingsoon.jpeg",
+    "image_src": "/ketrio/assets/images/landing_page/question_mark_comingsoon.jpeg",
     "display": "TBD",
     "link": "comingsoon"
   }
