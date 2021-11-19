@@ -12,9 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Add required data to 'pages\LandingPage.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ### `More to be added later`
 
 - Place holder for other relevant information here.
