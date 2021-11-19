@@ -905,7 +905,7 @@
         "featureDescription": "After a successful Block, MARGINALLY decrease all oponents FG/Dunk rates until someone scores.",
         "skill": "None",
         "skillDescription": "None",
-        "statsPositive": "Tus",
+        "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
