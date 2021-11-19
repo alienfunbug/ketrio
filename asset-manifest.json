@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ketrio/static/css/main.35279762.chunk.css",
-    "main.js": "/ketrio/static/js/main.36bbd870.chunk.js",
-    "main.js.map": "/ketrio/static/js/main.36bbd870.chunk.js.map",
+    "main.css": "/ketrio/static/css/main.c2fe7943.chunk.css",
+    "main.js": "/ketrio/static/js/main.9f782a13.chunk.js",
+    "main.js.map": "/ketrio/static/js/main.9f782a13.chunk.js.map",
     "runtime-main.js": "/ketrio/static/js/runtime-main.6880932b.js",
     "runtime-main.js.map": "/ketrio/static/js/runtime-main.6880932b.js.map",
     "static/css/2.fe79023c.chunk.css": "/ketrio/static/css/2.fe79023c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.2dc28a51.chunk.js.map": "/ketrio/static/js/3.2dc28a51.chunk.js.map",
     "index.html": "/ketrio/index.html",
     "static/css/2.fe79023c.chunk.css.map": "/ketrio/static/css/2.fe79023c.chunk.css.map",
-    "static/css/main.35279762.chunk.css.map": "/ketrio/static/css/main.35279762.chunk.css.map",
+    "static/css/main.c2fe7943.chunk.css.map": "/ketrio/static/css/main.c2fe7943.chunk.css.map",
     "static/js/2.24c12f12.chunk.js.LICENSE.txt": "/ketrio/static/js/2.24c12f12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6880932b.js",
     "static/css/2.fe79023c.chunk.css",
     "static/js/2.24c12f12.chunk.js",
-    "static/css/main.35279762.chunk.css",
-    "static/js/main.36bbd870.chunk.js"
+    "static/css/main.c2fe7943.chunk.css",
+    "static/js/main.9f782a13.chunk.js"
   ]
 }
