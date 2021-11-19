@@ -413,14 +413,7 @@
         "position2": "C",
         "position3": null
       },
-      {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
+
       {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.PNG",
@@ -468,6 +461,14 @@
         "position1": "PF",
         "position2": "C",
         "position3": null
+      },
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
       },
 
       {
@@ -639,7 +640,7 @@
         "position2": "C",
         "position3": "PF"
       },
-      
+
       {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.PNG",
