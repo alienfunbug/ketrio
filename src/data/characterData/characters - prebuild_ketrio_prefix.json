@@ -1,7 +1,7 @@
 [
   {
     "selectedCharacter": "Kaisa",
-    "characterImage": "../assets/images/ranking_images/ranking_large_kaisa.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_kaisa.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -23,7 +23,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/kaisa_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kaisa_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -35,14 +35,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/kaisa_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kaisa_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Wilson",
-    "characterImage": "../assets/images/ranking_images/ranking_large_wilson.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_wilson.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -64,7 +64,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/wilson_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/wilson_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -76,14 +76,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/wilson_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/wilson_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Rick",
-    "characterImage": "../assets/images/ranking_images/ranking_large_rick.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_rick.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -105,7 +105,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/rick_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/rick_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -117,14 +117,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/rick_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/rick_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Eric",
-    "characterImage": "../assets/images/ranking_images/ranking_large_eric.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_eric.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -146,7 +146,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/eric_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/eric_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -158,14 +158,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/eric_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/eric_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Sugar",
-    "characterImage": "../assets/images/ranking_images/ranking_large_sugar.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_sugar.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -187,7 +187,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/sugar_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sugar_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -199,14 +199,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/sugar_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sugar_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Jamie",
-    "characterImage": "../assets/images/ranking_images/ranking_large_jamie.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_jamie.PNG",
     "rating": "Rating 150",
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
@@ -229,7 +229,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/jamie_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/jamie_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -241,14 +241,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/jamie_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/jamie_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Taylor",
-    "characterImage": "../assets/images/ranking_images/ranking_large_taylor.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_taylor.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -270,7 +270,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/taylor_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/taylor_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -282,14 +282,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/taylor_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/taylor_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Max",
-    "characterImage": "../assets/images/ranking_images/ranking_large_max.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_max.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -311,7 +311,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/max_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/max_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -323,14 +323,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/max_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/max_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Hayes",
-    "characterImage": "../assets/images/ranking_images/ranking_large_hayes.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_hayes.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -352,7 +352,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/hayes_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/hayes_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -364,14 +364,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/hayes_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/hayes_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Johnson",
-    "characterImage": "../assets/images/ranking_images/ranking_large_johnson.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_johnson.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -393,7 +393,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/johnson_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/johnson_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -405,14 +405,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/johnson_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/johnson_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Min-Jun",
-    "characterImage": "../assets/images/ranking_images/ranking_large_min-jun.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_min-jun.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -434,7 +434,7 @@
         "statsNegative": "-5 Control",
         "statsNeutral": "",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/min-jun_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/min-jun_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -446,14 +446,14 @@
         "statsNegative": "-5 Steal",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/min-jun_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/min-jun_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Cyborg T",
-    "characterImage": "../assets/images/ranking_images/ranking_large_cyborgt.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_cyborgt.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -475,7 +475,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/cyborgt_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/cyborgt_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -487,14 +487,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/cyborgt_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/cyborgt_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Shalice",
-    "characterImage": "../assets/images/ranking_images/ranking_large_shalice.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_shalice.PNG",
     "rating": "Rating 400",
     "cost": "Epic Contract",
     "TBD": "TBD",
@@ -516,7 +516,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/shalice_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/shalice_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -528,14 +528,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/shalice_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/shalice_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Harley",
-    "characterImage": "../assets/images/ranking_images/ranking_large_harley.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_harley.PNG",
     "rating": "Rating 400",
     "cost": "Epic Contract",
     "TBD": "TBD",
@@ -557,7 +557,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/harley_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/harley_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -569,14 +569,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/harley_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/harley_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Harmen",
-    "characterImage": "../assets/images/ranking_images/ranking_large_harmen.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_harmen.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -598,7 +598,7 @@
         "statsNegative": "-7 Control",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/harmen_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/harmen_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -610,14 +610,14 @@
         "statsNegative": "-7 Pass",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/harmen_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/harmen_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Falco",
-    "characterImage": "../assets/images/ranking_images/ranking_large_falco.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_falco.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -639,7 +639,7 @@
         "statsNegative": "-10 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/falco_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/falco_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -651,14 +651,14 @@
         "statsNegative": "-5 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/falco_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/falco_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Nova",
-    "characterImage": "../assets/images/ranking_images/ranking_large_nova.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_nova.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -680,7 +680,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/nova_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/nova_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -692,14 +692,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/nova_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/nova_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "MZ",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mz.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_mz.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -721,7 +721,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/mz_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mz_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -733,7 +733,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/mz_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mz_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -745,14 +745,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/mz_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mz_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Raven",
-    "characterImage": "../assets/images/ranking_images/ranking_large_raven.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_raven.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -774,7 +774,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/raven_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/raven_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -786,14 +786,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/raven_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/raven_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Tsukino",
-    "characterImage": "../assets/images/ranking_images/ranking_large_tsukino.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_tsukino.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -815,7 +815,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/tsukino_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/tsukino_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -827,7 +827,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/tsukino_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/tsukino_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -839,14 +839,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/tsukino_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/tsukino_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Sakura",
-    "characterImage": "../assets/images/ranking_images/ranking_large_sakura.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_sakura.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -868,7 +868,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/sakura_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sakura_pf_elite_skills.PNG"
       },
       {
         "position": "C",
@@ -880,14 +880,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/sakura_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sakura_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Emily",
-    "characterImage": "../assets/images/ranking_images/ranking_large_emily.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_emily.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -909,7 +909,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/emily_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/emily_c_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -921,14 +921,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/emily_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/emily_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Colonel",
-    "characterImage": "../assets/images/ranking_images/ranking_large_colonel.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_colonel.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -950,7 +950,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/colonel_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/colonel_pf_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -962,13 +962,13 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/colonel_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/colonel_sf_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Lorsha",
-    "characterImage": "../assets/images/ranking_images/ranking_large_lorsha.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_lorsha.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -990,7 +990,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/lorsha_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lorsha_sf_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -1002,14 +1002,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/lorsha_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lorsha_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Hong",
-    "characterImage": "../assets/images/ranking_images/ranking_large_hong.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_hong.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1031,7 +1031,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/hong_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/hong_sf_elite_skills.PNG"
       },
       {
         "position": "PF",
@@ -1043,14 +1043,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/hong_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/hong_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Arthur",
-    "characterImage": "../assets/images/ranking_images/ranking_large_arthur.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_arthur.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -1072,7 +1072,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/arthur_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/arthur_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1084,14 +1084,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/arthur_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/arthur_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Kai",
-    "characterImage": "../assets/images/ranking_images/ranking_large_kai.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_kai.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -1113,7 +1113,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/kai_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kai_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1125,7 +1125,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/kai_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kai_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1137,14 +1137,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/kai_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kai_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Jessica",
-    "characterImage": "../assets/images/ranking_images/ranking_large_jessica.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_jessica.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -1166,7 +1166,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/jessica_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/jessica_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1178,14 +1178,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/jessica_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/jessica_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Sophia",
-    "characterImage": "../assets/images/ranking_images/ranking_large_sophia.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_sophia.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -1207,7 +1207,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/sophia_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sophia_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1219,7 +1219,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "../assets/images/elite_skills/sophia_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sophia_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1231,14 +1231,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/sophia_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/sophia_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Antony",
-    "characterImage": "../assets/images/ranking_images/ranking_large_antony.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_antony.PNG",
     "rating": "Rating 400",
     "cost": "Epic Contract",
     "TBD": "TBD",
@@ -1260,7 +1260,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/antony_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/antony_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1272,7 +1272,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "../assets/images/elite_skills/antony_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/antony_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1284,14 +1284,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/antony_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/antony_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Victor",
-    "characterImage": "../assets/images/ranking_images/ranking_large_victor.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_victor.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -1313,7 +1313,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/victor_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/victor_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1325,7 +1325,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% Pass Speed.",
-        "eliteSkills": "../assets/images/elite_skills/victor_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/victor_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1337,14 +1337,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/victor_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/victor_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Yuhyun",
-    "characterImage": "../assets/images/ranking_images/ranking_large_yuhyun.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_yuhyun.PNG",
     "rating": "Rating 400",
     "cost": "700 Diamonds | 900 Shards",
     "TBD": "TBD",
@@ -1366,7 +1366,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/yuhyun_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/yuhyun_pg_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1378,14 +1378,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/yuhyun_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/yuhyun_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Elke",
-    "characterImage": "../assets/images/ranking_images/ranking_large_elke.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_elke.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1407,7 +1407,7 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/elke_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/elke_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1419,7 +1419,7 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/elke_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/elke_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1431,14 +1431,14 @@
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/elke_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/elke_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Avis",
-    "characterImage": "../assets/images/ranking_images/ranking_large_avis.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_avis.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1460,7 +1460,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/avis_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/avis_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1472,7 +1472,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/avis_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/avis_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1484,14 +1484,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/avis_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/avis_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Frank",
-    "characterImage": "../assets/images/ranking_images/ranking_large_frank.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_frank.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1513,7 +1513,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/frank_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/frank_sg_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1525,14 +1525,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/frank_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/frank_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Lumi",
-    "characterImage": "../assets/images/ranking_images/ranking_large_lumi.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_lumi.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1554,7 +1554,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/lumi_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lumi_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1566,7 +1566,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/lumi_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lumi_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1578,14 +1578,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/lumi_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lumi_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Lora",
-    "characterImage": "../assets/images/ranking_images/ranking_large_lora.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_lora.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1607,7 +1607,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/lora_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lora_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1619,7 +1619,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/lora_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lora_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1631,14 +1631,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/lora_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lora_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Lana",
-    "characterImage": "../assets/images/ranking_images/ranking_large_lana.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_lana.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1660,7 +1660,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/lana_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lana_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1672,7 +1672,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/lana_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lana_sf_elite_skills.PNG"
       },
       {
         "position": "PG",
@@ -1684,14 +1684,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/lana_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lana_pg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Kobe",
-    "characterImage": "../assets/images/ranking_images/ranking_large_kobe.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_kobe.PNG",
     "rating": "Rating 300",
     "cost": "300 Diamonds | 400 Shards",
     "TBD": "TBD",
@@ -1713,7 +1713,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+6% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/kobe_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kobe_sg_elite_skills.PNG"
       },
       {
         "position": "SF",
@@ -1725,14 +1725,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+8.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/kobe_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/kobe_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Diana",
-    "characterImage": "../assets/images/ranking_images/ranking_large_diana.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_diana.PNG",
     "rating": "Rating 400",
     "cost": "Epic Contract",
     "TBD": "TBD",
@@ -1754,7 +1754,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+13.5% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/diana_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/diana_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1766,13 +1766,13 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+9% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/diana_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/diana_sg_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Maple",
-    "characterImage": "../assets/images/ranking_images/ranking_large_maple.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_maple.PNG",
     "rating": "Rating 500",
     "cost": "1 Token | 4700 Shards",
     "TBD": "TBD",
@@ -1794,7 +1794,7 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/maple_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/maple_sf_elite_skills.PNG"
       },
       {
         "position": "SG",
@@ -1806,14 +1806,14 @@
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/maple_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/maple_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Gori",
-    "characterImage": "../assets/images/ranking_images/ranking_large_gori.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_gori.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1835,14 +1835,14 @@
         "statsNegative": "-20 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/gori_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/gori_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Livia",
-    "characterImage": "../assets/images/ranking_images/ranking_large_livia.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_livia.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1864,14 +1864,14 @@
         "statsNegative": "-15 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/livia_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/livia_c_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Tsuna",
-    "characterImage": "../assets/images/ranking_images/ranking_large_tsuna.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_tsuna.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1893,14 +1893,14 @@
         "statsNegative": "-10 Run",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/tsuna_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/tsuna_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Claw",
-    "characterImage": "../assets/images/ranking_images/ranking_large_claw.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_claw.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1922,14 +1922,14 @@
         "statsNegative": "-20 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/claw_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/claw_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Lebron",
-    "characterImage": "../assets/images/ranking_images/ranking_large_lebron.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_lebron.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1951,14 +1951,14 @@
         "statsNegative": "-15 Steal",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
-        "eliteSkills": "../assets/images/elite_skills/lebron_pf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/lebron_pf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Ryo",
-    "characterImage": "../assets/images/ranking_images/ranking_large_ryo.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_ryo.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -1980,13 +1980,13 @@
         "statsNegative": "-3pt Shoot",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/ryo_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/ryo_pg_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Mary",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mary.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_mary.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2008,13 +2008,13 @@
         "statsNegative": "-5 Block",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/elite_skills/mary_pg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mary_pg_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Beard",
-    "characterImage": "../assets/images/ranking_images/ranking_large_beard.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_beard.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2036,14 +2036,14 @@
         "statsNegative": "-25 Rebound",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/beard_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/beard_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Mitsuki",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mitsuki.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_mitsuki.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2065,14 +2065,14 @@
         "statsNegative": "-10 Stamina",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/mitsuki_sg_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mitsuki_sg_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Mac",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mac.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_mac.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2094,13 +2094,13 @@
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/mac_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mac_sf_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Mai",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mai.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_mai.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2122,13 +2122,13 @@
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/mai_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/mai_sf_elite_skills.PNG"
       }
     ]
   },
   {
     "selectedCharacter": "Uncle Drew",
-    "characterImage": "../assets/images/ranking_images/ranking_large_uncledrew.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_uncledrew.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2150,14 +2150,14 @@
         "statsNegative": "-5 Pass",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/elite_skills/uncledrew_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/uncledrew_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Moon",
-    "characterImage": "../assets/images/ranking_images/ranking_large_moon.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_moon.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2179,14 +2179,14 @@
         "statsNegative": "-5 L/D",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/moon_sf_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/moon_sf_elite_skills.PNG"
       }
     ]
   },
 
   {
     "selectedCharacter": "Shaq",
-    "characterImage": "../assets/images/ranking_images/ranking_large_shaq.PNG",
+    "characterImage": "../ketrio/assets/images/ranking_images/ranking_large_shaq.PNG",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2208,7 +2208,7 @@
         "statsNegative": "-20 Stamina -12 3pt Shot -10 M.Shot -10 Run -2 Control",
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
-        "eliteSkills": "../assets/images/elite_skills/shaq_c_elite_skills.PNG"
+        "eliteSkills": "../ketrio/assets/images/elite_skills/shaq_c_elite_skills.PNG"
       }
     ]
   }
