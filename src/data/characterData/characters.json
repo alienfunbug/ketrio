@@ -2089,7 +2089,7 @@
         "featureName": "Tracy: ",
         "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3-point FG.",
         "skill": "Power 3pt",
-        "skillDescription": "3pt Shot and Quick Jumper Speed increased. 3pt FG% increase while open.",
+        "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed.",
         "statsPositive": "+25 3pt Shot",
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
