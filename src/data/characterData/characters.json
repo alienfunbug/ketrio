@@ -2203,7 +2203,7 @@
         "featureName": "The Hunt Begins: ",
         "featureDescription": "(CONSIDERABLY?) increase Dunk Rate for 2s after receiving a pass.",
         "skill": "Heavy Bomb",
-        "skillDescription": "Increase chance for Contact Fail while dunking",
+        "skillDescription": "Increase chance for Contact Fail while dunking on smaller position.",
         "statsPositive": "+40 Contact +15 L/D +10 Rebound +2 Inside Shot +2 Block",
         "statsNegative": "-20 Stamina -12 3pt Shot -10 M.Shot -10 Run -2 Control",
         "statsNeutral": "",
