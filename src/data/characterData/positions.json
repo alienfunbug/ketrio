@@ -4,7 +4,7 @@
     "players": [
       {
         "name": "Phantom",
-        "img": "../assets/images/portraits/Pnpmhantom_full.PNG",
+        "img": "../assets/images/portraits/Phantom_full.PNG",
         "rating": "Rating 500",
         "position1": "PG",
         "position2": null,
