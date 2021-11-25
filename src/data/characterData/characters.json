@@ -2162,7 +2162,7 @@
     "cost": "From Recruitment",
     "TBD": "TBD",
     "positionCount": 1,
-    "highlights": "T2lJdX5_Exg",
+    "highlights": "cFP-GwngBEA",
     "evolve": "EVOLVE DETAILS",
     "fate1": "Frank Antony",
     "fate2": "CyborgT Diana",
@@ -2179,7 +2179,7 @@
         "statsNegative": "-5 L/D",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
-        "eliteSkills": "../assets/images/elite_skills/moon_sf_elite_skills.PNG"
+        "eliteSkills": "../assets/images/elite_skills/moon_sg_elite_skills.PNG"
       }
     ]
   },
@@ -2209,6 +2209,35 @@
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
         "eliteSkills": "../assets/images/elite_skills/shaq_c_elite_skills.PNG"
+      }
+    ]
+  },
+  
+  {
+    "selectedCharacter": "Phantom",
+    "characterImage": "../assets/images/ranking_images/ranking_large_phantom.PNG",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "YaBAhnQ3tc0",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Sakura Sophia",
+    "fate2": "Johnson Yuhyun",
+    "fate3": "Lorsha Arthur",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Assist King: ",
+        "featureDescription": "The Assist King has increased Pass Speed for chest passes. Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
+        "skill": "Phantom Pass",
+        "skillDescription": "At the moment of receiving a chest pass, the ball is shot at a very fast speed and passed accurately to the hands of teammates. You need to wear a \"Quick Pass\" skill to trigger.",
+        "statsPositive": "+20 Pass +5 Control +4 Stamina +3 3pt Shot +3 Run +2 Steal",
+        "statsNegative": "-10 M.Shot -10 Contact -2 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/elite_skills/phantom_pg_elite_skills.PNG"
       }
     ]
   }

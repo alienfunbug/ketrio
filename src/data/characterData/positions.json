@@ -3,26 +3,35 @@
     "position": "All-Stars",
     "players": [
       {
-        "name": "Beard",
-        "img": "../assets/images/portraits/Beard_full.PNG",
+        "name": "Phantom",
+        "img": "../assets/images/portraits/phantom_full.PNG",
         "rating": "Rating 500",
-        "position1": "SG",
+        "position1": "PG",
         "position2": null,
         "position3": null
       },
       {
-        "name": "Claw",
-        "img": "../assets/images/portraits/Claw_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PF",
-        "position2": null,
-        "position3": null
-      },
-      {
-        "name": "Gori",
-        "img": "../assets/images/portraits/Gori_full.PNG",
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.PNG",
         "rating": "Rating 500",
         "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Moon",
+        "img": "../assets/images/portraits/Moon_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SG",
         "position2": null,
         "position3": null
       },
@@ -42,14 +51,7 @@
         "position2": null,
         "position3": null
       },
-      {
-        "name": "Mac",
-        "img": "../assets/images/portraits/Mac_full.PNG",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": null,
-        "position3": null
-      },
+
       {
         "name": "Mai",
         "img": "../assets/images/portraits/Mai_full.PNG",
@@ -74,6 +76,32 @@
         "position2": null,
         "position3": null
       },
+
+      {
+        "name": "Claw",
+        "img": "../assets/images/portraits/Claw_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mac",
+        "img": "../assets/images/portraits/Mac_full.PNG",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Gori",
+        "img": "../assets/images/portraits/Gori_full.PNG",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
       {
         "name": "Ryo",
         "img": "../assets/images/portraits/Ryo_full.PNG",
@@ -83,34 +111,18 @@
         "position3": null
       },
       {
-        "name": "Tsuna",
-        "img": "../assets/images/portraits/Tsuna_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PF",
-        "position2": null,
-        "position3": null
-      },
-      {
-        "name": "Uncle Drew",
-        "img": "../assets/images/portraits/UncleDrew_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PG",
-        "position2": null,
-        "position3": null
-      },
-      {
-        "name": "Moon",
-        "img": "../assets/images/portraits/Moon_full.PNG",
+        "name": "Beard",
+        "img": "../assets/images/portraits/Beard_full.PNG",
         "rating": "Rating 500",
         "position1": "SG",
         "position2": null,
         "position3": null
       },
       {
-        "name": "Shaq",
-        "img": "../assets/images/portraits/Shaq_full.PNG",
+        "name": "Tsuna",
+        "img": "../assets/images/portraits/Tsuna_full.PNG",
         "rating": "Rating 500",
-        "position1": "C",
+        "position1": "PF",
         "position2": null,
         "position3": null
       }
