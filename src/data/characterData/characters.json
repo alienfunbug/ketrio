@@ -2230,7 +2230,7 @@
       {
         "position": "Point_Guard",
         "featureName": "Assist King: ",
-        "featureDescription": "The Assist King has increased Pass Speed for chest passes. Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
+        "featureDescription": "Increased Pass Speed for chest passes. Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
         "skill": "Phantom Pass",
         "skillDescription": "At the moment of receiving a chest pass, the ball is shot at a very fast speed and passed accurately to the hands of teammates. You need to wear a \"Quick Pass\" skill to trigger.",
         "statsPositive": "+20 Pass +5 Control +4 Stamina +3 3pt Shot +3 Run +2 Steal",

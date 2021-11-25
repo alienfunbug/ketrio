@@ -993,6 +993,14 @@
         "position2": null,
         "position3": null
       },
+      {
+        "name": "Phantom",
+        "img": "../assets/images/portraits/Phantom_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
 
       {
         "name": "Rick",
