@@ -1977,7 +1977,7 @@
         "skill": "Flash Steal",
         "skillDescription": "Steal the ball in a flash.",
         "statsPositive": "+15 Steal +5 Run",
-        "statsNegative": "-3pt Shoot",
+        "statsNegative": "-5 3pt Shot",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
         "eliteSkills": "../assets/images/elite_skills/ryo_pg_elite_skills.PNG"
