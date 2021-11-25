@@ -96,7 +96,7 @@
   grid-area: title;
   background-image: radial-gradient(
     farthest-corner at 90px 940px,
-    #f4a460 0%,
+    #f4a460 40%,
     rgb(23, 168, 62) 100%
   );
   border-radius: var(--main-radius);
