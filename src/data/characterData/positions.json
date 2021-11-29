@@ -18,14 +18,6 @@
         "position2": null,
         "position3": null
       },
-      {
-        "name": "Uncle Drew",
-        "img": "../assets/images/portraits/UncleDrew_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PG",
-        "position2": null,
-        "position3": null
-      },
 
       {
         "name": "Moon",
@@ -35,6 +27,15 @@
         "position2": null,
         "position3": null
       },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
       {
         "name": "Lebron",
         "img": "../assets/images/portraits/Lebron_full.PNG",
