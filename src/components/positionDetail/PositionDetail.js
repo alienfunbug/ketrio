@@ -1,6 +1,6 @@
 import {} from "@material-ui/icons";
 import React from "react";
-//import "./PositionDetail.css";
+
 import SkillsModal from "../modals/SkillsModal";
 
 function PositionDetail(props) {
@@ -23,29 +23,31 @@ function PositionDetail(props) {
     <div className={`details-position-info${id}`} key={id}>
       <div className={position}>
         <div id="details-position-name">{position}</div>
-        <div>
-          <span /*PUT STUFF HERE */>{featureName}</span>
+        <div className="details-padded-div">
+          <span className="details-header">{featureName}</span>
           <span /*PUT STUFF HERE */>{featureDescription}</span>
         </div>
-        <div>
-          <span /*PUT STUFF HERE */>Skill: </span>
+        <div className="details-padded-div">
+          <span className="details-header">Skill: </span>
           <span /*PUT STUFF HERE */>{skillDescription}</span>
-
         </div>
-        <span className="details-statsHeader">Stats:</span>
+        <span className="details-header">Stats:</span>
         <span className="details-stats">
           <span className="details-stats-neutral">{statsNeutral}</span>
           <span className="details-stats-positive">{statsPositive}</span>
           <span className="details-stats-negative">{statsNegative}</span>
         </span>
-        <div>
-          <span /*PUT STUFF HERE */>Passive: </span>
+        <div className="details-padded-div">
+          <span className="details-header">Passive: </span>
           <span /*PUT STUFF HERE */>{passive} </span>
         </div>
 
-        <SkillsModal className="details-fake-link" selectedCharacter={selectedCharacter} position = {position} eliteSkills={eliteSkills} />
-
-
+        <SkillsModal
+          className="details-fake-link"
+          selectedCharacter={selectedCharacter}
+          position={position}
+          eliteSkills={eliteSkills}
+        />
       </div>
     </div>
   );

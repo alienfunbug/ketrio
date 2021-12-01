@@ -3,20 +3,6 @@
   --main-padding: 15px;
 }
 
-.details-header {
-  padding: 2vh;
-  color: rgb(255, 255, 255);
-  font-family: "Roboto", sans-serif;
-  font-weight: 200;
-  font-size: 70px;
-  text-shadow: 1px 1px #050100;
-  background-image: radial-gradient(
-    farthest-corner at 90px 940px,
-    #f4a460 0%,
-    #434 100%
-  );
-}
-
 .details-container {
   background: rgb(30, 30, 30);
   color: white;
@@ -28,7 +14,6 @@
   grid-template-rows: 0.2fr 0.002fr 1fr 1fr 1fr 0.25fr;
 
   grid-template-areas:
-
     "title title title"
     "titleInfo titleInfo titleInfo"
     "positionInfoBlock main main"
@@ -331,6 +316,15 @@
   border-radius: var(--main-radius);
   padding: var(--main-padding);
 }
+.details-padded-div {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.details-header {
+
+
+}
 
 .details-stats {
   font-weight: 600;
@@ -405,7 +399,6 @@
   background: #2f4f4f;
   border-radius: var(--main-radius);
 }
-
 
 .details-main {
   grid-area: main;

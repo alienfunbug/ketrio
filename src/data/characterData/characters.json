@@ -2143,9 +2143,9 @@
       {
         "position": "Small_Forward",
         "featureName": "Change: ",
-        "featureDescription": "After CrazyStep, dribbling left or right increases drive speed (and chance of breaking ankles?).",
+        "featureDescription": "After CrazyStep, dribbling left or right SLIGHTLY increases drive/dash speed.",
         "skill": "Tease",
-        "skillDescription": "TBD.",
+        "skillDescription": "Hold Dash to create space and start behind the back dribble. During skill, regular Shot Speed and Steal Resistance will increase. Equipping \"Back Dribble\" will create even more space.",
         "statsPositive": "+10 3pt Shot +10 Stamina",
         "statsNegative": "-5 Pass",
         "statsNeutral": "",
