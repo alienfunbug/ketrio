@@ -4,6 +4,7 @@ import PositionDetail from "../components/positionDetail/PositionDetail";
 import VideoModal from "../components/modals/VideoModal";
 import FateModal from "../components/modals/FateModal";
 import characterData from "../data/characterData/characters.json";
+import { Link } from "react-router-dom";
 
 function CharacterDetailPage(props) {
   const playerNameProp = props.match.params.char;
@@ -70,6 +71,15 @@ function CharacterDetailPage(props) {
         */}
 
         <div className={`details-title-${defaultPosition}`}>
+
+        <Link id="details-back-button"
+      to={{
+        pathname: `/characters/`
+      }}
+      style={{ textDecoration: 'none', color: '#FFF' }}
+    > Back
+      </Link>
+        {/*<span id="details-back-button">Back</span> */}
           <span id="details-character-name">{selectedCharacter}</span>
           <div className="details-title-info">
             <div id="details-rating">{rating}</div>
