@@ -45,6 +45,14 @@
         "position3": null
       },
       {
+        "name": "Mary",
+        "img": "../assets/images/portraits/Mary_full.PNG",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Livia",
         "img": "../assets/images/portraits/Livia_full.PNG",
         "rating": "Rating 500",
@@ -52,7 +60,6 @@
         "position2": null,
         "position3": null
       },
-
       {
         "name": "Mai",
         "img": "../assets/images/portraits/Mai_full.PNG",
@@ -61,14 +68,7 @@
         "position2": null,
         "position3": null
       },
-      {
-        "name": "Mary",
-        "img": "../assets/images/portraits/Mary_full.PNG",
-        "rating": "Rating 500",
-        "position1": "PG",
-        "position2": null,
-        "position3": null
-      },
+
       {
         "name": "Mitsuki",
         "img": "../assets/images/portraits/Mitsuki_full.PNG",
