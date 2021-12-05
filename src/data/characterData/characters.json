@@ -2087,7 +2087,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Tracy: ",
-        "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3-point FG.",
+        "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3pt FG%.",
         "skill": "Power 3pt",
         "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed.",
         "statsPositive": "+25 3pt Shot",
@@ -2232,7 +2232,7 @@
         "featureName": "Assist King: ",
         "featureDescription": "Increased Pass Speed for chest passes. Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
         "skill": "Phantom Pass",
-        "skillDescription": "At the moment of receiving a chest pass, the ball is shot at a very fast speed and passed accurately to the hands of teammates. You need to wear a \"Quick Pass\" skill to trigger.",
+        "skillDescription": "When a receiving a Chest Pass, use Quick Pass to return the ball to teammate at an very fast speed and Increase Teammate's Shot Speed. Must equip \"Quick Pass\" skill to trigger.",
         "statsPositive": "+20 Pass +5 Control +4 Stamina +3 3pt Shot +3 Run +2 Steal",
         "statsNegative": "-10 M.Shot -10 Contact -2 Inside Shot",
         "statsNeutral": "",
