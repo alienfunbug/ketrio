@@ -524,15 +524,6 @@
       },
 
       {
-        "name": "Kobe",
-        "img": "../assets/images/portraits/Kobe_full.png",
-        "rating": "Rating 300",
-        "position1": "SF",
-        "position2": "SG",
-        "position3": null
-      },
-
-      {
         "name": "Colonel",
         "img": "../assets/images/portraits/Colonel_full.png",
         "rating": "Rating 300",
@@ -584,7 +575,14 @@
         "position2": "SG",
         "position3": "PG"
       },
-
+      {
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.png",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
       {
         "name": "Lana",
         "img": "../assets/images/portraits/Lana_full.png",
@@ -709,7 +707,6 @@
         "position2": "PG",
         "position3": null
       },
-
       {
         "name": "Avis",
         "img": "../assets/images/portraits/Avis_full.png",
@@ -724,14 +721,6 @@
         "rating": "Rating 500",
         "position1": "SG",
         "position2": null,
-        "position3": null
-      },
-      {
-        "name": "Kobe",
-        "img": "../assets/images/portraits/Kobe_full.png",
-        "rating": "Rating 300",
-        "position1": "SG",
-        "position2": "SF",
         "position3": null
       },
       {
@@ -782,7 +771,6 @@
         "position2": "PG",
         "position3": null
       },
-
       {
         "name": "Kai",
         "img": "../assets/images/portraits/Kai_full.png",
@@ -791,7 +779,14 @@
         "position2": "PG",
         "position3": "SF"
       },
-
+      {
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.png",
+        "rating": "Rating 300",
+        "position1": "SG",
+        "position2": "SF",
+        "position3": null
+      },
       {
         "name": "Lana",
         "img": "../assets/images/portraits/Lana_full.png",
@@ -800,7 +795,6 @@
         "position2": "PG",
         "position3": "SF"
       },
-
       {
         "name": "Lora",
         "img": "../assets/images/portraits/Lora_full.png",
