@@ -2240,5 +2240,33 @@
         "eliteSkills": "../assets/images/elite_skills/phantom_pg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Tyrant",
+    "characterImage": "../assets/images/ranking_images/ranking_large_tyrant.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "FuJVIJutw3A",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Coming Soon",
+    "fate2": "Coming Soon",
+    "fate3": "Coming Soon",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Ironblood Defense: ",
+        "featureDescription": "When successfully colliding with opponent while using Face Up, increase chance of causing knockdown and double dribble effects.",
+        "skill": "Intimidate",
+        "skillDescription": "While using Face Up in opponent's interruption zone, (Considerably?) increase chance of opponent's passes being \"Thrown Away\".",
+        "statsPositive": "+5 Rebound +5 Block +10 Contact +10 Run +25 Stamina +5 Pass",
+        "statsNegative": "-15 M.Shot -15 3pt Shot -5 Inside Shot -5 L/D -10 Control",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/elite_skills/tyrant_pf_elite_skills.png"
+      }
+    ]
   }
 ]

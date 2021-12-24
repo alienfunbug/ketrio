@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Tyrant",
+        "img": "../assets/images/portraits/Tyrant_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Phantom",
         "img": "../assets/images/portraits/Phantom_full.png",
         "rating": "Rating 500",
@@ -487,6 +495,14 @@
       {
         "name": "Tsuna",
         "img": "../assets/images/portraits/Tsuna_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Tyrant",
+        "img": "../assets/images/portraits/Tyrant_full.png",
         "rating": "Rating 500",
         "position1": "PF",
         "position2": null,
