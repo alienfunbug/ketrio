@@ -2260,7 +2260,7 @@
         "featureName": "Ironblood Defense: ",
         "featureDescription": "When successfully colliding with opponent while using Face Up, increase chance of causing knockdown and double dribble effects.",
         "skill": "Intimidate",
-        "skillDescription": "While using Face Up in opponent's interruption zone, (Considerably?) increase chance of opponent's passes being \"Thrown Away\".",
+        "skillDescription": "While using Face Up in opponent's interruption zone, increase chance of opponent's passes being \"Thrown Away\".",
         "statsPositive": "+5 Rebound +5 Block +10 Contact +10 Run +25 Stamina +5 Pass",
         "statsNegative": "-15 M.Shot -15 3pt Shot -5 Inside Shot -5 L/D -10 Control",
         "statsNeutral": "",
