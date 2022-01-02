@@ -1,0 +1,322 @@
+ren *.* *.png
+
+number: +86 15966059735
+p: ASD090$$#
+
+https://www.youtube.com/hashtag/%E6%A5%B5%E9%99%90%E8%A1%97%E7%B1%83
+CHECK CHROME BOOK MARKS
+
+https://www.iconsdb.com/gray-icons/warning-5-icon.html
+downsize icons to WIDTH of 64 pixels in 3d paint
+https://support.google.com/youtube/answer/10059070?hl=en
+
+
+
+
+
+Need separate Modals
+ 	- skills modal
+	- fate modal (three slots?) text no picture
+
+
+
+ 
+ 
+Antony
+Arthur
+Avis
+Beard
+Claw
+Colonel
+Cyborg T
+Diana
+Elke
+Emily
+Eric
+Falco
+Frank
+Gori
+Harley
+Harmen
+Hayes
+Hong
+Jamie
+Jessica
+Johnson
+Kai
+Kaisa
+Kobe
+Lana
+Lebron
+Livia
+Lora
+Lorsha
+Lumi
+MZ
+Mac
+Mai
+Maple
+Mary
+Max
+Min-Jun
+Mitsuki
+Moon
+Motizuki
+Nova
+Raven
+Rick
+Ryo
+Sakura
+Shalice
+Shaq
+Sophia
+Sugar
+Taylor
+Tsuna
+Uncle Drew
+Victor
+Wilson
+Yuhyun
+ 
+.main-content{
+  display: flex;
+  justify-content: space-around;
+  max-width: 50vw;
+  max-height:100vh
+  align-content: center;
+}
+
+either screenshots of this data with pretty text,  (60 times) or new component, pass props through modal, map through new json data and create table in the modal
+
+	- video highlights modal
+
+
+
+all skills LINK name the same : elite skills
+	- turn this link into a button to activate modal
+
+
+pass props through modal : character name. modal image name
+../assets/images/elite_skills/claw_pf_elite_skills.PNG
+<img src={eliteSkills}
+alt = "no image"
+/>
+
+@**@*@*@*@*@**@*@*@consider removing hover off listitem CSS page@**@*@*@*@*@**@*@*@
+#better scrolling and eaiser readability
+熱血街頭籃
+
+https://imagecolorpicker.com/color-code/17a83e
+  background-image: radial-gradient(
+    farthest-corner at 90px 940px,
+    #f4a460 0%,
+    #434 100%
+  );
+
+
+
+ANIMATED TRANSITIONS FOR ROUTER
+create JSON from character details page
+
+
+
+
+https://dev.to/ridhikgovind/how-to-style-your-react-router-links-using-styled-components-2350
+https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
+
+
+https://discuss.codecademy.com/t/if-we-have-multiple-css-files-with-the-same-class-name-which-ones-properties-is-applied/389104
+
+
+
+https://www.telerik.com/blogs/how-to-show-and-hide-elements-in-react
+
+
+https://stackoverflow.com/questions/45536537/centering-in-css-grid
+
+
+https://stackoverflow.com/questions/28417708/how-to-resize-image-in-css-without-cropping-it/28417803
+
+
+
+
+
+
+
+https://www.w3schools.com/cssref/css_colors.asp
+
+
+
+
+
+reddit convo: 
+
+hi there, okay you can let me know if you receive a verification codegreens14 Snoovatar
+Have you sent?JHawesomeness Snoovatar
++86 15966059735
+? correct?greens14 Snoovatar
+yesJHawesomeness Snoovatar
+any luck?>
+
+greens14 Snoovatar
+Sorry I forgot I removed my sim card lolJHawesomeness Snoovatar
+thats GREAT news lol. i thought it would be unsuccessful again
+i am starting to think it needs to be a mobile number registered to a personal ID to work
+let me know when ready! ill resend, last code is timed outgreens14 Snoovatar
+Lol I think I can do it later. I will let u knowJHawesomeness Snoovatar
+okay no rush!!
+so i can be fully transparent, its to register to a game, so i think the SMS rules might be tighter
+thats why I was paying so much per each verification, i just need to see new characters only available in China server
+i lost access when they added new gaming rules
+Thanks again!
+keep me posted!greens14 Snoovatar
+Today
+You there?JHawesomeness Snoovatar
+hey yes i am
+try now?greens14 Snoovatar
+YesJHawesomeness Snoovatar
+Will you only be needing one number?JHawesomeness Snoovatar
+Just one number. Correctgreens14 Snoovatar
+OkJHawesomeness Snoovatar
+okay going to try now if thats okaygreens14 Snoovatar
+Ok
+Have you sent?JHawesomeness Snoovatar
+okay sent to 15966059735
+anything? sorry it only lasts 59 secondsgreens14 Snoovatar
+5229JHawesomeness Snoovatar
+sorry it expired
+let me try againgreens14 Snoovatar
+?JHawesomeness Snoovatar
+one moment, resending code, it expires in 59 secondsgreens14 Snoovatar
+But it says 5 min
+Good yet?JHawesomeness Snoovatar
+almost ready, having to restart the app to try sorry for the delay
+
+almost done!greens14 Snoovatar
+okJHawesomeness Snoovatar
+sending now!greens14 Snoovatar
+Not here
+Still there?JHawesomeness Snoovatar
+im still here! sorry im strugging to get through these windows, im not fluent.
+okay let me know if you receive the code
+okay FINALLY
+sent!!
+15966059735greens14 Snoovatar
+3039JHawesomeness Snoovatar
+
+Only a few secondsgreens14 Snoovatar
+Already received
+3039JHawesomeness Snoovatar
+its saying incorrect. and after three times saying its expired
+hey any chance you are from beijing?!
+if you can actually just complete the registration for me on this app and give me credentials i can pay you double
+I just need access to this gamegreens14 Snoovatar
+I'm from Jinan lolJHawesomeness Snoovatar
+so you understand the language!!!!greens14 Snoovatar
+Yes of courseJHawesomeness Snoovatar
+
+
+Nvsgames
+https://rxjl.nvsgames.cn
+
+热血街篮_次世代3V3自由竞技街篮手游 - 热血街篮官网
+rxjl.nvsgames.cn
+do you think you can create this account successfully?greens14 Snoovatar
+Yes I'll tryJHawesomeness Snoovatar
+omg this woul dbe so much easier
+thank you!!!
+I'm a USA adult but I've lost access to my old account and its been extremely hard to recreate...and I have a website dedicated to the game so ... i kind of need access to keep my content going
+PERFECT
+i wish i wouldve started with that lol
+also so I dont seem like im crazy making up some story: https://contactfail.com/#/
+this is the website i have
+and this is the footage I just want from the game
+
+
+YouTube
+https://www.youtube.com/watch?v=hwMKhH-SMaw
+
+Phantom (Tetsuya Kuroko) - AllStar basketrio #Shorts
+www.youtube.com
+just access to new charactersgreens14 Snoovatar
+Ok, I don't really look at games much lolJHawesomeness Snoovatar
+to be honest... i HATE the game, but... i am practicing my web development so... its semi important to megreens14 Snoovatar
+hey thanks for all the help by the way! i hope it isnt sending you through all the loops!greens14 Snoovatar
+I made the account with password: ASD434###
+Can u login>
+?JHawesomeness Snoovatar
+OMGG
+i am so excited!!
+okay trying now!!!greens14 Snoovatar
+Haha alrightJHawesomeness Snoovatar
+okay trying!!! sorry for the silly questions. do i login to the game directly with phone number and then it will ask for password? or do i use Douyin?greens14 Snoovatar
+It should ask for password, I didn't link DouyinJHawesomeness Snoovatar
+okay I am closer!!!
+its not asking for verification anymore
+here ill show you my options maybe you can tell me where to click
+one moment!
+
+
+should i use 1 or 2?greens14 Snoovatar
+You already logged in lolJHawesomeness Snoovatar
+wait!!! i think I AM ALMOST THERE!
+its asking for password now!!!
+OMG!
+one sec
+
+ive never seen this screen before
+okay trying password
+ASD434###greens14 Snoovatar
+yesJHawesomeness Snoovatar
+those last three characters should be hanzi? or #?greens14 Snoovatar
+#JHawesomeness Snoovatar
+okay one moments ! its telling me wrong password and i have 3 more times
+checking now!
+here sec!
+
+should i try the bottom left ?greens14 Snoovatar
+Lol I dunno why that's happening, I'll try to reset the passwordJHawesomeness Snoovatar
+
+i can try verification login toogreens14 Snoovatar
+Yea but then you
+will have to only use it to loginJHawesomeness Snoovatar
+oooh okay! lets reset the password then
+thanks soooooooooooooo much again for all the helpgreens14 Snoovatar
+Np lol
+ASD090$$#
+new passJHawesomeness Snoovatar
+ASD090$$#
+okay trying!!
+I am almost in!!!! but...... I dont think I will get in successfully! oh well.. I'll still pay you for all your help
+this is where i am now
+
+do you know if theres a way to use US passport or anything like that? or a place to buy access?
+also let me know where to send amazon giftcard
+
+greens14 Snoovatar
+you can find 联系客服 and click on "Overseas Users" to verifyJHawesomeness Snoovatar
+OOOO do you see that here?!greens14 Snoovatar
+Yes, it's on the screenJHawesomeness Snoovatar
+bottom right?!greens14 Snoovatar
+Yea
+After it's 海外实名JHawesomeness Snoovatar
+omg you are the best
+
+greens14 Snoovatar
+Lol it's npJHawesomeness Snoovatar
+ive been working on this for i think 2 months since new restrictions
+okaygreens14 Snoovatar
+Glad to help out!JHawesomeness Snoovatar
+okay just a few more seconds
+also would you like amazon giftcard or are you sure you dont want paypal ?
+either way is good with megreens14 Snoovatar
+Amazon gc pls
+My email: jejohuc@gmail.comJHawesomeness Snoovatar
+okay sendinggreens14 Snoovatar
+
+So i am pretty sure you never want to hear from me again after all this hassle but.... do you mind if I ping you if i get stuck anytime soon?
+i am submitting the foreigner verification nowgreens14 Snoovatar
+Yes of course you can lolJHawesomeness Snoovatar
+okay!! im not sure how long it will take but if they ping you can you let me know? also did the amazon giftcard come through to you successfully?!greens14 Snoovatar
+It did yes, I will let u know if I get anythingJHawesomeness Snoovatar
+thanks again for all teh help!

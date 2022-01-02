@@ -1,0 +1,26 @@
+character:mz
+image: mz.img
+positions: c pf sf
+
+
+
+positions: PF
+	characters: MZ
+		image: mz.img
+		rating: all star
+		passive: +15% shot success rate
+		feature:marginally increase stealing
+		fates:
+			gamma:img
+			beta:img
+			zeta:img
+		evolve:
+		skill: increased chance of backblock
+		stats:
+			-20 inside shot,
+			+30 stamina
+			+5 middle shot
+	characters: gori
+	characters: lumi
+	characters: cyborg
+	characters: frank
