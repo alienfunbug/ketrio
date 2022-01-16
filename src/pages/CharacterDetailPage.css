@@ -178,9 +178,13 @@
   background: rgb(30, 30, 30);
   display: flex;
   justify-content: space-evenly;
-
-  border-radius: var(--main-radius);
   padding-top: var(--main-padding);
+ 
+  border-top: rgb(53, 53, 53);
+  border-top-style: solid;
+  border-top-width: 5px;
+  
+
 }
 
 .SG {
@@ -354,21 +358,21 @@
   background: rgb(100, 100, 100);
   padding: 10px;
   grid-area: rating;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   border-radius: var(--main-radius);
 }
 #details-cost {
   grid-area: cost;
   background: rgb(100, 100, 100);
   padding: 10px;
-  margin-bottom: 15px;
+  margin-bottom:5px;
   border-radius: var(--main-radius);
 }
 
 #details-TBD {
   background: rgb(100, 100, 100);
   grid-area: TBD;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   padding: 10px;
   border-radius: var(--main-radius);
 }
@@ -378,14 +382,16 @@
   background: rgb(30, 30, 30);
   display: flex;
   justify-content: space-evenly;
-  border-radius: var(--main-radius);
   padding-top: var(--main-padding);
-  padding-bottom: 10px;
+  padding-bottom: var(--main-padding);
 
-  border: rgb(53, 53, 53);
-  border-style: solid;
-  border-radius: 5px;
-  border-width: 5px;
+  border-top: rgb(53, 53, 53);
+  border-top-style: solid;
+  border-top-width: 5px;
+  
+  border-bottom: rgb(53, 53, 53);
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
 }
 
 #details-footer-subcontent {
