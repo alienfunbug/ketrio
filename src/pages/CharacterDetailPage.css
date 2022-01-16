@@ -425,6 +425,7 @@
   overflow: hidden;
   margin-left: 0.6rem;
   border-radius: 15px;
+  
 }
 
 .home-container:first-child {
@@ -449,11 +450,11 @@
 
   .details-main {
     height: 100vw;
-    padding: 10px;
+    padding:0.7rem;
   }
   .details-main img {
-    margin-left: 1.5%;
-    max-width: 100%;
+
+    max-width: 95%;
     object-fit: cover;
     overflow: hidden;
   }
