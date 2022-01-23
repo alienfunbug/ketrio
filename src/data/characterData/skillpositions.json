@@ -1,0 +1,1069 @@
+[
+  {
+    "position": "All-Stars",
+    "players": [
+      {
+        "name": "Tyrant",
+        "img": "../assets/images/portraits/Tyrant_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Phantom",
+        "img": "../assets/images/portraits/Phantom_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Moon",
+        "img": "../assets/images/portraits/Moon_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Lebron",
+        "img": "../assets/images/portraits/Lebron_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mary",
+        "img": "../assets/images/portraits/Mary_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Livia",
+        "img": "../assets/images/portraits/Livia_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mai",
+        "img": "../assets/images/portraits/Mai_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Mitsuki",
+        "img": "../assets/images/portraits/Mitsuki_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Claw",
+        "img": "../assets/images/portraits/Claw_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mac",
+        "img": "../assets/images/portraits/Mac_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Gori",
+        "img": "../assets/images/portraits/Gori_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Ryo",
+        "img": "../assets/images/portraits/Ryo_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Beard",
+        "img": "../assets/images/portraits/Beard_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Tsuna",
+        "img": "../assets/images/portraits/Tsuna_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Centers",
+    "players": [
+      {
+        "name": "Cyborg T",
+        "img": "../assets/images/portraits/CyborgT_full.png",
+        "rating": "Rating 400",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Emily",
+        "img": "../assets/images/portraits/Emily_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Falco",
+        "img": "../assets/images/portraits/Falco_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Gori",
+        "img": "../assets/images/portraits/Gori_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Harley",
+        "img": "../assets/images/portraits/Harley_full.png",
+        "rating": "Rating 400",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Harmen",
+        "img": "../assets/images/portraits/Harmen_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Hayes",
+        "img": "../assets/images/portraits/Hayes_full.png",
+        "rating": "Rating 300",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Johnson",
+        "img": "../assets/images/portraits/Johnson_full.png",
+        "rating": "Rating 400",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Kaisa",
+        "img": "../assets/images/portraits/Kaisa_full.png",
+        "rating": "Rating 150",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Livia",
+        "img": "../assets/images/portraits/Livia_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Max",
+        "img": "../assets/images/portraits/Max_full.png",
+        "rating": "Rating 300",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Min-Jun",
+        "img": "../assets/images/portraits/Min-Jun_full.png",
+        "rating": "Rating 400",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+      {
+        "name": "MZ",
+        "img": "../assets/images/portraits/MZ_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": "SF"
+      },
+      {
+        "name": "Nova",
+        "img": "../assets/images/portraits/Nova_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Raven",
+        "img": "../assets/images/portraits/Raven_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Sakura",
+        "img": "../assets/images/portraits/Sakura_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Shalice",
+        "img": "../assets/images/portraits/Shalice_full.png",
+        "rating": "Rating 400",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Taylor",
+        "img": "../assets/images/portraits/Taylor_full.png",
+        "rating": "Rating 300",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Wilson",
+        "img": "../assets/images/portraits/Wilson_full.png",
+        "rating": "Rating 150",
+        "position1": "C",
+        "position2": "PF",
+        "position3": null
+      }
+    ]
+  },
+
+  {
+    "position": "Power Forwards",
+    "players": [
+      {
+        "name": "Claw",
+        "img": "../assets/images/portraits/Claw_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Colonel",
+        "img": "../assets/images/portraits/Colonel_full.png",
+        "rating": "Rating 300",
+        "position1": "PF",
+        "position2": "SF",
+        "position3": null
+      },
+      {
+        "name": "Cyborg T",
+        "img": "../assets/images/portraits/CyborgT_full.png",
+        "rating": "Rating 400",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Emily",
+        "img": "../assets/images/portraits/Emily_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Falco",
+        "img": "../assets/images/portraits/Falco_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Harley",
+        "img": "../assets/images/portraits/Harley_full.png",
+        "rating": "Rating 400",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Harmen",
+        "img": "../assets/images/portraits/Harmen_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Hayes",
+        "img": "../assets/images/portraits/Hayes_full.png",
+        "rating": "Rating 300",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Hong",
+        "img": "../assets/images/portraits/Hong_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Johnson",
+        "img": "../assets/images/portraits/Johnson_full.png",
+        "rating": "Rating 400",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Kaisa",
+        "img": "../assets/images/portraits/Kaisa_full.png",
+        "rating": "Rating 150",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Lebron",
+        "img": "../assets/images/portraits/Lebron_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Lorsha",
+        "img": "../assets/images/portraits/Lorsha_full.png",
+        "rating": "Rating 300",
+        "position1": "PF",
+        "position2": "SF",
+        "position3": null
+      },
+      {
+        "name": "Max",
+        "img": "../assets/images/portraits/Max_full.png",
+        "rating": "Rating 300",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Min-Jun",
+        "img": "../assets/images/portraits/Min-Jun_full.png",
+        "rating": "Rating 400",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+
+      {
+        "name": "MZ",
+        "img": "../assets/images/portraits/MZ_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": "SF"
+      },
+      {
+        "name": "Nova",
+        "img": "../assets/images/portraits/Nova_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Raven",
+        "img": "../assets/images/portraits/Raven_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Sakura",
+        "img": "../assets/images/portraits/Sakura_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Shalice",
+        "img": "../assets/images/portraits/Shalice_full.png",
+        "rating": "Rating 400",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Taylor",
+        "img": "../assets/images/portraits/Taylor_full.png",
+        "rating": "Rating 300",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+
+      {
+        "name": "Tsuna",
+        "img": "../assets/images/portraits/Tsuna_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Tyrant",
+        "img": "../assets/images/portraits/Tyrant_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Wilson",
+        "img": "../assets/images/portraits/Wilson_full.png",
+        "rating": "Rating 150",
+        "position1": "PF",
+        "position2": "C",
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Small Forwards",
+    "players": [
+      {
+        "name": "Antony",
+        "img": "../assets/images/portraits/Antony_full.png",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Avis",
+        "img": "../assets/images/portraits/Avis_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Colonel",
+        "img": "../assets/images/portraits/Colonel_full.png",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+
+      {
+        "name": "Diana",
+        "img": "../assets/images/portraits/Diana_full.png",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Elke",
+        "img": "../assets/images/portraits/Elke_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Hong",
+        "img": "../assets/images/portraits/Hong_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+
+      {
+        "name": "Jamie",
+        "img": "../assets/images/portraits/Jamie_full.png",
+        "rating": "Rating 150",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Kai",
+        "img": "../assets/images/portraits/Kai_full.png",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+      {
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.png",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Lana",
+        "img": "../assets/images/portraits/Lana_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Lora",
+        "img": "../assets/images/portraits/Lora_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Lorsha",
+        "img": "../assets/images/portraits/Lorsha_full.png",
+        "rating": "Rating 300",
+        "position1": "SF",
+        "position2": "PF",
+        "position3": null
+      },
+      {
+        "name": "Lumi",
+        "img": "../assets/images/portraits/Lumi_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+
+      {
+        "name": "Mac",
+        "img": "../assets/images/portraits/Mac_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Mai",
+        "img": "../assets/images/portraits/Mai_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Maple",
+        "img": "../assets/images/portraits/Maple_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+
+      {
+        "name": "MZ",
+        "img": "../assets/images/portraits/MZ_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
+      },
+
+      {
+        "name": "Sophia",
+        "img": "../assets/images/portraits/Sophia_full.png",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Victor",
+        "img": "../assets/images/portraits/Victor_full.png",
+        "rating": "Rating 400",
+        "position1": "SF",
+        "position2": "SG",
+        "position3": "PG"
+      }
+    ]
+  },
+
+  {
+    "position": "Shooting Guards",
+    "players": [
+      {
+        "name": "Antony",
+        "img": "../assets/images/portraits/Antony_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Arthur",
+        "img": "../assets/images/portraits/Arthur_full.png",
+        "rating": "Rating 300",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+      {
+        "name": "Avis",
+        "img": "../assets/images/portraits/Avis_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Beard",
+        "img": "../assets/images/portraits/Beard_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Diana",
+        "img": "../assets/images/portraits/Diana_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "SF",
+        "position3": null
+      },
+      {
+        "name": "Elke",
+        "img": "../assets/images/portraits/Elke_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Eric",
+        "img": "../assets/images/portraits/Eric_full.png",
+        "rating": "Rating 150",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+      {
+        "name": "Frank",
+        "img": "../assets/images/portraits/Frank_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+      {
+        "name": "Jamie",
+        "img": "../assets/images/portraits/Jamie_full.png",
+        "rating": "Rating 150",
+        "position1": "SG",
+        "position2": "SF",
+        "position3": null
+      },
+      {
+        "name": "Jessica",
+        "img": "../assets/images/portraits/Jessica_full.png",
+        "rating": "Rating 300",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+      {
+        "name": "Kai",
+        "img": "../assets/images/portraits/Kai_full.png",
+        "rating": "Rating 300",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Kobe",
+        "img": "../assets/images/portraits/Kobe_full.png",
+        "rating": "Rating 300",
+        "position1": "SG",
+        "position2": "SF",
+        "position3": null
+      },
+      {
+        "name": "Lana",
+        "img": "../assets/images/portraits/Lana_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Lora",
+        "img": "../assets/images/portraits/Lora_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Lumi",
+        "img": "../assets/images/portraits/Lumi_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Maple",
+        "img": "../assets/images/portraits/Maple_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": "SF",
+        "position3": null
+      },
+
+      {
+        "name": "Mitsuki",
+        "img": "../assets/images/portraits/Mitsuki_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Moon",
+        "img": "../assets/images/portraits/Moon_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Sophia",
+        "img": "../assets/images/portraits/Sophia_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Sugar",
+        "img": "../assets/images/portraits/Sugar_full.png",
+        "rating": "Rating 150",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+
+      {
+        "name": "Victor",
+        "img": "../assets/images/portraits/Victor_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": "SF"
+      },
+      {
+        "name": "Yuhyun",
+        "img": "../assets/images/portraits/Yuhyun_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Point Guards",
+    "players": [
+      {
+        "name": "Antony",
+        "img": "../assets/images/portraits/Antony_full.png",
+        "rating": "Rating 400",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+      {
+        "name": "Arthur",
+        "img": "../assets/images/portraits/Arthur_full.png",
+        "rating": "Rating 300",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Avis",
+        "img": "../assets/images/portraits/Avis_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Elke",
+        "img": "../assets/images/portraits/Elke_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+      {
+        "name": "Eric",
+        "img": "../assets/images/portraits/Eric_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Frank",
+        "img": "../assets/images/portraits/Frank_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Jessica",
+        "img": "../assets/images/portraits/Jessica_full.png",
+        "rating": "Rating 300",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Kai",
+        "img": "../assets/images/portraits/Kai_full.png",
+        "rating": "Rating 300",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Lana",
+        "img": "../assets/images/portraits/Lana_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Lora",
+        "img": "../assets/images/portraits/Lora_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+
+      {
+        "name": "Lumi",
+        "img": "../assets/images/portraits/Lumi_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+      {
+        "name": "Mary",
+        "img": "../assets/images/portraits/Mary_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Phantom",
+        "img": "../assets/images/portraits/Phantom_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Ryo",
+        "img": "../assets/images/portraits/Ryo_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Sophia",
+        "img": "../assets/images/portraits/Sophia_full.png",
+        "rating": "Rating 400",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+      {
+        "name": "Sugar",
+        "img": "../assets/images/portraits/Sugar_full.png",
+        "rating": "Rating 400",
+        "position1": "SG",
+        "position2": "PG",
+        "position3": null
+      },
+
+      {
+        "name": "Victor",
+        "img": "../assets/images/portraits/Victor_full.png",
+        "rating": "Rating 400",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": "SF"
+      },
+      {
+        "name": "Yuhyun",
+        "img": "../assets/images/portraits/Yuhyun_full.png",
+        "rating": "Rating 400",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  }
+]

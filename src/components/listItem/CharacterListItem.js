@@ -1,12 +1,12 @@
 
 import React from "react";
-import "./ListItem.css";
+import "./CharacterListItem.css";
 import { Link } from "react-router-dom";
 
 /* version with working link to default characterdetail page when clicking any character component
  */
 
-function ListItem(props) {
+function CharacterListItem(props) {
   const {
     playerName,
     playerImg,
@@ -46,4 +46,4 @@ function ListItem(props) {
   );
 }
 
-export default ListItem;
+export default CharacterListItem;

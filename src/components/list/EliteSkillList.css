@@ -1,0 +1,72 @@
+.list-container {
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-right: 30px;
+
+}
+
+.list-container > .list-wrapper::-webkit-scrollbar{
+  display: none;
+}
+
+.list-container > .list-wrapper {
+  position: relative;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  margin-bottom: 15px;
+}
+
+.list-container > .list-title {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.list-container > .list-wrapper > .list-slider-arrow-right {
+  width: 50px;
+  height: 100%;
+  color: rgb(255, 255, 255);
+  background-color: rgb(15, 15, 15, 0.5);
+  position: absolute;
+  z-index: 99;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  cursor: pointer;
+  /*margin: auto;*/
+}
+
+.list-container > .list-wrapper > .list-slider-arrow-left {
+  width: 50px;
+  height: 100%;
+  color: white;
+  background-color: rgb(15, 15, 15, 0.5);
+  position: absolute;
+  z-index: 99;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  cursor: pointer;
+  /*margin: auto;*/
+}
+.list-container > .list-wrapper > .list-container {
+  display: flex;
+  width: max-content;
+  margin-left: 50px;
+  transform: translateX(0px);
+  transition: all 0.5s ease;
+  padding-top: 15px;
+  
+}
+
+@media screen and (max-width: 1020px) {
+  .list-container > .list-wrapper > .list-slider-arrow-left {
+    display: none;
+  }
+  .list-container > .list-wrapper > .list-slider-arrow-right {
+    display: none;
+  }
+}
