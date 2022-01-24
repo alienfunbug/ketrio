@@ -1,10 +1,10 @@
-import "./CharacterList.css";
-import ListItem from "../listItem/CharacterListItem";
+import "./EliteSkillList.css";
+import ListItem from "../listItem/EliteSkillListItem";
 import React, { useRef } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
-import skillPositionData from "../../data/characterData/characterpositions.json";
+import skillPositionData from "../../data/characterData/skillpositions.json";
 
-function CharacterList(props) {
+function EliteSkillList(props) {
   const { position } = props;
 
   const listReference = useRef();
@@ -28,7 +28,7 @@ function CharacterList(props) {
     }
   };
 
-  const characterCard = positionData.map((n) => {
+  const characterCard = skillPositionData.map((n) => {
     if (n.position === position) {
       return n.players.map((player, index) => {
         return (
@@ -48,20 +48,20 @@ function CharacterList(props) {
   });
 
   return (
-    <div className="list-container">
-      <div className="list-title">{position}</div>
-      <div className="list-wrapper">
+    <div className="skill-list-container">
+      <div className="skill-list-title">{position}</div>
+      <div className="skill-list-wrapper">
         <ArrowBackIosOutlined
-          className="list-slider-arrow-left"
+          className="skill-list-slider-arrow-left"
           onClick={() => clickHandler("left")}
           //style={{display: !isMoved && "none"}} slider
         />
 
-        <div className="list-container" ref={listReference}>
+        <div className="skill-list-container" ref={listReference}>
           {characterCard}
         </div>
         <ArrowForwardIos
-          className="list-slider-arrow-right"
+          className="skill-list-slider-arrow-right"
           onClick={() => clickHandler("right")}
         />
       </div>
@@ -69,4 +69,4 @@ function CharacterList(props) {
   );
 }
 
-export default CharacterList;
+export default EliteSkillList;

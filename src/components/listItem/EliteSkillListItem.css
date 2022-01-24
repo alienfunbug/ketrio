@@ -1,4 +1,4 @@
-.list-item {
+.skill-list-item {
   width: var(--tileWidth);
   height: var(--tileHeight);
 
@@ -9,28 +9,30 @@
   position: relative;
   margin-top: 15px;
   transition: all 0.3s ease-in-out;
+  margin: 15px;
+  
 }
 
-.list-item > img {
+.skill-list-item > img {
   object-fit: cover;
   width: 97%;
   height: 140%;
   border: 5px solid transparent;
 }
 
-.list-item:hover {
+.skill-list-item:hover {
   width: 245px;
   height: 260px;
   border: 5px solid white;
-  margin-top: -15px; 
+  margin-top: -15px;
 }
 
-.list-item:hover > img {
+.skill-list-item:hover > img {
   height: 210px;
-  transition: all 0.3s ease; 
+  transition: all 0.3s ease;
 }
 
-.list-item > .list-item-characterTitle {
+.skill-list-item > .skill-list-item-characterTitle {
   position: absolute;
   top: 6px;
   left: 10px;
@@ -41,24 +43,25 @@
   text-shadow: 1px 1px 0 rgb(180, 180, 180);
 }
 
-.list-item-characterInfo {
-  display: flex;
+.skill-list-item-characterText {
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
 
-  padding: 5px;
-  justify-content: space-between;
-  color: white;
-  font-size: 20px;
-  font-family: "Roboto";
-  font-weight: 400;
+  padding-right: 0.5rem;
+  font-size: 22px;
+  text-shadow: 1px 1px 0 rgb(180, 180, 180);
+
+
+  
 }
 
-.list-item-positionInfo {
+.skill-list-item-positionInfo {
   display: flex;
   margin-bottom: 5px;
 }
-.list-item-position1,
-.list-item-position2,
-.list-item-position3 {
+.skill-list-item-position1,
+.skill-list-item-position2,
+.skill-list-item-position3 {
   border-radius: 100%;
   width: 17px;
   height: 17px;
@@ -69,15 +72,14 @@
   background-color: var(--default-gray);
 }
 
-.list-item > .list-item-rating {
+.skill-list-item > .skill-list-item-rating {
 }
 
-
 @media only screen and (max-width: 1020px) {
-  .list-item {
+  .skill-list-item {
     width: 125px;
     height: 110px;
-  
+
     background-color: #2f4353;
     background-image: linear-gradient(90deg, #2f4353 0%, #d2ccc4 94%);
     margin-right: 10px;
@@ -86,37 +88,35 @@
     margin-top: 15px;
     transition: all 0.3s ease-in-out;
   }
-  
-  .list-item > img {
+
+  .skill-list-item > img {
     object-fit: cover;
     width: 97%;
     height: 140%;
     border: 5px solid transparent;
   }
-  
-  
-.list-item:hover {
-  width: 125px;
-  height: 110px;
 
-  background-color: #2f4353;
-  background-image: linear-gradient(90deg, #2f4353 0%, #d2ccc4 94%);
-  margin-right: 10px;
-  overflow: hidden;
-  position: relative;
-  margin-top: 10px;
-  transition: all 0.3s ease-in-out;
-}
+  .skill-list-item:hover {
+    width: 125px;
+    height: 110px;
 
-.list-item:hover > img {
-  object-fit: cover;
-  width: 97%;
-  height: 140%;
-  border: 5px solid transparent;
-}
+    background-color: #2f4353;
+    background-image: linear-gradient(90deg, #2f4353 0%, #d2ccc4 94%);
+    margin-right: 10px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 10px;
+    transition: all 0.3s ease-in-out;
+  }
 
+  .skill-list-item:hover > img {
+    object-fit: cover;
+    width: 97%;
+    height: 140%;
+    border: 5px solid transparent;
+  }
 
-  .list-item > .list-item-characterTitle {
+  .skill-list-item > .skill-list-item-characterTitle {
     position: absolute;
     top: 6px;
     left: 10px;
@@ -126,8 +126,8 @@
     font-size: 22px;
     text-shadow: 1px 1px 0 rgb(180, 180, 180);
   }
-  
-  .list-item-characterInfo {
+
+  .skill-list-item-characterInfo {
     display: flex;
     padding: 5px;
     justify-content: space-between;
@@ -136,14 +136,14 @@
     font-family: "Roboto";
     font-weight: 400;
   }
-  
-  .list-item-positionInfo {
+
+  .skill-list-item-positionInfo {
     display: flex;
     margin-bottom: 5px;
   }
-  .list-item-position1,
-  .list-item-position2,
-  .list-item-position3 {
+  .skill-list-item-position1,
+  .skill-list-item-position2,
+  .skill-list-item-position3 {
     border-radius: 100%;
     width: 17px;
     height: 17px;

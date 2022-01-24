@@ -1,12 +1,12 @@
 
 import React from "react";
-import "./CharacterListItem.css";
+import "./EliteSkillListItem.css";
 import { Link } from "react-router-dom";
 
 /* version with working link to default characterdetail page when clicking any character component
  */
 
-function CharacterListItem(props) {
+function EliteSkillListItem(props) {
   const {
     playerName,
     playerImg,
@@ -25,25 +25,27 @@ function CharacterListItem(props) {
       }}
       style={{ textDecoration: 'none' }}
     >
-      <div className="list-item" key={id}>
-        <div className="list-item-characterTitle">{playerName}</div>
+      <div className="skill-list-item" key={id}>
+        <div className="skill-list-item-characterTitle">{playerName}</div>
         {console.log(playerName)}
         <img src={playerImg} alt="" />
+        
         <div className="SEPARATOR-CONTAINER-HERE">
-          <div className="list-item-characterInfo">
-            <div className="list-item-ratingInfo">
-              <span className="list-item-rating">{playerRating}</span>
+          <div className="skill-list-item-characterInfo">
+            <div className="skill-list-item-ratingInfo">
+              <span className="skill-list-item-rating">{playerRating}</span>
             </div>
-            <div className="list-item-positionInfo">
-              <span className="list-item-position1">{playerPosition1}</span>
-              <span className="list-item-position2">{playerPosition2}</span>
-              <span className="list-item-position3">{playerPosition3}</span>
+            <div className="skill-list-item-positionInfo">
+              <span className="skill-list-item-position1">{playerPosition1}</span>
+              <span className="skill-list-item-position2">{playerPosition2}</span>
+              <span className="skill-list-item-position3">{playerPosition3}</span>
             </div>
           </div>
         </div>
       </div>
+      <div className="skill-list-item-characterText">{playerName}</div> {/*this is the text below */}
     </Link>
   );
 }
 
-export default CharacterListItem;
+export default EliteSkillListItem;

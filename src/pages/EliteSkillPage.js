@@ -1,14 +1,14 @@
 import "./CharacterPage.css";
 import React from "react";
-import CharacterList from "../components/list/CharacterList.js";
+import EliteSkillList from "../components/list/EliteSkillList.js";
 import skillPositionsData from "../data/characterData/skillpositions.json";
 
 function EliteSkillPage() {
   const position = skillPositionsData.map(({ position }, i) => {
     return (
       <div className="home-container"  key={i}>
-        <div color="white"> Text here for testing</div>
-        <CharacterList  position={position} />
+        <div style={{color:"white"}}> Text here for testing</div>
+        <EliteSkillList  position={position} />
       </div>
     );
   });
