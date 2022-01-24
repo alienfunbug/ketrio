@@ -1,75 +1,44 @@
-.skill-list-item {
-  width: var(--tileWidth);
-  height: var(--tileHeight);
+.full-width {
+  position: relative;
 
-  background-color: #2f4353;
-  background-image: linear-gradient(90deg, #2f4353 0%, #d2ccc4 94%);
-  margin-right: 10px;
+}
+
+.skill-list-item {
+  width: var(--skill-tileWidth);
+  height: var(--skill-tileHeight);
   overflow: hidden;
   position: relative;
-  margin-top: 15px;
   transition: all 0.3s ease-in-out;
-  margin: 15px;
-  
 }
 
 .skill-list-item > img {
-  object-fit: cover;
-  width: 97%;
-  height: 140%;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
   border: 5px solid transparent;
 }
 
 .skill-list-item:hover {
-  width: 245px;
-  height: 260px;
-  border: 5px solid white;
+  width: 135px;
+  height: 145px;
   margin-top: -15px;
 }
 
 .skill-list-item:hover > img {
-  height: 210px;
+  height: 95%;
   transition: all 0.3s ease;
-}
-
-.skill-list-item > .skill-list-item-characterTitle {
-  position: absolute;
-  top: 6px;
-  left: 10px;
-  color: rgb(255, 255, 255);
-  font-family: "Roboto", sans-serif;
-  font-weight: bold;
-  font-size: 22px;
-  text-shadow: 1px 1px 0 rgb(180, 180, 180);
 }
 
 .skill-list-item-characterText {
   color: rgb(255, 255, 255);
   font-family: "Roboto", sans-serif;
-
-  padding-right: 0.5rem;
-  font-size: 22px;
+  font-weight: 400;
+  max-width: 115px;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 18px;
   text-shadow: 1px 1px 0 rgb(180, 180, 180);
-
-
-  
-}
-
-.skill-list-item-positionInfo {
-  display: flex;
-  margin-bottom: 5px;
-}
-.skill-list-item-position1,
-.skill-list-item-position2,
-.skill-list-item-position3 {
-  border-radius: 100%;
-  width: 17px;
-  height: 17px;
   text-align: center;
-  font-size: 14px;
-  padding: 4px;
-  border: 2px solid white;
-  background-color: var(--default-gray);
 }
 
 .skill-list-item > .skill-list-item-rating {

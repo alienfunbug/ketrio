@@ -1,5 +1,5 @@
 import "./EliteSkillList.css";
-import ListItem from "../listItem/EliteSkillListItem";
+import EliteSkillListItem from "../listItem/EliteSkillListItem";
 import React, { useRef } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
 import skillPositionData from "../../data/characterData/skillpositions.json";
@@ -32,14 +32,13 @@ function EliteSkillList(props) {
     if (n.position === position) {
       return n.players.map((player, index) => {
         return (
-          <ListItem
+          <EliteSkillListItem
             key={index}
             playerName={player.name}
             playerImg={player.img}
-            playerRating={player.rating}
-            playerPosition1={player.position1}
-            playerPosition2={player.position2}
-            playerPosition3={player.position3}
+            video={player.video}
+            isChinese={player.isChinese}
+
           />
         );
       });

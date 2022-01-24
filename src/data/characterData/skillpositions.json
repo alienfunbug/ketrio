@@ -1,26 +1,28 @@
 [
   {
     "position": "Centers",
-    "players": [
+    "skills": [
       {
         "name": "Post-Up Hook OTHER",
-        "img": "../assets/images/position_elite_skills/power_rebound0.png",
-
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "video":"UDoXN6ldkX4",
+        "isChinese":"True",
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
       {
         "name": "Post-Up Hook",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
-
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "video":"UDoXN6ldkX4",
+        "isChinese":"",
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
       {
         "name": "Hook",
-        "img": "../assets/images/position_elite_skills/power_rebound1.png",
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
 
         "position1": "PF",
         "position2": "C",
@@ -28,7 +30,7 @@
       },
       {
         "name": "Box Out",
-        "img": "../assets/images/position_elite_skills/power_rebound2.png",
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
 
         "position1": "PF",
         "position2": "C",
@@ -36,7 +38,7 @@
       },
       {
         "name": "Dunk Focus",
-        "img": "../assets/images/position_elite_skills/power_rebound3.png",
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
 
         "position1": "PF",
         "position2": "C",
@@ -44,7 +46,7 @@
       },
       {
         "name": "Catch & Spin Drive",
-        "img": "../assets/images/position_elite_skills/power_rebound4.png",
+        "img": "../assets/images/position_elite_skills/power_rebound5.png",
 
         "position1": "PF",
         "position2": "C",
@@ -199,7 +201,7 @@
   },
   {
     "position": "Small Forwards",
-    "players": [
+    "skills": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
@@ -385,7 +387,7 @@
 
   {
     "position": "Shooting Guards",
-    "players": [
+    "skills": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
@@ -580,7 +582,7 @@
   },
   {
     "position": "Point Guards",
-    "players": [
+    "skills": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",

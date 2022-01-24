@@ -1,4 +1,4 @@
-import "./CharacterPage.css";
+
 import React from "react";
 import CharacterList from "../components/list/CharacterList.js";
 import characterPositionsData from "../data/characterData/characterpositions.json";

@@ -1,0 +1,32 @@
+[
+  {
+    "position":"Center",
+    "image_src": "/assets/images/skill_page/center.png",
+    "display": "Center",
+    "shortname": "C"
+  },
+  {
+    "position":"Power_Forward",
+    "image_src": "/assets/images/skill_page/power_forward.png",
+    "display": "Power Forward",
+    "shortname": "PF"
+  },
+  {
+    "position":"Small_Forward",
+    "image_src": "/assets/images/skill_page/small_forward.png",
+    "display": "Small Forward",
+    "shortname": "SF"
+  },
+  {
+    "position":"Point_Guard",
+    "image_src": "/assets/images/skill_page/point_guard.png",
+    "display": "Point Guard",
+    "shortname": "PG"
+  },
+  {
+    "position":"Shooting_Guard",
+    "image_src": "/assets/images/skill_page/shooting_guard.png",
+    "display": "Shooting Guard",
+    "shortname": "SG"
+  }
+]

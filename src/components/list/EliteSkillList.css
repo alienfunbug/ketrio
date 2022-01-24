@@ -1,3 +1,14 @@
+.full-width {
+	left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw;
+	position: relative;
+	right: 50%;
+	width: 100vw;
+}
+
+
 .skill-list-container {
   width: 100%;
   margin-top: 10px;
@@ -54,11 +65,12 @@
 }
 .skill-list-container > .skill-list-wrapper > .skill-list-container {
   display: flex;
-  width: max-content;
+  width: 100%;
   margin-left: 50px;
   transform: translateX(0px);
   transition: all 0.5s ease;
-  padding-top: 15px;
+  padding-top: 55px;
+  padding-bottom: 55px;
   
 }
 
