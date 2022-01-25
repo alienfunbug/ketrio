@@ -3,39 +3,59 @@
   --main-padding: 15px;
 }
 
+.skills-back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  background: black;
+  padding: 10px;
+}
+
+.skills-position-heading {
+  background: black;
+  text-align: center;
+
+  font-size: 2.5rem;
+  font-weight: 600;
+  padding-top: 3.5rem;
+  margin: 1rem;
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
+}
 .overall-div {
-  background: red;
+  background: black;
 }
 
 .skill-container {
   display: flex;
-  margin: 5rem;
-  padding: 2rem;
-  background: yellow;
+  margin: 1rem;
+  padding: 1rem;
+  background: black;
   justify-content: center;
   flex-flow: row wrap;
   align-content: center;
 }
 
 .skill-tile {
-  margin: 1rem;
-  background: blue;
+  margin: 0.5rem;
+  background: black;
   border: 5px solid transparent;
-
-
 }
 
 .skill-tile:hover {
-
-  border: 5px solid white;
   cursor: pointer;
-  margin: 1.5rem; 
-  transition: all 0.3s ease-in-out; 
+  margin: 1.5rem;
+  transition: all 0.3s ease-in-out;
 }
 
 .skill-title {
   color: white;
-  background: gray;
+  background-color: rgba(80,80,80,.9);
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
   text-align: center;
   padding: 0.1rem;
   margin: 0.5rem;
@@ -43,8 +63,54 @@
 }
 
 .skill-tile > img {
-
   border-radius: 10%;
   border: 5px solid transparent;
+}
 
+@media only screen and (max-width: 650px) {
+  .skill-container {
+    display: flex;
+
+    background: black;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-content: center;
+  }
+
+  .skill-title {
+    color: white;
+    background: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    padding: 0.1rem;
+    margin: 0.5rem;
+    inline-size: 80%;
+  }
+  .skill-tile {
+    background: black;
+
+    height: 50%;
+    max-width: 40%;
+  }
+
+  .skill-tile:hover {
+    cursor: pointer;
+    margin: .0rem;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .skill-tile > img {
+    height: 50%;
+    width: 90%;
+
+    border: 5px solid transparent;
+  }
+
+  .skill-tile > img:hover {
+    height: 50%;
+    width: 90%;
+
+    border: 5px solid gray;
+  }
 }

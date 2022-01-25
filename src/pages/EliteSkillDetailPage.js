@@ -3,7 +3,7 @@ import "./EliteSkillDetailPage.css";
 
 import skillData from "../data/characterData/skillpositions.json";
 import { Link } from "react-router-dom";
-import "./EliteSkillDetailPage.css";
+
 import ModalVideo from "react-modal-video";
 import "../components/modals/VideoModal.css";
 import EliteSkillListItem from "../components/listItem/EliteSkillListItem";
@@ -14,7 +14,7 @@ function EliteSkillDetailPage(props) {
     setModal(!modal);
   };
 
-  const passedPositionProp = "Center"; //props.match.params.char;
+  const passedPositionProp = "Shooting Guard"; //props.match.params.char;
 
   const skillCard = skillData.map((n) => {
     if (n.position === passedPositionProp) {
@@ -42,13 +42,22 @@ function EliteSkillDetailPage(props) {
 
   return (
     <div className="overall-div">
-      <div> back button </div>
-
-      <div >
-      {passedPositionProp} Skill
-        <div className="skill-container">
-  
-          {skillCard}
+      <Link
+        className="skills-back-button"
+        to={{
+          pathname: `/characters/`,
+        }}
+        style={{ textDecoration: "none", color: "#FFF" }}
+      >
+        {" "}
+        Back
+      </Link>
+      <div>
+        <div className="skills-position-heading">
+          {passedPositionProp} Skills
+        </div>
+        <div className="skill-container-parent">
+          <div className="skill-container">{skillCard}</div>
         </div>
       </div>
     </div>

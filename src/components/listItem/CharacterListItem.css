@@ -69,8 +69,6 @@
   background-color: var(--default-gray);
 }
 
-.list-item > .list-item-rating {
-}
 
 
 @media only screen and (max-width: 1020px) {
