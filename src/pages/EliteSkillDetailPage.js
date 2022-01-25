@@ -14,7 +14,8 @@ function EliteSkillDetailPage(props) {
     setModal(!modal);
   };
 
-  const passedPositionProp = "Shooting Guard"; //props.match.params.char;
+
+  const passedPositionProp = props.match.params.position;
 
   const skillCard = skillData.map((n) => {
     if (n.position === passedPositionProp) {
@@ -45,7 +46,7 @@ function EliteSkillDetailPage(props) {
       <Link
         className="skills-back-button"
         to={{
-          pathname: `/characters/`,
+          pathname: `/skills/`,
         }}
         style={{ textDecoration: "none", color: "#FFF" }}
       >

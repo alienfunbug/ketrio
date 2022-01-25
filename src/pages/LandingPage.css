@@ -17,6 +17,16 @@
   user-select: none;
 }
 
+.landing-back-button{
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  background: black;
+  padding: 10px;
+}
 .landing-profiles {
   display: flex;
   /*

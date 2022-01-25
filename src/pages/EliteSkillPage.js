@@ -1,24 +1,34 @@
 
 import React from "react";
-import EliteSkillList from "../components/list/EliteSkillList.js";
+import EliteSkillDetailPage from "../pages/EliteSkillDetailPage";
 import "./LandingPage.css";
 import positions from "../data/characterData/skillpage.json";
 import { Link } from "react-router-dom";
-import MessageModal from "../components/modals/MessageModal";
+import EliteSkillsModal from "../components/modals/EliteSkillsModal";
 
 function EliteSkillPage() {
 
 
 
-
   return (
     <div className="landing-container">
+            <Link
+        className="landing-back-button"
+        to={{
+          pathname: `/`,
+        }}
+        style={{ textDecoration: "none", color: "#FFF" }}
+      >
+        {" "}
+        Back
+      </Link>
       <div className="landing-content">
-        <span className="landing-title"> Elite Skills...</span>
+        <span className="landing-title"> ...Elite Skills...</span>
         <div className="landing-profiles">
           {positions.map((positions, index) => (
             <div className="landing-profile" key={index}>
-              <Link to={`/${positions.link}/`}>
+              {/* <Link to={`/${positions.link}/`}>  */}
+                             <Link to={`/skills/${positions.position}`}>
                 <img
                   className="landing-image"
                   src={positions.image_src}
@@ -30,8 +40,8 @@ function EliteSkillPage() {
           ))}
         </div>
         <div>
-          <MessageModal/>
-          {/* PUT ELITE SKILLS COST AND INFORMATION HERE */}
+          <EliteSkillsModal/>
+
 
         </div>
       </div>

@@ -13,8 +13,8 @@ function App() {
   return (
     <Router>
       <div>
-        {/*<Route exact path="/" component={LandingPage} />*/}
-        <Route  path="/" component={EliteSkillDetailPage} />
+        <Route exact path="/" component={LandingPage} />
+        {/*<Route  path="/" component={EliteSkillPage} />*/}
         <Route path="/characters" component={CharacterList} />
         <Route
           exact
@@ -22,7 +22,12 @@ function App() {
           component={CharacterDetailPage}
         />
         <Route path="/weeklyvideo" component={WeeklyVideoPage} />
-        <Route path="/skills" component={EliteSkillPage} />
+        <Route exact path="/skills" component={EliteSkillPage} />
+        <Route
+          exact
+          path={"/skills/:position"}
+          component={EliteSkillDetailPage}
+        />
         <Route path="/comingsoon" component={ComingSoonPage} />
       </div>
     </Router>
