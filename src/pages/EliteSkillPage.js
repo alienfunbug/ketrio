@@ -1,6 +1,6 @@
 
 import React from "react";
-import EliteSkillDetailPage from "../pages/EliteSkillDetailPage";
+
 import "./LandingPage.css";
 import positions from "../data/characterData/skillpage.json";
 import { Link } from "react-router-dom";
