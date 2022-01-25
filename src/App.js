@@ -6,14 +6,16 @@ import CharacterDetailPage from "./pages/CharacterDetailPage";
 import WeeklyVideoPage from "./pages/WeeklyVideoPage";
 import ComingSoonPage from "./pages/ComingSoonPage";
 import EliteSkillPage from "./pages/EliteSkillPage";
+import EliteSkillDetailPage from "./pages/EliteSkillDetailPage";
+import CharacterList from "./components/list/CharacterList";
 
 function App() {
   return (
     <Router>
       <div>
         {/*<Route exact path="/" component={LandingPage} />*/}
-        <Route  path="/" component={EliteSkillPage} />
-        <Route path="/characters" component={CharacterPage} />
+        <Route  path="/" component={EliteSkillDetailPage} />
+        <Route path="/characters" component={CharacterList} />
         <Route
           exact
           path={"/characterDetailPage/:char"}

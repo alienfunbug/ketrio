@@ -1,0 +1,50 @@
+:root {
+  --main-radius: 5px;
+  --main-padding: 15px;
+}
+
+.overall-div {
+  background: red;
+}
+
+.skill-container {
+  display: flex;
+  margin: 5rem;
+  padding: 2rem;
+  background: yellow;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-content: center;
+}
+
+.skill-tile {
+  margin: 1rem;
+  background: blue;
+  border: 5px solid transparent;
+
+
+}
+
+.skill-tile:hover {
+
+  border: 5px solid white;
+  cursor: pointer;
+  margin: 1.5rem; 
+  transition: all 0.3s ease-in-out; 
+}
+
+.skill-title {
+  color: white;
+  background: gray;
+  text-align: center;
+  padding: 0.1rem;
+  margin: 0.5rem;
+  inline-size: 10rem;
+}
+
+.skill-tile > img {
+
+  border-radius: 10%;
+  border: 5px solid transparent;
+
+}

@@ -1,9 +1,6 @@
-
 import React, { useState } from "react";
-import "./EliteSkillListItem.css";
-import { Link } from "react-router-dom";
 import ModalVideo from "react-modal-video";
-import "../modals/VideoModal.css";
+import "../../components/modals/VideoModal.css";
 
 
 
@@ -12,11 +9,11 @@ import "../modals/VideoModal.css";
 
 function EliteSkillListItem(props) {
   const {
-    playerName,
-    playerImg,
     video,
+    name,
+    img,
     isChinese,
-    id,
+    key,
   } = props;
 
 
@@ -29,34 +26,31 @@ function EliteSkillListItem(props) {
 
 
   return (
-    <div onClick={toggleModal}>
-      
-      <div className="skill-list-item" key={id}>
 
-        {console.log(playerName)}
-        <img src={playerImg} alt="" />
-        
-        <div className="SEPARATOR-CONTAINER-HERE">
-          <div className="skill-list-item-characterInfo">
-
-          </div>
-        </div>
+    //key={index}
+    <div className="skill-tile" onClick={toggleModal}>
+   {console.log({name})};
+    {modal && (
+      <div className="">
+        <ModalVideo
+          channel="youtube"
+          isOpen={modal}
+          autoplay={1}
+          mute={1}
+          videoId={video}
+          allowFullScreen
+          onClose={() => setModal(false)}
+        />
       </div>
-      <div className="skill-list-item-characterText">{playerName}</div> {/*this is the text below */}
-      {modal && (
-        <div className="full-width">
-          <ModalVideo  className="full-width"
-            channel="youtube"
-            isOpen={modal}
-            autoplay={1}
-            mute={1}
-            videoId={video}
-            allowFullScreen
-            onClose={() => setModal(false)}
-          />
-        </div>
-      )}
-</div>
+    )}
+
+    <div className="skill-title">{name}</div>
+    <img src={img} alt="File Not Found" />
+  
+
+
+
+  </div>
   );
 }
 

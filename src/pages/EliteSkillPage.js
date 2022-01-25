@@ -31,6 +31,7 @@ function EliteSkillPage() {
         </div>
         <div>
           <MessageModal/>
+          {/* PUT ELITE SKILLS COST AND INFORMATION HERE */}
 
         </div>
       </div>

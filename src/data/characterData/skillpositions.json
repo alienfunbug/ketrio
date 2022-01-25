@@ -1,19 +1,19 @@
 [
   {
-    "position": "Centers",
-    "skills": [
+    "position": "Center",
+    "skill": [
       {
-        "name": "Post-Up Hook OTHER",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
-        "video":"UDoXN6ldkX4",
+        "name": "Post-Up Hook",
+        "img": "../../../assets/images/position_elite_skills/post_up_hook.png",
+        "video":"vGJJx71p5s0",
         "isChinese":"True",
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
       {
-        "name": "Post-Up Hook",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "name": "Hook",
+        "img": "../../assets/images/position_elite_skills/hook.png",
         "video":"UDoXN6ldkX4",
         "isChinese":"",
         "position1": "PF",
@@ -21,24 +21,17 @@
         "position3": null
       },
       {
-        "name": "Hook",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
-
-        "position1": "PF",
-        "position2": "C",
-        "position3": null
-      },
-      {
         "name": "Box Out",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "img": "../assets/images/position_elite_skills/box_out.png",
 
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
+
       {
         "name": "Dunk Focus",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "img": "../assets/images/position_elite_skills/dunk_focus.png",
 
         "position1": "PF",
         "position2": "C",
@@ -46,7 +39,7 @@
       },
       {
         "name": "Catch & Spin Drive",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "img": "../assets/images/position_elite_skills/catch_and_spin_drive.png",
 
         "position1": "PF",
         "position2": "C",
@@ -54,7 +47,7 @@
       },
       {
         "name": "SP Rebound",
-        "img": "../assets/images/position_elite_skills/power_rebound5.png",
+        "img": "../assets/images/position_elite_skills/sp_rebound.png",
 
         "position1": "PF",
         "position2": "C",
@@ -62,7 +55,7 @@
       },
       {
         "name": "Power Block",
-        "img": "../assets/images/position_elite_skills/power_rebound6.png",
+        "img": "../assets/images/position_elite_skills/power_block.png",
 
         "position1": "PF",
         "position2": "C",
@@ -70,7 +63,7 @@
       },
       {
         "name": "SP Under-Hoop Pass",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/sp_under_hoop_pass.png",
 
         "position1": "PF",
         "position2": "C",
@@ -78,7 +71,7 @@
       },
       {
         "name": "Chip Out",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/chip_out.png",
 
         "position1": "PF",
         "position2": "C",
@@ -86,7 +79,7 @@
       },
       {
         "name": "Shake Resist",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/shake_resist.png",
 
         "position1": "PF",
         "position2": "C",
@@ -94,20 +87,13 @@
       },
       {
         "name": "Screen Dash",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/screen_dash.png",
 
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
-      {
-        "name": "Post-Up Hook",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
 
-        "position1": "PF",
-        "position2": "C",
-        "position3": null
-      },
       {
         "name": "Power Rebound",
         "img": "../assets/images/position_elite_skills/power_rebound.png",
@@ -118,7 +104,7 @@
       },
       {
         "name": "Direct Pass",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/direct_pass.png",
 
         "position1": "PF",
         "position2": "C",
@@ -126,7 +112,7 @@
       },
       {
         "name": "Screen Dodge",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/screen_dodge.png",
 
         "position1": "PF",
         "position2": "C",
@@ -134,7 +120,7 @@
       },
       {
         "name": "Rebound Pass",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/rebound_pass.png",
 
         "position1": "PF",
         "position2": "C",
@@ -142,7 +128,7 @@
       },
       {
         "name": "SP Box Out",
-        "img": "../assets/images/portraits/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/sp_box_out.png",
 
         "position1": "PF",
         "position2": "C",
@@ -150,7 +136,7 @@
       },
       {
         "name": "Flank Screen",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/flank_screen.png",
 
         "position1": "PF",
         "position2": "C",
@@ -158,7 +144,7 @@
       },
       {
         "name": "Chase Down Block",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/chase_down_block.png",
 
         "position1": "PF",
         "position2": "C",
@@ -166,7 +152,7 @@
       },
       {
         "name": "Putback",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/putback.png",
 
         "position1": "PF",
         "position2": "C",
@@ -175,15 +161,15 @@
 
       {
         "name": "Dream Shake",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/dream_shake.png",
 
         "position1": "PF",
         "position2": "C",
         "position3": null
       },
       {
-        "name": "Chase Down Block & Catch",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "name": "Chase Block & Catch",
+        "img": "../assets/images/position_elite_skills/chase_down_block_and_catch.png",
 
         "position1": "PF",
         "position2": "C",
@@ -191,7 +177,7 @@
       },
       {
         "name": "Post Fadeaway",
-        "img": "../assets/images/position_elite_skills/power_rebound.png",
+        "img": "../assets/images/position_elite_skills/post_fadeaway.png",
 
         "position1": "PF",
         "position2": "C",
@@ -201,7 +187,7 @@
   },
   {
     "position": "Small Forwards",
-    "skills": [
+    "skill": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
@@ -387,7 +373,7 @@
 
   {
     "position": "Shooting Guards",
-    "skills": [
+    "skill": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
@@ -582,7 +568,7 @@
   },
   {
     "position": "Point Guards",
-    "skills": [
+    "skill": [
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
