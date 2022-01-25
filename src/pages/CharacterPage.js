@@ -1,13 +1,13 @@
-import "./CharacterPage.css";
+
 import React from "react";
-import List from "../components/list/List.js";
-import positionsData from "../data/characterData/positions.json";
+import CharacterList from "../components/list/CharacterList.js";
+import characterPositionsData from "../data/characterData/characterpositions.json";
 
 function CharacterPage() {
-  const position = positionsData.map(({ position }, i) => {
+  const position = characterPositionsData.map(({ position }, i) => {
     return (
       <div className="home-container"  key={i}>
-        <List  position={position} />
+        <CharacterList  position={position} />
       </div>
     );
   });

@@ -1,10 +1,10 @@
-import "./List.css";
-import ListItem from "../listItem/ListItem";
+import "./CharacterList.css";
+import ListItem from "../listItem/CharacterListItem";
 import React, { useRef } from "react";
 import { ArrowBackIosOutlined, ArrowForwardIos } from "@material-ui/icons";
-import positionData from "../../data/characterData/positions.json";
+import characterPositionData from "../../data/characterData/characterpositions.json";
 
-function List(props) {
+function CharacterList(props) {
   const { position } = props;
 
   const listReference = useRef();
@@ -28,7 +28,7 @@ function List(props) {
     }
   };
 
-  const characterCard = positionData.map((n) => {
+  const characterCard = characterPositionData.map((n) => {
     if (n.position === position) {
       return n.players.map((player, index) => {
         return (
@@ -69,4 +69,4 @@ function List(props) {
   );
 }
 
-export default List;
+export default CharacterList;

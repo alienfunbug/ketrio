@@ -5,23 +5,29 @@ import CharacterPage from "./pages/CharacterPage";
 import CharacterDetailPage from "./pages/CharacterDetailPage";
 import WeeklyVideoPage from "./pages/WeeklyVideoPage";
 import ComingSoonPage from "./pages/ComingSoonPage";
-
-
-
+import EliteSkillPage from "./pages/EliteSkillPage";
+import EliteSkillDetailPage from "./pages/EliteSkillDetailPage";
+import CharacterList from "./components/list/CharacterList";
 
 function App() {
   return (
     <Router>
       <div>
         <Route exact path="/" component={LandingPage} />
-        <Route path="/characters" component={CharacterPage} />
+        {/*<Route  path="/" component={EliteSkillPage} />*/}
+        <Route path="/characters" component={CharacterList} />
         <Route
           exact
           path={"/characterDetailPage/:char"}
           component={CharacterDetailPage}
         />
         <Route path="/weeklyvideo" component={WeeklyVideoPage} />
-        <Route path="/skills" component={ComingSoonPage} />
+        <Route exact path="/skills" component={EliteSkillPage} />
+        <Route
+          exact
+          path={"/skills/:position"}
+          component={EliteSkillDetailPage}
+        />
         <Route path="/comingsoon" component={ComingSoonPage} />
       </div>
     </Router>
