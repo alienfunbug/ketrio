@@ -9,7 +9,7 @@ function PositionDetail(props) {
     position,
     featureName,
     featureDescription,
-    skill,
+
     skillDescription,
     statsPositive,
     statsNegative,

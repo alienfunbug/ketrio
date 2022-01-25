@@ -3,7 +3,7 @@ import ModalVideo from "react-modal-video";
 import "../../components/modals/VideoModal.css";
 
 function EliteSkillListItem(props) {
-  const { video, name, img, isChinese, key } = props;
+  const { video, name, img } = props;
 
   const [modal, setModal] = useState(false);
 
@@ -12,7 +12,7 @@ function EliteSkillListItem(props) {
   };
 
   return (
-    //key={index}
+
     <div className="skill-tile" onClick={toggleModal}>
 
       {modal && (

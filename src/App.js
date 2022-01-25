@@ -7,7 +7,7 @@ import WeeklyVideoPage from "./pages/WeeklyVideoPage";
 import ComingSoonPage from "./pages/ComingSoonPage";
 import EliteSkillPage from "./pages/EliteSkillPage";
 import EliteSkillDetailPage from "./pages/EliteSkillDetailPage";
-import CharacterList from "./components/list/CharacterList";
+
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <div>
         <Route exact path="/" component={LandingPage} />
         {/*<Route  path="/" component={EliteSkillPage} />*/}
-        <Route path="/characters" component={CharacterList} />
+        <Route path="/characters" component={CharacterPage} />
         <Route
           exact
           path={"/characterDetailPage/:char"}
