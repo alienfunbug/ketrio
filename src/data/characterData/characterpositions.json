@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Answer",
+        "img": "../assets/images/portraits/Iverson_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Tyrant",
         "img": "../assets/images/portraits/Tyrant_full.png",
         "rating": "Rating 500",
@@ -909,6 +917,14 @@
         "position1": "PG",
         "position2": "SG",
         "position3": "SF"
+      },
+      {
+        "name": "Answer",
+        "img": "../assets/images/portraits/Iverson_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
       },
       {
         "name": "Arthur",

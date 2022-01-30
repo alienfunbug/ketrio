@@ -2268,5 +2268,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/tyrant_pf_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Answer",
+    "characterImage": "../assets/images/ranking_images/ranking_large_iverson.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "yr5dgPgZ8KM",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Maple Diana",
+    "fate2": "Shalice Victor",
+    "fate3": "Taylor Hayes",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Ankle Terminator: ",
+        "featureDescription": "The Answer's crossover increases Steal Resist. Successful ankle breaks increase opponent's ankle break animation duration and increases The Answer's Normal Shot Speed and L/D FG% or Dunk Rate for 3s after opponent is knocked down",
+        "skill": "Ankle Terminator",
+        "skillDescription": "Using his famous Hesitation Crossover, his dribbles become harder to guard.",
+        "statsPositive": "+12 M.Shot +3 3pt Shot +8 L/D +5 Steal +7 Control +11 Run +13 Stamina",
+        "statsNegative": "-18 Inside Shot -14 Rebound -12 Contact",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/char_elite_skills/iverson_pg_elite_skills.png"
+      }
+    ]
   }
+
 ]
