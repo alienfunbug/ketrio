@@ -31,7 +31,7 @@
 
 .skill-container {
   display: flex;
-  margin: 1rem;
+  margin: 1.5rem;
   padding: 1rem;
   background: black;
   justify-content: center;
@@ -54,6 +54,7 @@
 .skill-title {
   color: white;
   background-color: rgba(80,80,80,.9);
+  border-radius: 25px;
   font-family: "Roboto", sans-serif;
   font-size: 1.1rem;
   text-align: center;
@@ -111,6 +112,6 @@
     height: 50%;
     width: 90%;
 
-    border: 5px solid gray;
+    border: 7px solid gray;
   }
 }
