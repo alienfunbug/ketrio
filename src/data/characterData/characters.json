@@ -1365,7 +1365,7 @@
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
-        "passive": "+8.5% Pass Speed",
+        "passive": "+13.5% Pass Speed.",
         "eliteSkills": "../assets/images/char_elite_skills/yuhyun_pg_elite_skills.png"
       },
       {
@@ -1377,7 +1377,7 @@
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
-        "passive": "+6% 3pt Res.",
+        "passive": "+9% 3pt Res.",
         "eliteSkills": "../assets/images/char_elite_skills/yuhyun_sg_elite_skills.png"
       }
     ]
@@ -1430,7 +1430,7 @@
         "statsPositive": "+3 Steal +2 Run",
         "statsNegative": "-5 Contact",
         "statsNeutral": "",
-        "passive": "+15% Reb.Cont.",
+        "passive": "+15% Pass Speed",
         "eliteSkills": "../assets/images/char_elite_skills/elke_pg_elite_skills.png"
       }
     ]
@@ -2212,7 +2212,7 @@
       }
     ]
   },
-  
+
   {
     "selectedCharacter": "Phantom",
     "characterImage": "../assets/images/ranking_images/ranking_large_phantom.png",
@@ -2297,5 +2297,4 @@
       }
     ]
   }
-
 ]
