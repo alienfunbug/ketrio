@@ -28,7 +28,7 @@ function EliteSkillsModal() {
                 </div>
                 <div className="message-1"> Elite skills cost 1 Purple, 5 Gold Books, and 4000 Coins WEEKLY.
                 </div>
-                <div className="message-1"> Elite skills is optional, you can pick and chose which you need, or use them all.
+                <div className="message-1"> Elite skills are optional, you can pick and chose which you need, or use them all.
                 </div>
       
               </div>
