@@ -2286,7 +2286,7 @@
       {
         "position": "Point_Guard",
         "featureName": "Ankle Terminator: ",
-        "featureDescription": "The Answer's crossover increases Steal Resist. Successful ankle breaks increase opponent's ankle break animation duration and increases The Answer's Normal Shot Speed and L/D FG% or Dunk Rate for 3s after opponent is knocked down",
+        "featureDescription": "The Answer's crossover increases Steal Resist. Successful ankle breaks increase opponent's ankle break animation duration and increases The Answer's Normal Shot Speed and L/D FG% or Dunk Rate for 3s after opponent is knocked down.",
         "skill": "Ankle Terminator",
         "skillDescription": "Using his famous Hesitation Crossover, his dribbles become harder to guard.",
         "statsPositive": "+12 M.Shot +3 3pt Shot +8 L/D +5 Steal +7 Control +11 Run +13 Stamina",
@@ -2294,6 +2294,35 @@
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
         "eliteSkills": "../assets/images/char_elite_skills/iverson_pg_elite_skills.png"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Selina",
+    "characterImage": "../assets/images/ranking_images/ranking_large_selina.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "5Qc_EDzrqL8",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Raven Johnson",
+    "fate2": "Frank Harley",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "Stealing Points: ",
+        "featureDescription": "Selina's excellent Mid-Range Shooting allows her to stretch the floor. Trigger the Signature Shot Animation to improve FG% of open Mid-Range Shots.",
+        "skill": "Flying Rebound",
+        "skillDescription": "Using her Powerful Rebounding Action, Selina quickly rushes to the basket From Distance to Fight for Rebounds.",
+        "statsPositive": "+12 M.Shot +12 Run +10 Rebound +5 Stamina",
+        "statsNegative": "-8 Inside Shot -8 L/D -8 Control",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/selina_c_elite_skills.png"
       }
     ]
   }

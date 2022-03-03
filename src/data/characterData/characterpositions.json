@@ -3,6 +3,15 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Selina",
+        "img": "../assets/images/portraits/Selina_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
         "name": "Answer",
         "img": "../assets/images/portraits/Iverson_full.png",
         "rating": "Rating 500",
@@ -119,19 +128,20 @@
         "position3": null
       },
 
-      {
-        "name": "Ryo",
-        "img": "../assets/images/portraits/Ryo_full.png",
-        "rating": "Rating 500",
-        "position1": "PG",
-        "position2": null,
-        "position3": null
-      },
+
       {
         "name": "Beard",
         "img": "../assets/images/portraits/Beard_full.png",
         "rating": "Rating 500",
         "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Ryo",
+        "img": "../assets/images/portraits/Ryo_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
         "position2": null,
         "position3": null
       },
@@ -244,14 +254,7 @@
         "position2": "PF",
         "position3": null
       },
-      {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.png",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
+
       {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.png",
@@ -285,6 +288,14 @@
         "position3": null
       },
       {
+        "name": "Selina",
+        "img": "../assets/images/portraits/Selina_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Shalice",
         "img": "../assets/images/portraits/Shalice_full.png",
         "rating": "Rating 400",
@@ -307,6 +318,15 @@
         "position1": "C",
         "position2": "PF",
         "position3": null
+      },
+
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
       },
       {
         "name": "Wilson",
@@ -667,14 +687,7 @@
         "position2": "SG",
         "position3": null
       },
-      {
-        "name": "Tsukino",
-        "img": "../assets/images/portraits/Tsukino_full.png",
-        "rating": "Rating 500",
-        "position1": "SF",
-        "position2": "C",
-        "position3": "PF"
-      },
+
 
       {
         "name": "MZ",
@@ -692,6 +705,14 @@
         "position1": "SF",
         "position2": "SG",
         "position3": "PG"
+      },
+      {
+        "name": "Tsukino",
+        "img": "../assets/images/portraits/Tsukino_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": "C",
+        "position3": "PF"
       },
       {
         "name": "Uncle Drew",
