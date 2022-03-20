@@ -1412,7 +1412,7 @@
       {
         "position": "SF",
         "featureName": "Reaper I: ",
-        "featureDescription": "While losing, FAIRLY increase M.Shot.",
+        "featureDescription": "While losing, FAIRLY increase M.Shot Res.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "+5 M.Shot",
@@ -1424,7 +1424,7 @@
       {
         "position": "PG",
         "featureName": "Reaper III: ",
-        "featureDescription": "While losing, FAIRLY increase Interception rate.",
+        "featureDescription": "While losing, FAIRLY increase Interception Rate.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "+3 Steal +2 Run",
