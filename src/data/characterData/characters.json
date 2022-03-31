@@ -2325,5 +2325,35 @@
         "eliteSkills": "../assets/images/char_elite_skills/selina_c_elite_skills.png"
       }
     ]
+  },
+
+
+  {
+    "selectedCharacter": "Sanji",
+    "characterImage": "../assets/images/ranking_images/ranking_large_sanji.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "hxbGPzjYf3Y",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lana Yuhyun",
+    "fate2": "Harley Antony",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Position Walk: ",
+        "featureDescription": "Within 1s after ending of Air Walk, use Air Walk again to increase Air Walk speed (increases stamina consumption).",
+        "skill": "Air Walk",
+        "skillDescription": "Offball V-Cut/ Air Walk around defenders to quickly find openings and favorable shot positions. Air Walk can be used in multiple directions.",
+        "statsPositive": "+12 Run +8 Block +8 3pt Shot +8 Stamina +5 Contact +2 M.Shot ",
+        "statsNegative": "-10 Control -10 Inside Shot -8 Steal",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/sanji_sf_elite_skills.png"
+      }
+    ]
   }
 ]

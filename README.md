@@ -11,9 +11,9 @@
     - highlights(youtube ending tag link)
     
 - Add character general (position/rating) info to 'src\data\characterData\characterpositions.json'
-- Add character ranking image to 'public\assets\images\ranking_images'
+- Add character ranking image to 'public\assets\images\ranking_images' (image needs to be in captured in 1920x1080 resolution (280 DPI) or fit 800x900 pixels)
 - Add character contract/recruitment image to 'public\assets\images\portraits'
-- Add character eliteSkill image to 'public\assets\images\char_elite_skills'
+- Add character eliteSkill image to 'public\assets\images\char_elite_skills' 
     - format: NAME_POSITION_elite_skills.png
 
 ## `(OPTIONAL) Updating Main/Landing Page`

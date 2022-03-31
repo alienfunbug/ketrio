@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Sanji",
+        "img": "../assets/images/portraits/Sanji_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Selina",
         "img": "../assets/images/portraits/Selina_full.png",
         "rating": "Rating 500",
@@ -127,7 +135,6 @@
         "position2": null,
         "position3": null
       },
-
 
       {
         "name": "Beard",
@@ -688,7 +695,6 @@
         "position3": null
       },
 
-
       {
         "name": "MZ",
         "img": "../assets/images/portraits/MZ_full.png",
@@ -697,7 +703,14 @@
         "position2": "C",
         "position3": "PF"
       },
-
+      {
+        "name": "Sanji",
+        "img": "../assets/images/portraits/Sanji_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Sophia",
         "img": "../assets/images/portraits/Sophia_full.png",
