@@ -26,7 +26,7 @@ function EliteSkillsModal() {
               <div className="fate-total">
                 <div className="message-1"> The higher rating the character, the more elite skills they will have.
                 </div>
-                <div className="message-1"> Elite skills cost 1 Purple, 5 Gold Books, and 4000 Coins WEEKLY.
+                <div className="message-1"> Elite skills cost 12 Purple, 5 Gold Books, and 4000 Coins WEEKLY.
                 </div>
                 <div className="message-1"> Elite skills are optional, you can pick and chose which you need, or use them all.
                 </div>
