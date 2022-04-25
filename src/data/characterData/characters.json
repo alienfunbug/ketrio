@@ -2175,7 +2175,7 @@
         "featureDescription": "(CONSIDERABLY?) Increase 3pt range.",
         "skill": "Cresent Step",
         "skillDescription": "Increase backroll turn distance, increase fadeaway success rate after backroll turn.",
-        "statsPositive": "+10 3pt Shot +10 Run",
+        "statsPositive": "+10 3pt Shot +5 Run",
         "statsNegative": "-5 L/D",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
