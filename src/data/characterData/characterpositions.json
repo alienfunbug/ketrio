@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Booker",
+        "img": "../assets/images/portraits/Booker_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Sanji",
         "img": "../assets/images/portraits/Sanji_full.png",
         "rating": "Rating 500",
@@ -775,6 +783,14 @@
       {
         "name": "Beard",
         "img": "../assets/images/portraits/Beard_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Booker",
+        "img": "../assets/images/portraits/Booker_full.png",
         "rating": "Rating 500",
         "position1": "SG",
         "position2": null,

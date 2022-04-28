@@ -2355,5 +2355,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/sanji_sf_elite_skills.png"
       }
     ]
+  },
+  
+  {
+    "selectedCharacter": "Booker",
+    "characterImage": "../assets/images/ranking_images/ranking_large_booker.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "IKXqawFQsIo",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Emily Shalice",
+    "fate2": "Antony Min-Jun",
+    "fate3": "Jessica Kai",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Mamba Mentality: ",
+        "featureDescription": "Increase Recovery Speed, Sprint Speed, and Steal Success after being Knocked Down on Offense.",
+        "skill": "Pull-up Jump Shot",
+        "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
+        "statsPositive": "+12 M.Shot +13 3pt Shot +5 Stamina +5 Pass",
+        "statsNegative": "-20 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/booker_sg_elite_skills.png"
+      }
+    ]
   }
 ]
