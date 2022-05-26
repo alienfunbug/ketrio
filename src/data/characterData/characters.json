@@ -2384,5 +2384,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/booker_sg_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Rodman",
+    "characterImage": "../assets/images/ranking_images/ranking_large_rodman.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "73JVl_oYwqI",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Nova Frank",
+    "fate2": "Min-Jun Sophia",
+    "fate3": "Kai Max",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Fighting Hard: ",
+        "featureDescription": "For each successful Rebound, increase stack of \"Fighting Hard\" up to 5 Stacks. For each stack, increase Open Shot Success Rate for teammates. Effect lasts until end of the game. ",
+        "skill": "Rebound Dunk",
+        "skillDescription": "After grabbing the rebound, press and hold Dunk to trigger quick scoring animation. ",
+        "statsPositive": "+25 Rebound +18 Contact +10 Block +5 Run",
+        "statsNegative": "-20 Control -18 3pt Shot -5 M.Shot",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/rodman_pf_elite_skills.png"
+      }
+    ]
   }
 ]

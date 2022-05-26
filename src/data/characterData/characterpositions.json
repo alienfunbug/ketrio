@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Rodman",
+        "img": "../assets/images/portraits/Rodman_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Booker",
         "img": "../assets/images/portraits/Booker_full.png",
         "rating": "Rating 500",
@@ -499,6 +507,14 @@
         "rating": "Rating 500",
         "position1": "PF",
         "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Rodman",
+        "img": "../assets/images/portraits/Rodman_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
         "position3": null
       },
       {
