@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Luka",
+        "img": "../assets/images/portraits/Luka_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Rodman",
         "img": "../assets/images/portraits/Rodman_full.png",
         "rating": "Rating 500",
@@ -36,13 +44,15 @@
       },
 
       {
-        "name": "Answer",
-        "img": "../assets/images/portraits/Iverson_full.png",
+        "name": "Phantom",
+        "img": "../assets/images/portraits/Phantom_full.png",
         "rating": "Rating 500",
         "position1": "PG",
         "position2": null,
         "position3": null
       },
+
+
       {
         "name": "Tyrant",
         "img": "../assets/images/portraits/Tyrant_full.png",
@@ -51,9 +61,10 @@
         "position2": null,
         "position3": null
       },
+
       {
-        "name": "Phantom",
-        "img": "../assets/images/portraits/Phantom_full.png",
+        "name": "Answer",
+        "img": "../assets/images/portraits/Iverson_full.png",
         "rating": "Rating 500",
         "position1": "PG",
         "position2": null,
@@ -683,6 +694,16 @@
         "position2": "PF",
         "position3": null
       },
+
+      {
+        "name": "Luka",
+        "img": "../assets/images/portraits/Luka_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      
       {
         "name": "Lumi",
         "img": "../assets/images/portraits/Lumi_full.png",

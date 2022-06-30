@@ -2201,7 +2201,7 @@
       {
         "position": "Center",
         "featureName": "The Hunt Begins: ",
-        "featureDescription": "(CONSIDERABLY?) increase Dunk Rate for 2s after receiving a pass.",
+        "featureDescription": "(CONSIDERABLY?) increase Dunk Rate and L/D FG% for 2s after receiving a pass.",
         "skill": "Heavy Bomb",
         "skillDescription": "Increase chance for Contact Fail while dunking on smaller position.",
         "statsPositive": "+40 Contact +15 L/D +10 Rebound +2 Inside Shot +2 Block",
@@ -2411,6 +2411,35 @@
         "statsNeutral": "",
         "passive": "+15% Block Rate",
         "eliteSkills": "../assets/images/char_elite_skills/rodman_pf_elite_skills.png"
+      }
+    ]
+  },
+
+  {
+    "selectedCharacter": "Luka",
+    "characterImage": "../assets/images/ranking_images/ranking_large_luka.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "do8VjC4UWiE",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Avis Harley",
+    "fate2": "Sophia CyborgT",
+    "fate3": "Max Lorsha",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Miracle 77: ",
+        "featureDescription": "After baiting opponent with Pump Fake, increase Mid Shot FG% and Open 3pt FG %. Also, Slightly increase Steal Resistance and Resting Stamina Recovery Rate.",
+        "skill": "Catch and Step Back",
+        "skillDescription": "Step Back and shoot WHILE catching the ball, or dribble to break through defenders.",
+        "statsPositive": "+12 3pt Shot +7 Run +4 M.Shot +4 Pass +2 Block",
+        "statsNegative": "-7 Contact -7 Steal",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/luka_sf_elite_skills.png"
       }
     ]
   }
