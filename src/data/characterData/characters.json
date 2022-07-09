@@ -2374,7 +2374,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Mamba Mentality: ",
-        "featureDescription": "Increase Recovery Speed, Sprint Speed, and Steal Success on Defense.",
+        "featureDescription": "Increase Recovery Speed, Sprint Speed, and Steal Success on for a short duration on Defense.",
         "skill": "Pull-up Jump Shot",
         "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
         "statsPositive": "+12 M.Shot +13 3pt Shot +5 Stamina +5 Pass",
