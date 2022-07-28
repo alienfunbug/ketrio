@@ -2145,7 +2145,7 @@
         "featureName": "Change: ",
         "featureDescription": "After CrazyStep, dribbling left or right SLIGHTLY increases drive/dash speed.",
         "skill": "Tease",
-        "skillDescription": "Hold Dash to create space and start behind the back dribble. During skill, regular Shot Speed and Steal Resistance will increase. Equipping \"Back Dribble\" will create even more space.",
+        "skillDescription": "Hold Dash to create space and start behind the back dribble. During skill, Shot Speed [includes tricks] and Steal Resistance will increase. Equipping \"Back Dribble\" will create even more space.",
         "statsPositive": "+10 3pt Shot +10 Stamina",
         "statsNegative": "-5 Pass",
         "statsNeutral": "",
@@ -2286,7 +2286,7 @@
       {
         "position": "Point_Guard",
         "featureName": "Ankle Terminator: ",
-        "featureDescription": "The Answer's crossover increases Steal Resist. Successful ankle breaks increase opponent's ankle break animation duration and increases The Answer's Normal Shot Speed and L/D FG% or Dunk Rate for 3s after opponent is knocked down.",
+        "featureDescription": "The Answer's crossover increases Steal Resist. Successful ankle breaks increase opponent's ankle break animation duration and increases The Answer's Shot Speed [includes tricks] and L/D Speed for 3s after opponent is knocked down.",
         "skill": "Ankle Terminator",
         "skillDescription": "Using his famous Hesitation Crossover, his dribbles become harder to guard.",
         "statsPositive": "+12 M.Shot +3 3pt Shot +8 L/D +5 Steal +7 Control +11 Run +13 Stamina",
@@ -2440,6 +2440,37 @@
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
         "eliteSkills": "../assets/images/char_elite_skills/luka_sf_elite_skills.png"
+      }
+    ]
+  }
+
+  ,
+
+  {
+    "selectedCharacter": "2B",
+    "characterImage": "../assets/images/ranking_images/ranking_large_2b.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "4gqh2Zoo2yk",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Falco Antony",
+    "fate2": "CyborgT Diana",
+    "fate3": "Lorsha Arthur",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Trusted Friend: ",
+        "featureDescription": "After each assist, Increase Steal Rate and L/D Range. Clears after 2B successfully scores.",
+        "skill": "Forward Projectile",
+        "skillDescription": "Move forward a short distance then quickly Float the ball towards the basket. The more simple and effective a move, the more dangerous...",
+        "statsPositive": "+10 M.Shot +5 Run +5 Stamina +5 Pass +3 L/D",
+        "statsNegative": "-5 Inside Shot -5 Rebound",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/char_elite_skills/2b_pg_elite_skills.png"
       }
     ]
   }
