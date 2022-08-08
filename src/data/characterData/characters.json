@@ -2214,8 +2214,8 @@
   },
 
   {
-    "selectedCharacter": "Phantom",
-    "characterImage": "../assets/images/ranking_images/ranking_large_phantom.png",
+    "selectedCharacter": "Kuroko",
+    "characterImage": "../assets/images/ranking_images/ranking_large_kuroko.png",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2237,7 +2237,7 @@
         "statsNegative": "-10 M.Shot -10 Contact -2 Inside Shot",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
-        "eliteSkills": "../assets/images/char_elite_skills/phantom_pg_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/kuroko_pg_elite_skills.png"
       }
     ]
   },
