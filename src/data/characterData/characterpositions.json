@@ -5,7 +5,7 @@
 
       {
         "name": "2B",
-        "img": "../assets/images/portraits/2b_full.png",
+        "img": "../assets/images/portraits/2B_full.png",
         "rating": "Rating 500",
         "position1": "PG",
         "position2": null,
@@ -1008,6 +1008,15 @@
   {
     "position": "Point Guards",
     "players": [
+      {
+        "name": "2B",
+        "img": "../assets/images/portraits/2B_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
