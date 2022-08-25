@@ -2473,5 +2473,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/2b_pg_elite_skills.png"
       }
     ]
+  },
+  
+  {
+    "selectedCharacter": "Yashiro",
+    "characterImage": "../assets/images/ranking_images/ranking_large_yashiro.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "4akcrrzYlRw",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Elke Min-Jun",
+    "fate2": "Diana Johnson",
+    "fate3": "Arthur Taylor",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "Giant Hand: ",
+        "featureDescription": "Yashiro's Giant Hand activates for a chance to Block and Catch Offense.",
+        "skill": "Violent Punch",
+        "skillDescription": "Using his Powerful Blocking Action, Yashiro Has a chance to activate Violent Punch. Must equip \"Power Block\" skill to trigger.",
+        "statsPositive": "+20 Block +20 Contact +8 Run +8 Stamina +2 Rebound +2 L/D",
+        "statsNegative": "-20 Control -10 Pass -5 Inside Shot -5 M.Shot -5 3pt Shot",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/yashiro_c_elite_skills.png"
+      }
+    ]
   }
 ]

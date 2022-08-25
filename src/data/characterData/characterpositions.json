@@ -4,6 +4,15 @@
     "players": [
 
       {
+        "name": "Yashiro",
+        "img": "../assets/images/portraits/Yashiro_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
         "name": "2B",
         "img": "../assets/images/portraits/2B_full.png",
         "rating": "Rating 500",
@@ -380,7 +389,16 @@
         "position1": "C",
         "position2": "PF",
         "position3": null
+      },
+      {
+        "name": "Yashiro",
+        "img": "../assets/images/portraits/Yashiro_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
       }
+
     ]
   },
 
