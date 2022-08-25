@@ -2492,7 +2492,7 @@
       {
         "position": "Center",
         "featureName": "Violent Hand: ",
-        "featureDescription": "Yashiro's Giant Hand activates for a chance to Block and Catch Offense.",
+        "featureDescription": "Yashiro's Violent Hand activates for a chance to Block and Catch Offense.",
         "skill": "Reckless Punch",
         "skillDescription": "Using his Powerful Blocking Action, Dash to increase chance to activate Reckless Punch. Must equip \"Power Block\" skill to trigger.",
         "statsPositive": "+20 Block +20 Contact +8 Run +8 Stamina +2 Rebound +2 L/D",
