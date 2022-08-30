@@ -2174,7 +2174,7 @@
         "featureName": "Distance: ",
         "featureDescription": "(CONSIDERABLY?) Increase 3pt range.",
         "skill": "Cresent Step",
-        "skillDescription": "Increase backroll turn distance, increase fadeaway success rate after backroll turn.",
+        "skillDescription": "Increase backroll turn distance and fadeaway release speed after backroll turn.",
         "statsPositive": "+10 3pt Shot +5 Run",
         "statsNegative": "-5 L/D",
         "statsNeutral": "",
@@ -2345,7 +2345,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Position Walk: ",
-        "featureDescription": "Within 1s after ending of Air Walk, use Air Walk again to increase Air Walk speed (increases stamina consumption). Also, increase recovery rate on bad passes.",
+        "featureDescription": "Within 1s after ending of Air Walk, use Air Walk again to increase Air Walk speed (increases stamina consumption). Also, within 1s after ending of Air Walk, increase recovery rate on bad passes.",
         "skill": "Air Walk",
         "skillDescription": "Offball V-Cut/ Air Walk around defenders to quickly find openings and favorable shot positions. Air Walk can be used in multiple directions.",
         "statsPositive": "+12 Run +8 Block +8 3pt Shot +8 Stamina +5 Contact +2 M.Shot ",
@@ -2374,7 +2374,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Mamba Mentality: ",
-        "featureDescription": "Increase Recovery Speed, Sprint Speed, and Steal Success on for a short duration on Defense.",
+        "featureDescription": "Increase Recovery Speed, Sprint Speed, and Steal Success on for a short duration on Defense. Increase recovery speed after being knocked down.",
         "skill": "Pull-up Jump Shot",
         "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
         "statsPositive": "+12 M.Shot +13 3pt Shot +5 Stamina +5 Pass",
