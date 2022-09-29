@@ -2502,5 +2502,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/yashiro_c_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Baby",
+    "characterImage": "../assets/images/ranking_images/ranking_large_baby.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "YUSnyrx16kI",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Harmen Sophia",
+    "fate2": "Johnson Yuhyun",
+    "fate3": "Taylor Hayes",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Insight: ",
+        "featureDescription": "While winning, increase Shot Interference Rate. While losing, increase Open Shot Success Rate.",
+        "skill": "Focus Drift Shot",
+        "skillDescription": "Baby can use Focus 3pt Shot from 3pt range, or can abruptly drift to the side if the defense is contesting.",
+        "statsPositive": "+16 3pt Shot +6 Run +6 Stamina",
+        "statsNegative": "-8 Inside Shot -5 L/D",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/baby_sg_elite_skills.png"
+      }
+    ]
   }
 ]

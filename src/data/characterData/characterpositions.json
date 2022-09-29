@@ -4,6 +4,15 @@
     "players": [
 
       {
+        "name": "Baby",
+        "img": "../assets/images/portraits/Baby_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
         "name": "Yashiro",
         "img": "../assets/images/portraits/Yashiro_full.png",
         "rating": "Rating 500",
