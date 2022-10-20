@@ -7,7 +7,7 @@ function WeeklyVideoPage() {
 
 
   useEffect(() => {
-    window.location.href = "https://www.youtube.com/watch?v=q3GXTt5gEh0";
+    window.location.href = "https://www.bilibili.com/video/BV1R94y1D7eh/";
   }, []);
 
   return (
