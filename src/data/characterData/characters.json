@@ -2530,5 +2530,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/baby_sg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Curry",
+    "characterImage": "../assets/images/ranking_images/ranking_large_curry.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "zCqLXIIWsG8",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "MZ CyborgT",
+    "fate2": "Yuhyun Shalice",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "3pt Gravity: ",
+        "featureDescription": "Increase 3pt Range. Increase movement speed near 3pt line (away from the basket). Increase 3pt FG% when open.",
+        "skill": "Chef's Shot",
+        "skillDescription": "Activate Chef's \"QuickShot\" increases signature shot Speed and increases 3pt FG% when open. Double tap to Activate Chef's \"SlowShot\" and increases 3pt Resistance.",
+        "statsPositive": "+10 3pt Shot +10 Run +5 M.Shot +5 Stamina +5 Control +3 Pass",
+        "statsNegative": "-10 L/D -8 Contact -5 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/char_elite_skills/curry_pg_elite_skills.png"
+      }
+    ]
   }
 ]

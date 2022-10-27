@@ -2,7 +2,14 @@
   {
     "position": "All-Stars",
     "players": [
-
+      {
+        "name": "Curry",
+        "img": "../assets/images/portraits/Curry_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Baby",
         "img": "../assets/images/portraits/Baby_full.png",
@@ -857,6 +864,14 @@
         "position3": "SF"
       },
       {
+        "name": "Baby",
+        "img": "../assets/images/portraits/Baby_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Beard",
         "img": "../assets/images/portraits/Beard_full.png",
         "rating": "Rating 500",
@@ -1077,7 +1092,14 @@
         "position2": "SG",
         "position3": "SF"
       },
-
+      {
+        "name": "Curry",
+        "img": "../assets/images/portraits/Curry_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Elke",
         "img": "../assets/images/portraits/Elke_full.png",
