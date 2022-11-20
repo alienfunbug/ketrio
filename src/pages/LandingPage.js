@@ -8,7 +8,7 @@ function LandingPage() {
   return (
     <div className="landing-container">
       <div className="landing-content">
-        <span className="landing-title">Updates WILL Be Delayed</span>
+        <span className="landing-title">Indefinite Delays</span>
         <div className="landing-profiles">
           {profiles.map((profile, index) => (
             <div className="landing-profile" key={index}>
