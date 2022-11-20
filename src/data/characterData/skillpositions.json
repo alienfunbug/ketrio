@@ -10,6 +10,14 @@
         "placeholder": null
       },
       {
+        "name": "Post-Up Hook NEW",
+        "img": "../../../assets/images/position_elite_skills/post_up_hook.png",
+        "video": "lAhBKvfemr8",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
         "name": "Hook",
         "img": "../../assets/images/position_elite_skills/hook.png",
         "video": "IfknPQHSGAY",
@@ -173,6 +181,14 @@
       },
 
       {
+        "name": "Post-Up Hook NEW",
+        "img": "../../../assets/images/position_elite_skills/post_up_hook.png",
+        "video": "lAhBKvfemr8",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
         "name": "SP Dunk",
         "img": "../../assets/images/position_elite_skills/sp_dunk.png",
         "video": "p7adrKOdhVc",
@@ -211,6 +227,13 @@
         "isChinese": "",
         "placeholder": null
       },
+      {
+        "name": "Turn Around Fade Away NEW",
+        "img": "../assets/images/position_elite_skills/turnaround_fadeaway.png",
+        "video": "E54vDhHveqE",
+        "isChinese": "",
+        "placeholder": null
+      },
 
       {
         "name": "SP Rebound",
@@ -232,6 +255,13 @@
         "name": "Post-Up Crossover",
         "img": "../assets/images/position_elite_skills/post_up_crossover.png",
         "video": "WZ1WmH8M9Eo",
+        "isChinese": "",
+        "placeholder": null
+      },
+      {
+        "name": "Post-Up Crossover NEW",
+        "img": "../assets/images/position_elite_skills/post_up_crossover.png",
+        "video": "FGG2lYP-6Ak",
         "isChinese": "",
         "placeholder": null
       },
@@ -358,6 +388,14 @@
       },
 
       {
+        "name": "Fade Away NEW",
+        "img": "../../../assets/images/position_elite_skills/fadeaway.png",
+        "video": "6yHE1BL_Wm0",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
         "name": "SP Layup",
         "img": "../../assets/images/position_elite_skills/sp_layup.png",
         "video": "-A8dEnXB0Q8",
@@ -393,6 +431,14 @@
         "name": "Quick Jumper",
         "img": "../assets/images/position_elite_skills/quick_jumper.png",
         "video": "1CJc2HA14_I",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
+        "name": "Quick Jumper NEW",
+        "img": "../assets/images/position_elite_skills/quick_jumper.png",
+        "video": "ayjTnVDgW_A",
         "isChinese": "",
         "placeholder": null
       },
@@ -522,6 +568,14 @@
         "name": "Fade Away",
         "img": "../../../assets/images/position_elite_skills/fadeaway.png",
         "video": "TEumlBgW6ag",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
+        "name": "Fade Away NEW",
+        "img": "../../../assets/images/position_elite_skills/fadeaway.png",
+        "video": "H9NqjAYba-A",
         "isChinese": "",
         "placeholder": null
       },
@@ -706,6 +760,14 @@
       },
 
       {
+        "name": "Fade Away NEW",
+        "img": "../../../assets/images/position_elite_skills/fadeaway.png",
+        "video": "Cz1TSljoX9I",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
         "name": "Spin Move Stepback",
         "img": "../../assets/images/position_elite_skills/spin_move_stepback.png",
         "video": "85vaxJHWuTI",
@@ -765,6 +827,8 @@
         "placeholder": null
       },
 
+      
+
       {
         "name": "SP 3PT Shot",
         "img": "../assets/images/position_elite_skills/sp_3pt_shot.png",
@@ -777,6 +841,14 @@
         "name": "Quick Jumper",
         "img": "../assets/images/position_elite_skills/quick_jumper.png",
         "video": "oaiJABFt-HU",
+        "isChinese": "",
+        "placeholder": null
+      },
+
+      {
+        "name": "Quick Jumper NEW",
+        "img": "../assets/images/position_elite_skills/quick_jumper.png",
+        "video": "jj9mVrdHRlE",
         "isChinese": "",
         "placeholder": null
       },
