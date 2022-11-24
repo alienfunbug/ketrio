@@ -2327,7 +2327,6 @@
     ]
   },
 
-
   {
     "selectedCharacter": "Sanji",
     "characterImage": "../assets/images/ranking_images/ranking_large_sanji.png",
@@ -2356,7 +2355,7 @@
       }
     ]
   },
-  
+
   {
     "selectedCharacter": "Booker",
     "characterImage": "../assets/images/ranking_images/ranking_large_booker.png",
@@ -2442,9 +2441,7 @@
         "eliteSkills": "../assets/images/char_elite_skills/luka_sf_elite_skills.png"
       }
     ]
-  }
-
-  ,
+  },
 
   {
     "selectedCharacter": "2B",
@@ -2474,7 +2471,7 @@
       }
     ]
   },
-  
+
   {
     "selectedCharacter": "Yashiro",
     "characterImage": "../assets/images/ranking_images/ranking_large_yashiro.png",
@@ -2556,6 +2553,34 @@
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
         "eliteSkills": "../assets/images/char_elite_skills/curry_pg_elite_skills.png"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Rose",
+    "characterImage": "../assets/images/ranking_images/ranking_large_rose.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "NMknMR232kk",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Tsukino Diana",
+    "fate2": "Shalice Victor",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Durant Vision: ",
+        "featureDescription": "If not blocked, Rose has a chance to Significantly decrease Shot Contests and Interrupt Rate.",
+        "skill": "Fake Jumper",
+        "skillDescription": "Rose can fake opponents into opposite direction when using Post Up Jumper.",
+        "statsPositive": "+10 M.Shot +5 L/D +5 Run",
+        "statsNegative": "-5 Steal",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/rose_pf_elite_skills.png"
       }
     ]
   }

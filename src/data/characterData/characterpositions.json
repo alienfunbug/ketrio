@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Rose",
+        "img": "../assets/images/portraits/Rose_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Curry",
         "img": "../assets/images/portraits/Curry_full.png",
         "rating": "Rating 500",
@@ -77,9 +85,6 @@
         "position2": null,
         "position3": null
       },
-
-
-
 
       {
         "name": "Kuroko",
@@ -414,7 +419,6 @@
         "position2": null,
         "position3": null
       }
-
     ]
   },
 
@@ -569,6 +573,14 @@
       {
         "name": "Rodman",
         "img": "../assets/images/portraits/Rodman_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Rose",
+        "img": "../assets/images/portraits/Rose_full.png",
         "rating": "Rating 500",
         "position1": "PF",
         "position2": null,
@@ -749,7 +761,7 @@
         "position2": null,
         "position3": null
       },
-      
+
       {
         "name": "Lumi",
         "img": "../assets/images/portraits/Lumi_full.png",
@@ -1058,7 +1070,7 @@
         "position2": null,
         "position3": null
       },
-      
+
       {
         "name": "Antony",
         "img": "../assets/images/portraits/Antony_full.png",
