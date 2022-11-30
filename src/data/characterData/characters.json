@@ -2460,7 +2460,7 @@
       {
         "position": "Point_Guard",
         "featureName": "Trusted Friend: ",
-        "featureDescription": "After each assist, increase Steal Rate and L/D Range. Clears after 2B successfully scores.",
+        "featureDescription": "After each assist, increase Steal Resist and L/D Range. Clears after 2B successfully scores.",
         "skill": "Forward Projectile",
         "skillDescription": "Move forward a short distance then quickly Float the ball towards the basket. The more simple and effective a move, the more dangerous...",
         "statsPositive": "+10 M.Shot +5 Run +5 Stamina +5 Pass +3 L/D",
