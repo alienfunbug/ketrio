@@ -2583,5 +2583,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/rose_pf_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Widow",
+    "characterImage": "../assets/images/ranking_images/ranking_large_blackwidow.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "sWMKzDh9YF4",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lora Johnson",
+    "fate2": "Victor Harley",
+    "fate3": "Jessica Kai",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Dark Gymnast: ",
+        "featureDescription": "Decreased Stamina Consumption while dribbling by 50%.",
+        "skill": "Live Step Back",
+        "skillDescription": "While using Side Step, Hesitate to make an emergency changes in direction and still Continue Dribble.",
+        "statsPositive": "+5 M.Shot +5 3pt Shot +10 Block +5 Contact +10 Stamina",
+        "statsNegative": "-5 L/D -5 Steal -5 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/blackwidow_sf_elite_skills.png"
+      }
+    ]
   }
 ]

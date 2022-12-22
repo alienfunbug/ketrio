@@ -3,6 +3,14 @@
     "position": "All-Stars",
     "players": [
       {
+        "name": "Widow",
+        "img": "../assets/images/portraits/BlackWidow_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Rose",
         "img": "../assets/images/portraits/Rose_full.png",
         "rating": "Rating 500",
@@ -664,6 +672,14 @@
         "position1": "SF",
         "position2": "SG",
         "position3": "PG"
+      },
+      {
+        "name": "Widow",
+        "img": "../assets/images/portraits/BlackWidow_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
       },
 
       {
