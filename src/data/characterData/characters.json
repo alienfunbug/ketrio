@@ -2603,7 +2603,7 @@
         "featureName": "Dark Gymnast: ",
         "featureDescription": "Decreased Stamina Consumption while dribbling by 50%.",
         "skill": "Live Step Back",
-        "skillDescription": "While using Side Step, Hesitate to make an emergency changes in direction and still Continue Dribble.",
+        "skillDescription": "While using Side Step, Hesitate to make an emergency change in direction and still Continue Dribble.",
         "statsPositive": "+5 M.Shot +5 3pt Shot +10 Block +5 Contact +10 Stamina",
         "statsNegative": "-5 L/D -5 Steal -5 Inside Shot",
         "statsNeutral": "",
