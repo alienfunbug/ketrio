@@ -2611,5 +2611,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/blackwidow_sf_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Ezio",
+    "characterImage": "../assets/images/ranking_images/ranking_large_ezio.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Frank Yuhyun",
+    "fate2": "Harley Antony",
+    "fate3": "Kai Max",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Shadow Steal: ",
+        "featureDescription": "Edge can BackSteal Against player with special status (double dribble, fake shot, holding ball, etc). Increase Interception/Steal Rate against special status.",
+        "skill": "Two Piece",
+        "skillDescription": "Increase Steal Range on Second Swipe (optional) of Two-Piece Steal.",
+        "statsPositive": "+15 Steal +8 Run+6 Stamina",
+        "statsNegative": "-6 M.Shot -8 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/char_elite_skills/ezio_pg_elite_skills.png"
+      }
+    ]
   }
 ]
