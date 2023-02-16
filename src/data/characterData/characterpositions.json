@@ -2,6 +2,14 @@
   {
     "position": "All-Stars",
     "players": [
+      {
+        "name": "Scorpion",
+        "img": "../assets/images/portraits/Scorpion_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
 
       {
         "name": "Ezio",
@@ -379,6 +387,16 @@
         "position2": "PF",
         "position3": null
       },
+
+      {
+        "name": "Scorpion",
+        "img": "../assets/images/portraits/Scorpion_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      
       {
         "name": "Selina",
         "img": "../assets/images/portraits/Selina_full.png",

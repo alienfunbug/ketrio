@@ -2639,5 +2639,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/ezio_pg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Scorpion",
+    "characterImage": "../assets/images/ranking_images/ranking_large_scorpion.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "OlVrImpSGGo",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lumi Shalice",
+    "fate2": "Antony Min-Jun",
+    "fate3": "Max Lorsha",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "BodyGuard: ",
+        "featureDescription": "After a successful screen, temporarily increase teammate's movement speed near screen.",
+        "skill": "Hard Carry",
+        "skillDescription": "On Offense, if defense collides with \"Front\" of screen, they will be pushed to the ground. On Defense, press \"Break Defense\" to temporarily break opponent's screen.",
+        "statsPositive": "+20 Contact +8 Run +8 Stamina +2 Rebound +2 Block",
+        "statsNegative": "-15 Control -5 3pt Shot -3 M.Shot -2 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/scorpion_c_elite_skills.png"
+      }
+    ]
   }
 ]
