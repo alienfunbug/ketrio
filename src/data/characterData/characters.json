@@ -88,36 +88,36 @@
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
     "positionCount": 2,
-    "highlights": "",
+    "highlights": "dQw4w9WgXcQ",
     "evolve": "EVOLVE DETAILS",
-    "fate1": "Max Sugar",
-    "fate2": "Sugar Kaisa",
-    "fate3": "",
+    "fate1": "Never gonna give you up",
+    "fate2": "Never gonna let you down",
+    "fate3": "Never gonna run around and desert you",
     "avatar": "Avatar image",
     "characterPosition": [
       {
         "position": "PG",
-        "featureName": "Feature: ",
-        "featureDescription": "None",
+        "featureName": "Lyrics: ",
+        "featureDescription": "Never gonna give you up",
         "skill": "None",
-        "skillDescription": "None",
+        "skillDescription": "Never gonna let you down",
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "../assets/images/char_elite_skills/rick_pg_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/rick_pg_elite_skills.gif"
       },
       {
         "position": "SG",
-        "featureName": "Feature: ",
-        "featureDescription": "None",
-        "skill": "None",
-        "skillDescription": "None",
+        "featureName": "",
+        "featureDescription": "Never gonna run around and desert you",
+        "skill": " ",
+        "skillDescription": "Never gonna make you cry...",
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/rick_sg_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/rick_sg_elite_skills.gif"
       }
     ]
   },
@@ -2667,5 +2667,35 @@
         "eliteSkills": "../assets/images/char_elite_skills/scorpion_c_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Ancient",
+    "characterImage": "../assets/images/ranking_images/ranking_large_ancient.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "U97_s2vz7Aw",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Sakura Victor",
+    "fate2": "Min-Jun Sophia",
+    "fate3": "Lorsha Arthur",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "3D: ",
+        "featureDescription": "Increase success rate of Open Shots. While close to opponent in the defensive state, increase Interception Rate.",
+        "skill": "Hand Up",
+        "skillDescription": "While near opponent, press \"Interfere\" to put hands up and cause Strong Interference on opponent's shot.",
+        "statsPositive": "+10 3pt Shot  +5 M.Shot +5 Run +3 Stamina +2 Block +1 Pass",
+        "statsNegative": "-6 L/D -5 Inside Shot",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/ancient_sg_elite_skills.png"
+      }
+    ]
   }
+
 ]
