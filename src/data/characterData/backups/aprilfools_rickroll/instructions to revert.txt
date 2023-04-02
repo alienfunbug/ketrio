@@ -1,0 +1,2 @@
+delete gifs in respective folders based on current files
+change files back to aprilfools version

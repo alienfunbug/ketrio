@@ -88,36 +88,36 @@
     "cost": "9000 Coins | 160 Shards",
     "TBD": "TBD",
     "positionCount": 2,
-    "highlights": "dQw4w9WgXcQ",
+    "highlights": "",
     "evolve": "EVOLVE DETAILS",
-    "fate1": "Never gonna give you up",
-    "fate2": "Never gonna let you down",
-    "fate3": "Never gonna run around and desert you",
+    "fate1": "Max Sugar",
+    "fate2": "Sugar Kaisa",
+    "fate3": "",
     "avatar": "Avatar image",
     "characterPosition": [
       {
         "position": "PG",
-        "featureName": "Lyrics: ",
-        "featureDescription": "Never gonna give you up",
+        "featureName": "Feature: ",
+        "featureDescription": "None",
         "skill": "None",
-        "skillDescription": "Never gonna let you down",
+        "skillDescription": "None",
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+3.5% Pass Speed",
-        "eliteSkills": "../assets/images/char_elite_skills/rick_pg_elite_skills.gif"
+        "eliteSkills": "../assets/images/char_elite_skills/rick_pg_elite_skills.png"
       },
       {
         "position": "SG",
-        "featureName": "",
-        "featureDescription": "Never gonna run around and desert you",
-        "skill": " ",
-        "skillDescription": "Never gonna make you cry...",
+        "featureName": "Feature: ",
+        "featureDescription": "None",
+        "skill": "None",
+        "skillDescription": "None",
         "statsPositive": "",
         "statsNegative": "",
         "statsNeutral": "None",
         "passive": "+2% 3pt Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/rick_sg_elite_skills.gif"
+        "eliteSkills": "../assets/images/char_elite_skills/rick_sg_elite_skills.png"
       }
     ]
   },

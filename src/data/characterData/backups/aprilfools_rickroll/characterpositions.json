@@ -1,0 +1,900 @@
+[
+  {
+    "position": "All-Stars",
+    "players": [
+      {
+        "name": "Ancient",
+        "img": "../assets/images/portraits/Ancient_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Scorpion",
+        "img": "../assets/images/portraits/Scorpion_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Ezio",
+        "img": "../assets/images/portraits/Ezio_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Widow",
+        "img": "../assets/images/portraits/BlackWidow_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Rose",
+        "img": "../assets/images/portraits/Rose_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Curry",
+        "img": "../assets/images/portraits/Curry_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Baby",
+        "img": "../assets/images/portraits/Baby_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Yashiro",
+        "img": "../assets/images/portraits/Yashiro_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "2B",
+        "img": "../assets/images/portraits/2B_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Luka",
+        "img": "../assets/images/portraits/Luka_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Rodman",
+        "img": "../assets/images/portraits/Rodman_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Booker",
+        "img": "../assets/images/portraits/Booker_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Sanji",
+        "img": "../assets/images/portraits/Sanji_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Selina",
+        "img": "../assets/images/portraits/Selina_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Kuroko",
+        "img": "../assets/images/portraits/Kuroko_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Tyrant",
+        "img": "../assets/images/portraits/Tyrant_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Answer",
+        "img": "../assets/images/portraits/Iverson_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Shaq",
+        "img": "../assets/images/portraits/Shaq_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Moon",
+        "img": "../assets/images/portraits/Moon_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Lebron",
+        "img": "../assets/images/portraits/Lebron_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Uncle Drew",
+        "img": "../assets/images/portraits/UncleDrew_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mary",
+        "img": "../assets/images/portraits/Mary_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Livia",
+        "img": "../assets/images/portraits/Livia_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mai",
+        "img": "../assets/images/portraits/Mai_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Mitsuki",
+        "img": "../assets/images/portraits/Mitsuki_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Claw",
+        "img": "../assets/images/portraits/Claw_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Mac",
+        "img": "../assets/images/portraits/Mac_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Gori",
+        "img": "../assets/images/portraits/Gori_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
+      {
+        "name": "Beard",
+        "img": "../assets/images/portraits/Beard_full.png",
+        "rating": "Rating 500",
+        "position1": "SG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Ryo",
+        "img": "../assets/images/portraits/Ryo_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
+      {
+        "name": "Tsuna",
+        "img": "../assets/images/portraits/Tsuna_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Centers",
+    "players": [
+     
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  },
+
+  {
+    "position": "Power Forwards",
+    "players": [
+      
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Small Forwards",
+    "players": [
+      
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  },
+
+  {
+    "position": "Shooting Guards",
+    "players": [
+      
+      
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  },
+  {
+    "position": "Point Guards",
+    "players": [
+     
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      },
+      {
+        "name": "Rick",
+        "img": "../assets/images/portraits/Rick_full.png",
+        "rating": "Rating 150",
+        "position1": "PG",
+        "position2": "SG",
+        "position3": null
+      }
+    ]
+  }
+]
