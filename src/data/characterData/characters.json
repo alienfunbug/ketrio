@@ -2058,7 +2058,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Never Give Up: ",
-        "featureDescription": "While losing, for 3 seconds after a pass, Increase 3pt FG% of Mitsuki's Signature Shots.",
+        "featureDescription": "While losing, for 3 seconds after a pass, Increase 3pt FG% of Mitsuki's Open Signature Shots.",
         "skill": "Heating Up",
         "skillDescription": "3pt Shot and Quick Jumper Speed increased. 3pt FG% increase while open.",
         "statsPositive": "+15 3pt Shot +10 M.Shot",
@@ -2089,7 +2089,7 @@
         "featureName": "Tracy: ",
         "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3pt FG%.",
         "skill": "Power 3pt",
-        "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed.",
+        "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed. Shooting from \"Hot Spots\" (last two shot locations) increase FG%.",
         "statsPositive": "+25 3pt Shot",
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
@@ -2230,9 +2230,9 @@
       {
         "position": "Point_Guard",
         "featureName": "Assist King: ",
-        "featureDescription": "Increased Pass Speed for chest passes. Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
+        "featureDescription": "Increased Pass Speed for \"Chest Passes\". Increase chance of triggering a \"Wonderful Pass\" when teammate is open.",
         "skill": "Phantom Pass",
-        "skillDescription": "When a receiving a Chest Pass, use Quick Pass to return the ball to teammate at an very fast speed [No Increase to Teammate's Shot Speed]. Must equip \"Quick Pass\" skill to trigger.",
+        "skillDescription": "When a receiving a \"Chest Pass\", use Quick Pass to return the ball to teammate at an very fast speed. This pass allows PF/C to quick jumper and PG/SF/SG to have increased Dunk Rate. Must equip \"Quick Pass\" skill to trigger.",
         "statsPositive": "+20 Pass +5 Control +4 Stamina +3 3pt Shot +3 Run +2 Steal",
         "statsNegative": "-10 M.Shot -10 Contact -2 Inside Shot",
         "statsNeutral": "",
@@ -2694,6 +2694,35 @@
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
         "eliteSkills": "../assets/images/char_elite_skills/ancient_sg_elite_skills.png"
+      }
+    ]
+  },
+  
+  {
+    "selectedCharacter": "Giannis",
+    "characterImage": "../assets/images/ranking_images/ranking_large_giannis.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "07eDqd51Rb4",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Hong Harley",
+    "fate2": "Sophia CyborgT",
+    "fate3": "Arthur Taylor",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "The Monster: ",
+        "featureDescription": "On Offense, after using Dash or Post up, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
+        "skill": "Quick Step",
+        "skillDescription": "Offense: After receiving a pass, Giannis can \"Catch and Dash\" or sprint in a direction (Can be knocked down) to gain space. Defense: Increase Dash Speed and Reduce Stamina Cost (Cannot be knocked down).",
+        "statsPositive": "+2 Inside Shot +3 L/D +2 Rebound +3 Block +10 Contact +8 Stamina +8 Run",
+        "statsNegative": "-2 M.Shot -3 3pt Shot -6 Steal -10 Pass",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/giannis_pf_elite_skills.png"
       }
     ]
   }

@@ -4,6 +4,14 @@
     "players": [
 
       {
+        "name": "Giannis",
+        "img": "../assets/images/portraits/Giannis_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
+        "position3": null
+      },
+      {
         "name": "Ancient",
         "img": "../assets/images/portraits/Ancient_full.png",
         "rating": "Rating 500",
@@ -508,6 +516,14 @@
         "rating": "Rating 500",
         "position1": "PF",
         "position2": "C",
+        "position3": null
+      },
+      {
+        "name": "Giannis",
+        "img": "../assets/images/portraits/Giannis_full.png",
+        "rating": "Rating 500",
+        "position1": "PF",
+        "position2": null,
         "position3": null
       },
       {
