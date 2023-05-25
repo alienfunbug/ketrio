@@ -2727,8 +2727,8 @@
     ]
   },
   {
-    "selectedCharacter": "Joel",
-    "characterImage": "../assets/images/ranking_images/ranking_large_joel.png",
+    "selectedCharacter": "Yor",
+    "characterImage": "../assets/images/ranking_images/ranking_large_Yor.png",
     "rating": "Rating 500",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2745,12 +2745,12 @@
         "featureName": "Adapt: ",
         "featureDescription": "Increase Block Range and Decrease chance for Contact Fail vs Bigs. Increase Defensive Movement Speed vs Smalls.",
         "skill": "Hesi",
-        "skillDescription": "Joel can continue, crossover in opposite direction, or PUJ out of her Signature Hesi Dribble.",
+        "skillDescription": "Yor can continue, crossover in opposite direction, or PUJ out of her Signature Hesi Dribble.",
         "statsPositive": " +6 M.Shot +4 3pt Shot +5 Run +2 Stamina +2 Block +2 Contact",
         "statsNegative": "-4 Inside Shot -2 Pass",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/joel_sf_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/yor_sf_elite_skills.png"
       }
     ]
   }
