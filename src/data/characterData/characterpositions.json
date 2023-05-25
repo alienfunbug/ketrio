@@ -3,6 +3,15 @@
     "position": "All-Stars",
     "players": [
 
+
+      {
+        "name": "Joel",
+        "img": "../assets/images/portraits/Joel_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Giannis",
         "img": "../assets/images/portraits/Giannis_full.png",
@@ -776,6 +785,15 @@
         "rating": "Rating 150",
         "position1": "SF",
         "position2": "SG",
+        "position3": null
+      },
+
+      {
+        "name": "Joel",
+        "img": "../assets/images/portraits/Joel_full.png",
+        "rating": "Rating 500",
+        "position1": "SF",
+        "position2": null,
         "position3": null
       },
 

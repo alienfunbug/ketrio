@@ -760,7 +760,7 @@
     "highlights": "",
     "evolve": "EVOLVE DETAILS",
     "fate1": "Emily Johnson",
-    "fate2": "CyborgT Diana ",
+    "fate2": "CyborgT Diana",
     "fate3": "Taylor Hayes",
     "avatar": "Avatar image",
     "characterPosition": [
@@ -2723,6 +2723,34 @@
         "statsNeutral": "",
         "passive": "+15% Block Rate",
         "eliteSkills": "../assets/images/char_elite_skills/giannis_pf_elite_skills.png"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Joel",
+    "characterImage": "../assets/images/ranking_images/ranking_large_joel.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "kmqu38mO_PE",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Maple Antony",
+    "fate2": "CyborgT Diana",
+    "fate3": "Taylor Hayes",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Adapt: ",
+        "featureDescription": "Increase Block Range and Decrease chance for Contact Fail vs Bigs. Increase Defensive Movement Speed vs Smalls.",
+        "skill": "Hesi",
+        "skillDescription": "Joel can continue, crossover in opposite direction, or PUJ out of her Signature Hesi Dribble.",
+        "statsPositive": " +6 M.Shot +4 3pt Shot +5 Run +2 Stamina +2 Block +2 Contact",
+        "statsNegative": "-4 Inside Shot -2 Pass",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/joel_sf_elite_skills.png"
       }
     ]
   }
