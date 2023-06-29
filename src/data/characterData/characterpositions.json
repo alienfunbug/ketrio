@@ -3,7 +3,14 @@
     "position": "All-Stars",
     "players": [
 
-
+      {
+        "name": "Seraphine",
+        "img": "../assets/images/portraits/Seraphine_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Yor",
         "img": "../assets/images/portraits/Yor_full.png",
@@ -1322,7 +1329,14 @@
         "position2": null,
         "position3": null
       },
-
+      {
+        "name": "Seraphine",
+        "img": "../assets/images/portraits/Seraphine_full.png",
+        "rating": "Rating 500",
+        "position1": "PG",
+        "position2": null,
+        "position3": null
+      },
       {
         "name": "Sophia",
         "img": "../assets/images/portraits/Sophia_full.png",
