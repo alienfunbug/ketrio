@@ -1077,7 +1077,7 @@
       {
         "position": "SG",
         "featureName": "Goggles I: ",
-        "featureDescription": "MARGINALLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "MARGINALLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1224,7 +1224,7 @@
       {
         "position": "SG",
         "featureName": "Cutie III: ",
-        "featureDescription": "SLIGHTLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "SLIGHTLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1600,7 +1600,7 @@
       {
         "position": "SG",
         "featureName": "Charm II: ",
-        "featureDescription": "FAIRLY increases 3pt FG % after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "FAIRLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -2143,7 +2143,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Change: ",
-        "featureDescription": "After Freestyle Dribble, driving left or right SLIGHTLY increases drive/dash speed.",
+        "featureDescription": "After Freestyle Dribble, driving left or right Slightly increases drive/dash speed.",
         "skill": "Tease",
         "skillDescription": "Hold Drive to create space and start behind the back dribble. During skill, Shot Speed [includes tricks] and Steal Resistance will increase.",
         "statsPositive": "+10 3pt Shot +10 Stamina",
@@ -2373,7 +2373,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Mamba Mentality: ",
-        "featureDescription": "After being knocked down, Increase Recovery Speed, offball dash speed, and Steal Success on for a short duration on Defense.",
+        "featureDescription": "After being knocked down, Increase Recovery Speed, offball dash speed, and Steal Success on for a short period of time on Defense.",
         "skill": "Pull-up Jump Shot",
         "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
         "statsPositive": "+12 M.Shot +13 3pt Shot +5 Stamina +5 Pass",
@@ -2431,7 +2431,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Miracle 77: ",
-        "featureDescription": "After baiting opponent with Pump Fake, increase Mid Shot FG% and Open 3pt FG %. Also, Slightly increase Steal Resistance and Resting Stamina Recovery Rate.",
+        "featureDescription": "After baiting opponent with Pump Fake, increase Mid Shot FG% and Open 3pt FG%. Also, increase Steal Resistance and Resting Stamina Recovery Rate.",
         "skill": "Catch and Step Back",
         "skillDescription": "Step Back and shoot WHILE catching the ball, or dribble to break through defenders.",
         "statsPositive": "+12 3pt Shot +7 Run +4 M.Shot +4 Pass +2 Block",
@@ -2482,7 +2482,7 @@
     "highlights": "NjbSUmorxCE",
     "evolve": "EVOLVE DETAILS",
     "fate1": "Elke Min-Jun",
-    "fate2": "Diana Johnson",
+    "fate2": "Diana Johnson", 
     "fate3": "Arthur Taylor",
     "avatar": "Avatar image",
     "characterPosition": [
@@ -2604,7 +2604,7 @@
         "featureDescription": "Decreased Stamina Consumption while dribbling by 50%.",
         "skill": "Live Step Back",
         "skillDescription": "While using Side Step, Hesitate to make an emergency change in direction and still Continue Dribble.",
-        "statsPositive": "+5 M.Shot +5 3pt Shot +10 Block +5 Contact +10 Stamina",
+        "statsPositive": " +10 Block +10 Stamina +5 Contact +5 M.Shot +5 3pt Shot",
         "statsNegative": "-5 L/D -5 Steal -5 Inside Shot",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
@@ -2632,8 +2632,8 @@
         "featureDescription": "Edge can BackSteal Against player with special status (double dribble, fake shot, holding ball, etc). Increase Interception/Steal Rate against special status.",
         "skill": "Two Piece",
         "skillDescription": "Increase Steal Range on Second Swipe (optional) of Two-Piece Steal.",
-        "statsPositive": "+15 Steal +8 Run+6 Stamina",
-        "statsNegative": "-6 M.Shot -8 Inside Shot",
+        "statsPositive": "+15 Steal +8 Run +6 Stamina",
+        "statsNegative": "-8 Inside Shot -6 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Pass Speed",
         "eliteSkills": "../assets/images/char_elite_skills/ezio_pg_elite_skills.png"
@@ -2689,7 +2689,7 @@
         "featureDescription": "Increase success rate of Open Shots. While close to opponent in the defensive state, increase Interception Rate.",
         "skill": "Hand Up",
         "skillDescription": "While near opponent, press \"Interfere\" to put hands up and cause Strong Interference on opponent's shot.",
-        "statsPositive": "+10 3pt Shot  +5 M.Shot +5 Run +3 Stamina +2 Block +1 Pass",
+        "statsPositive": "+10 3pt Shot +5 M.Shot +5 Run +3 Stamina +2 Block +1 Pass",
         "statsNegative": "-6 L/D -5 Inside Shot",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
@@ -2718,8 +2718,8 @@
         "featureDescription": "On Offense, after using Dash or Post up, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
         "skill": "Quick Step",
         "skillDescription": "Offense: After receiving a pass, Giannis can \"Catch and Dash\" or sprint in a direction (Can be knocked down) to gain space. Defense: Increase Dash Speed and Reduce Stamina Cost (Cannot be knocked down).",
-        "statsPositive": "+2 Inside Shot +3 L/D +2 Rebound +3 Block +10 Contact +8 Stamina +8 Run",
-        "statsNegative": "-2 M.Shot -3 3pt Shot -6 Steal -10 Pass",
+        "statsPositive": "+10 Contact +8 Stamina +8 Run +3 L/D +3 Block +2 Rebound +2 Inside Shot",
+        "statsNegative": "-10 Pass -6 Steal -3 3pt Shot -2 M.Shot",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
         "eliteSkills": "../assets/images/char_elite_skills/giannis_pf_elite_skills.png"
@@ -2746,13 +2746,40 @@
         "featureDescription": "Increase Block Range and Decrease chance for Contact Fail vs Bigs. Increase Defensive Movement Speed vs Smalls.",
         "skill": "Hesi",
         "skillDescription": "Yor can continue, crossover in opposite direction, or PUJ out of her Signature Hesi Dribble.",
-        "statsPositive": " +6 M.Shot +4 3pt Shot +5 Run +2 Stamina +2 Block +2 Contact",
+        "statsPositive": " +6 M.Shot +5 Run +4 3pt Shot +2 Stamina +2 Block +2 Contact",
         "statsNegative": "-4 Inside Shot -2 Pass",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
         "eliteSkills": "../assets/images/char_elite_skills/yor_sf_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Seraphine",
+    "characterImage": "../assets/images/ranking_images/ranking_large_seraphine.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Raven Min-Jun",
+    "fate2": "Diana Johnson",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Homeopathic End: ",
+        "featureDescription": "After Driving, Slightly increase L/D range, Open Mid Shot FG%, and Open 3pt FG% for a short period of time.",
+        "skill": "Spin Drive",
+        "skillDescription": "Seraphine can dash during crossover to use Signature Spin Dribble.",
+        "statsPositive": "+8 L/D +6 M.Shot +5 Pass +2 3pt Shot ",
+        "statsNegative": "-3 Rebound -3 Contact",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed",
+        "eliteSkills": "../assets/images/char_elite_skills/seraphine_pg_elite_skills.png"
+      }
+    ]
   }
-
 ]
