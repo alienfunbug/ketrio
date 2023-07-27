@@ -3,6 +3,17 @@
     "position": "All-Stars",
     "players": [
 
+
+      
+      {
+        "name": "Embiid",
+        "img": "../assets/images/portraits/Embiid_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+
       {
         "name": "Seraphine",
         "img": "../assets/images/portraits/Seraphine_full.png",
@@ -300,6 +311,17 @@
         "position2": "PF",
         "position3": null
       },
+
+            
+      {
+        "name": "Embiid",
+        "img": "../assets/images/portraits/Embiid_full.png",
+        "rating": "Rating 500",
+        "position1": "C",
+        "position2": null,
+        "position3": null
+      },
+      
       {
         "name": "Emily",
         "img": "../assets/images/portraits/Emily_full.png",

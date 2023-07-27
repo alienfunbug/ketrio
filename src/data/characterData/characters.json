@@ -2781,5 +2781,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/seraphine_pg_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Embiid",
+    "characterImage": "../assets/images/ranking_images/ranking_large_embiid.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lana Sophia",
+    "fate2": "Johnson Yuhyun",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "Perspective: ",
+        "featureDescription": "While passing in post, increase chance of triggering a \"Wonderful Pass\" that is not easily intercepted. When passing further out, considerably reduce chance of bad catches. ",
+        "skill": "Spin Drive",
+        "skillDescription": "During post up, Embiid can mix the defenders with a fast post up layup, or a reverse spin post up slow layup.",
+        "statsPositive": "+8 Inside Shot +8 Control +6 L/D +5 Pass +2 M.Shot",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/embiid_c_elite_skills.png"
+      }
+    ]
   }
 ]
