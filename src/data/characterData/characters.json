@@ -2782,7 +2782,6 @@
       }
     ]
   },
-
   {
     "selectedCharacter": "Embiid",
     "characterImage": "../assets/images/ranking_images/ranking_large_embiid.png",
@@ -2808,6 +2807,34 @@
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
         "eliteSkills": "../assets/images/char_elite_skills/embiid_c_elite_skills.png"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Ryu",
+    "characterImage": "../assets/images/ranking_images/ranking_large_ryu.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Emily CyborgT",
+    "fate2": "Yuhyun Shalice",
+    "fate3": "Jessica Kai",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Tower: ",
+        "featureDescription": "After a shot, increase Boxout Size and Contact; if in Superior Boxout Position, increase Boxout Contact and Rebound Contact.",
+        "skill": "Swarm",
+        "skillDescription": "When in Inferior Boxout Position, Ryu can Swarm with high chance of landing in Superior Boxout Position.",
+        "statsPositive": "+20 Contact +5 Rebound +3 Run",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/ryu_pf_elite_skills.png"
       }
     ]
   }
