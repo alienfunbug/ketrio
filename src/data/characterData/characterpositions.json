@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Levi",
+      "img": "../assets/images/portraits/Levi_full.png",
+      "rating": "Rating 500",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Ryu",
       "img": "../assets/images/portraits/Ryu_full.png",
       "rating": "Rating 500",
@@ -1070,6 +1078,14 @@
      "position2": "PG",
      "position3": "SF"
     },
+    {
+      "name": "Levi",
+      "img": "../assets/images/portraits/Levi_full.png",
+      "rating": "Rating 500",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Lora",
      "img": "../assets/images/portraits/Lora_full.png",

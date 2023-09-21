@@ -2837,5 +2837,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/ryu_pf_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Levi",
+    "characterImage": "../assets/images/ranking_images/ranking_large_levi.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Nova Diana",
+    "fate2": "Shalice Victor",
+    "fate3": "Kai Max",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Witty: ",
+        "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the interruption zone size. Last until end of the game. Stacks (2x).",
+        "skill": "3 Step Layup",
+        "skillDescription": "Levi can EuroStep like famous NBA player Giannis Antetokounmpo.",
+        "statsPositive": "+5 3pt Shot +4 M.Shot +8 L/D +5 Stamina",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/levi_sg_elite_skills.png"
+      }
+    ]
   }
 ]
