@@ -2856,7 +2856,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Witty: ",
-        "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the interruption zone size. Last until end of the game. Stacks (2x).",
+        "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the interruption zone size. Lasts until the end of the game. Stacks (2x).",
         "skill": "3 Step Layup",
         "skillDescription": "Levi can EuroStep like famous NBA player Giannis Antetokounmpo.",
         "statsPositive": "+4 3pt Shot +5 M.Shot +8 L/D +5 Stamina",
