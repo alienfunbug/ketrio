@@ -13,7 +13,7 @@ function VideoModal(props) {
   return (
     <span>
       <span onClick={toggleModal} className="details-fake-link-footer">
-        Highlights
+        Video
       </span>
       {modal && (
         <div>

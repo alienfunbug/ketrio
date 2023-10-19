@@ -2866,5 +2866,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/levi_sg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Kaito Kid",
+    "characterImage": "../assets/images/ranking_images/ranking_large_kaito.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Avis Johnson",
+    "fate2": "Victor Harley",
+    "fate3": "Max Lorsha",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Aerial Magician: ",
+        "featureDescription": "After a dash or drive, increase Dunk Rate for 1s.",
+        "skill": "Aerial Magician",
+        "skillDescription": "Kaito Kid can fake his opponents by passing out of Dunks and Layups.",
+        "statsPositive": "+10 L/D, +10 Contact, +5 Pass, +5 Stamina",
+        "statsNegative": "-5 3pt Shot, -5 Control",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/kaito_sf_elite_skills.png"
+      }
+    ]
   }
 ]

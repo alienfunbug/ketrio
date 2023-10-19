@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Kaito Kid",
+      "img": "../assets/images/portraits/Kaito_full.png",
+      "rating": "Rating 500",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Levi",
       "img": "../assets/images/portraits/Levi_full.png",
       "rating": "Rating 500",
@@ -761,14 +769,7 @@
      "position2": "SG",
      "position3": "PG"
     },
-    {
-     "name": "Widow",
-     "img": "../assets/images/portraits/BlackWidow_full.png",
-     "rating": "Rating 500",
-     "position1": "SF",
-     "position2": null,
-     "position3": null
-    },
+
     {
      "name": "Colonel",
      "img": "../assets/images/portraits/Colonel_full.png",
@@ -809,14 +810,7 @@
      "position2": "SG",
      "position3": null
     },
-    {
-     "name": "Yor",
-     "img": "../assets/images/portraits/Yor_full.png",
-     "rating": "Rating 500",
-     "position1": "SF",
-     "position2": null,
-     "position3": null
-    },
+
     {
      "name": "Kai",
      "img": "../assets/images/portraits/Kai_full.png",
@@ -825,6 +819,14 @@
      "position2": "SG",
      "position3": "PG"
     },
+    {
+      "name": "Kaito Kid",
+      "img": "../assets/images/portraits/Kaito_full.png",
+      "rating": "Rating 500",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Kobe",
      "img": "../assets/images/portraits/Kobe_full.png",
@@ -944,7 +946,23 @@
      "position1": "SF",
      "position2": "SG",
      "position3": "PG"
-    }
+    },
+    {
+      "name": "Widow",
+      "img": "../assets/images/portraits/BlackWidow_full.png",
+      "rating": "Rating 500",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+    {
+      "name": "Yor",
+      "img": "../assets/images/portraits/Yor_full.png",
+      "rating": "Rating 500",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     }
    ]
   },
   {
