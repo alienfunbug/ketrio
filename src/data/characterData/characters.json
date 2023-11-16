@@ -2895,4 +2895,33 @@
       }
     ]
   }
+  ,
+  {
+    "selectedCharacter": "Juri",
+    "characterImage": "../assets/images/ranking_images/ranking_large_juri.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Falco Yuhyun",
+    "fate2": "Harley Antony",
+    "fate3": "Lorsha Arthur",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "Footsies: ",
+        "featureDescription": "When not holding the ball, increase movement speed towards the basket.",
+        "skill": "Footsies",
+        "skillDescription": "Trip defense during an L/D to either cause an unstable layup, or increase interference and lower FG%",
+        "statsPositive": "+10 Block, +8 Contact, +5 Rebound, +3 Run, +3 Stamina, +3 M.Shot",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/juri_c_elite_skills.png"
+      }
+    ]
+  }
 ]

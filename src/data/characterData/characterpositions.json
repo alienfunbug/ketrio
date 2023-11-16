@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Juri",
+      "img": "../assets/images/portraits/Juri_full.png",
+      "rating": "Rating 500",
+      "position1": "C",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Kaito Kid",
       "img": "../assets/images/portraits/Kaito_full.png",
       "rating": "Rating 500",
@@ -383,6 +391,14 @@
      "position2": "PF",
      "position3": null
     },
+    {
+      "name": "Juri",
+      "img": "../assets/images/portraits/Juri_full.png",
+      "rating": "Rating 500",
+      "position1": "C",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Kaisa",
      "img": "../assets/images/portraits/Kaisa_full.png",
