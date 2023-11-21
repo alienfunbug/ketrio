@@ -2915,7 +2915,7 @@
         "featureName": "Footsies: ",
         "featureDescription": "When not holding the ball, increase movement speed towards the basket.",
         "skill": "Footsies",
-        "skillDescription": "Trip defense during an Layup or Dunk to either cause an Unstable Layup, or increase interference and lower FG%",
+        "skillDescription": "Trip defense during a Layup or Dunk to either cause an Unstable Layup, or increase interference and lower FG%",
         "statsPositive": "+10 Block, +8 Contact, +5 Rebound, +3 Run, +3 Stamina, +3 M.Shot",
         "statsNegative": "",
         "statsNeutral": "",
