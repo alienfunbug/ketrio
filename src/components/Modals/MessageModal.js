@@ -24,7 +24,7 @@ function MessageModal() {
               </h2>
 
               <div className="fate-total">
-                <div className="message-1"> ...For practice with React. A big thanks to the crew; especially Runtz and Delay for being The Plugs.
+                <div className="message-1"> ...For practice with React. A big thanks to the crew; especially Runtz and Delay for the early entries.
  
                 If something needs to be updated or corrected, ping or email: alienfunbug@gmail.com</div>
       

@@ -2119,7 +2119,7 @@
         "skill": "Butterfly",
         "skillDescription": "Fancy Drive makes it easier to crossover defender.",
         "statsPositive": "+30 Stamina +5 M.Shot +4 Pass",
-        "statsNegative": "-Inside Shot",
+        "statsNegative": "-20 Inside Shot",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
         "eliteSkills": "../assets/images/char_elite_skills/mai_sf_elite_skills.png"
@@ -2482,7 +2482,7 @@
     "highlights": "NjbSUmorxCE",
     "evolve": "EVOLVE DETAILS",
     "fate1": "Elke Min-Jun",
-    "fate2": "Diana Johnson", 
+    "fate2": "Diana Johnson",
     "fate3": "Arthur Taylor",
     "avatar": "Avatar image",
     "characterPosition": [
@@ -2697,7 +2697,7 @@
       }
     ]
   },
-  
+
   {
     "selectedCharacter": "Giannis",
     "characterImage": "../assets/images/ranking_images/ranking_large_giannis.png",
@@ -2859,7 +2859,7 @@
         "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the interruption zone size. Lasts until the end of the game. Stacks (2x).",
         "skill": "3 Step Layup",
         "skillDescription": "Levi can EuroStep like famous NBA player Giannis Antetokounmpo.",
-        "statsPositive": "+4 3pt Shot +5 M.Shot +8 L/D +5 Stamina",
+        "statsPositive": "+8 L/D +5 M.Shot +5 Stamina +4 3pt Shot",
         "statsNegative": "",
         "statsNeutral": "",
         "passive": "+10% 3pt Res.",
@@ -2894,8 +2894,7 @@
         "eliteSkills": "../assets/images/char_elite_skills/kaito_sf_elite_skills.png"
       }
     ]
-  }
-  ,
+  },
   {
     "selectedCharacter": "Juri",
     "characterImage": "../assets/images/ranking_images/ranking_large_juri.png",
