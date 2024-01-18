@@ -1130,7 +1130,7 @@
       {
         "position": "SF",
         "featureName": "Iga III: ",
-        "featureDescription": "In midrange area, enter interruption zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
+        "featureDescription": "In midrange area, enter Interruption Zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1159,7 +1159,7 @@
       {
         "position": "PG",
         "featureName": "Red Lip I: ",
-        "featureDescription": "Stay in interruption zone for 1s to MARGINALLY increase Interception/Steal Rate for 5s.",
+        "featureDescription": "Stay in Interruption Zone for 1s to MARGINALLY increase Interception/Steal Rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1318,7 +1318,7 @@
       {
         "position": "PG",
         "featureName": "Resonance III: ",
-        "featureDescription": "Stay in interruption zone for 1s to SLIGHTLY increase Interception/Steal Rate for 5s.",
+        "featureDescription": "Stay in Interruption Zone for 1s to SLIGHTLY increase Interception/Steal Rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1559,7 +1559,7 @@
       {
         "position": "SF",
         "featureName": "Lumi I: ",
-        "featureDescription": "In midrange area, enter interruption zone for 1s to FAIRLY decrease opponent's speed and shake off rate for 5s.",
+        "featureDescription": "In midrange area, enter Interruption Zone for 1s to FAIRLY decrease opponent's speed and shake off rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1571,7 +1571,7 @@
       {
         "position": "PG",
         "featureName": "Lumi III: ",
-        "featureDescription": "Stay in interruption zone for 1s to FAIRLY increase Interception/Steal Rate for 5s.",
+        "featureDescription": "Stay in Interruption Zone for 1s to FAIRLY increase Interception/Steal Rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1747,7 +1747,7 @@
       {
         "position": "SF",
         "featureName": "Heels I: ",
-        "featureDescription": "In midrange area, enter interruption zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
+        "featureDescription": "In midrange area, enter Interruption Zone for 1s to MARGINALLY decrease opponent's speed and shake off rate for 5s.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1888,7 +1888,7 @@
         "featureName": "Super Strength: ",
         "featureDescription": "Tsuna increases Bump Range when boxing out. (Counters Elite Boxout Skill)",
         "skill": "Power Move",
-        "skillDescription": "When in post-up, there's chance to bump opponent to ground.",
+        "skillDescription": "When in Post Up, there's chance to bump opponent to ground.",
         "statsPositive": "+20 Contact +5 L/D",
         "statsNegative": "",
         "statsNeutral": "",
@@ -2260,7 +2260,7 @@
         "featureName": "Ironblood Defense: ",
         "featureDescription": "When successfully colliding with opponent while using Face Up, increase chance of causing knockdown and double dribble effects.",
         "skill": "Intimidate",
-        "skillDescription": "While using Face Up in opponent's interruption zone, increase chance of opponent's passes being \"Thrown Away\".",
+        "skillDescription": "While using Face Up in opponent's Interruption Zone, increase chance of opponent's passes being \"Thrown Away\".",
         "statsPositive": "+5 Rebound +5 Block +10 Contact +10 Run +25 Stamina +5 Pass",
         "statsNegative": "-15 M.Shot -15 3pt Shot -5 Inside Shot -5 L/D -10 Control",
         "statsNeutral": "",
@@ -2372,7 +2372,7 @@
     "characterPosition": [
       {
         "position": "Shooting_Guard",
-        "featureName": "Mamba Mentality: ",
+        "featureName": "Wobbly Ankles: ",
         "featureDescription": "After being knocked down, Increase Recovery Speed, offball dash speed, and Steal Success on for a short period of time on Defense.",
         "skill": "Pull-up Jump Shot",
         "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
@@ -2715,7 +2715,7 @@
       {
         "position": "Power_Forward",
         "featureName": "The Monster: ",
-        "featureDescription": "On Offense, after using Dash or Post up, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
+        "featureDescription": "On Offense, after using Dash or Post Up, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
         "skill": "Quick Step",
         "skillDescription": "Offense: After receiving a pass, Giannis can \"Catch and Dash\" or sprint in a direction (Can be knocked down) to gain space. Defense: Increase Dash Speed and Reduce Stamina Cost (Cannot be knocked down).",
         "statsPositive": "+10 Contact +8 Stamina +8 Run +3 L/D +3 Block +2 Rebound +2 Inside Shot",
@@ -2801,7 +2801,7 @@
         "featureName": "Perspective: ",
         "featureDescription": "While passing in post, increase chance of triggering a \"Wonderful Pass\" that is not easily intercepted. When passing further out, considerably reduce chance of bad catches. ",
         "skill": "Spin Drive",
-        "skillDescription": "During post up, Embiid can mix the defenders with a \"Fast\" post up layup, a \"Slow\" reverse spin layup, or Skyhook: Can be combined with Catch and Spin.",
+        "skillDescription": "During Post Up, Embiid can mix the defenders with a \"Fast\" Post Up Layup, a \"Slow\" reverse spin layup, or Skyhook: Can be combined with Catch and Spin.",
         "statsPositive": "+8 Inside Shot +8 Control +6 L/D +5 Pass +2 M.Shot",
         "statsNegative": "",
         "statsNeutral": "",
@@ -2856,7 +2856,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Witty: ",
-        "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the interruption zone size. Lasts until the end of the game. Stacks (2x).",
+        "featureDescription": "After a dash or drive, increase L/D range and 3pt FG% for a short period of time. Everytime an L/D is scored, reduce the Interruption Zone size. Lasts until the end of the game. Stacks (2x).",
         "skill": "3 Step Layup",
         "skillDescription": "Levi can EuroStep like famous NBA player Giannis Antetokounmpo.",
         "statsPositive": "+8 L/D +5 M.Shot +5 Stamina +4 3pt Shot",
@@ -2920,6 +2920,34 @@
         "statsNeutral": "",
         "passive": "+15% Reb.Cont.",
         "eliteSkills": "../assets/images/char_elite_skills/juri_c_elite_skills.png"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Mamba",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mamba.png",
+    "rating": "Rating 500",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "zT8R0OFPZHc",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Elke Shalice",
+    "fate2": "Antony Min-Jun",
+    "fate3": "Arthur Taylor",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Mamba Mentality: ",
+        "featureDescription": "After scoring, increase Dunk Rate, L/D FG%, and reduce Interruption Zone Size. Stacks (3x).",
+        "skill": "Post Up Fade",
+        "skillDescription": "Post Up during drive to increase Open 3pt FG%, slightly reduce 3pt Resist, and increase L/D Range 1s after use. Post Up can be connected to other dribble moves.",
+        "statsPositive": "+12 M.Shot, +12 Stamina, +10 3pt, +8 L/D, +6 Control, +1 Inside Shot, +1 Rebound, +1 Block,  +1 Contact, +1 Steal, +1 Control, +1 Run, +1 Pass ",
+        "statsNegative": "Dont Pass Though!!",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/mamba_sg_elite_skills.png"
       }
     ]
   }

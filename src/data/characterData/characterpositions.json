@@ -2,6 +2,16 @@
   {
    "position": "All-Stars",
    "players": [
+
+    {
+      "name": "Mamba",
+      "img": "../assets/images/portraits/Mamba_full.png",
+      "rating": "Rating 500",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
+
     {
       "name": "Juri",
       "img": "../assets/images/portraits/Juri_full.png",
@@ -1136,6 +1146,14 @@
      "position2": "PG",
      "position3": "SF"
     },
+    {
+      "name": "Mamba",
+      "img": "../assets/images/portraits/Mamba_full.png",
+      "rating": "Rating 500",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Maple",
      "img": "../assets/images/portraits/Maple_full.png",
