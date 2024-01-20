@@ -2940,7 +2940,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Mamba Mentality: ",
-        "featureDescription": "After scoring, increase Dunk Rate, L/D FG%, and reduce Interruption Zone Size. Stacks (3x).",
+        "featureDescription": "After scoring, increase Dunk Rate, L/D FG%, and reduce Interruption Zone Size. Stacks (3x). FG% will also increase throughout the game based on Mamba's MVP score.",
         "skill": "Post Up Fade",
         "skillDescription": "Post Up during drive to increase Open 3pt FG%, slightly reduce 3pt Resist, and increase L/D Range 1s after use. Post Up can be connected to other dribble moves.",
         "statsPositive": "+12 M.Shot, +12 Stamina, +10 3pt, +8 L/D, +6 Control, +1 Inside Shot, +1 Rebound, +1 Block,  +1 Contact, +1 Steal, +1 Control, +1 Run, +1 Pass ",
