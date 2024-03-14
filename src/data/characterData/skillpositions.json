@@ -379,6 +379,15 @@
   {
     "position": "Small Forward",
     "skill": [
+
+      {
+        "name": "Block Pass",
+        "img": "../assets/images/position_elite_skills/block_pass.png",
+        "video": "MaWPxawGuFI",
+        "isChinese": "",
+        "placeholder": null
+      },
+
       {
         "name": "Fade Away",
         "img": "../../../assets/images/position_elite_skills/fadeaway.png",
