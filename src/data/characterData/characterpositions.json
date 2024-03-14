@@ -3,6 +3,15 @@
    "position": "All-Stars",
    "players": [
 
+    
+    {
+      "name": "Gwen",
+      "img": "../assets/images/portraits/Gwen_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
     {
       "name": "Mamba",
       "img": "../assets/images/portraits/Mamba_full.png",
@@ -1303,6 +1312,14 @@
      "position2": "SG",
      "position3": null
     },
+    {
+      "name": "Gwen",
+      "img": "../assets/images/portraits/Gwen_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Jessica",
      "img": "../assets/images/portraits/Jessica_full.png",

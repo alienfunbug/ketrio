@@ -2950,5 +2950,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/mamba_sg_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Gwen",
+    "characterImage": "../assets/images/ranking_images/ranking_large_gwen.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Harmen Victor",
+    "fate2": "Min-Jun Sophia",
+    "fate3": "Taylor Hayes",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "HOF Clamps: ",
+        "featureDescription": "Increase Gwen's shot interference. While sprinting increase entire team's shot interference within 4m. After interfering with a shot, increase team's Rebound Contact.",
+        "skill": "Pick Dodger",
+        "skillDescription": "While sprinting with sufficient stamina, Gwen has 100% chance of activating screen dodge. While sprinting, you can bypass opponents who are not holding the ball without interrupting sprint or colliding.",
+        "statsPositive": "+10 Stamina, +10 Run, +3 3pt, +6 Block, +6 Contact",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed.",
+        "eliteSkills": "../assets/images/char_elite_skills/gwen_pg_elite_skills.png"
+      }
+    ]
   }
 ]
