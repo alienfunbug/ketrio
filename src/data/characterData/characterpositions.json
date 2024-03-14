@@ -15,7 +15,7 @@
     {
       "name": "Mamba",
       "img": "../assets/images/portraits/Mamba_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SG",
       "position2": null,
       "position3": null
@@ -24,7 +24,7 @@
     {
       "name": "Juri",
       "img": "../assets/images/portraits/Juri_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "C",
       "position2": null,
       "position3": null
@@ -32,7 +32,7 @@
     {
       "name": "Kaito Kid",
       "img": "../assets/images/portraits/Kaito_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SF",
       "position2": null,
       "position3": null
@@ -40,7 +40,7 @@
     {
       "name": "Levi",
       "img": "../assets/images/portraits/Levi_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SG",
       "position2": null,
       "position3": null
@@ -48,7 +48,7 @@
     {
       "name": "Ryu",
       "img": "../assets/images/portraits/Ryu_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "PF",
       "position2": null,
       "position3": null
@@ -56,7 +56,7 @@
     {
      "name": "Embiid",
      "img": "../assets/images/portraits/Embiid_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -64,7 +64,7 @@
     {
      "name": "Seraphine",
      "img": "../assets/images/portraits/Seraphine_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -72,7 +72,7 @@
     {
      "name": "Yor",
      "img": "../assets/images/portraits/Yor_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -80,7 +80,7 @@
     {
      "name": "Giannis",
      "img": "../assets/images/portraits/Giannis_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -88,7 +88,7 @@
     {
      "name": "Ancient",
      "img": "../assets/images/portraits/Ancient_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -96,7 +96,7 @@
     {
      "name": "Scorpion",
      "img": "../assets/images/portraits/Scorpion_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -104,7 +104,7 @@
     {
      "name": "Ezio",
      "img": "../assets/images/portraits/Ezio_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -112,7 +112,7 @@
     {
      "name": "Widow",
      "img": "../assets/images/portraits/BlackWidow_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -120,7 +120,7 @@
     {
      "name": "Rose",
      "img": "../assets/images/portraits/Rose_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -128,7 +128,7 @@
     {
      "name": "Curry",
      "img": "../assets/images/portraits/Curry_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -136,7 +136,7 @@
     {
      "name": "Baby",
      "img": "../assets/images/portraits/Baby_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -144,7 +144,7 @@
     {
      "name": "Yashiro",
      "img": "../assets/images/portraits/Yashiro_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -152,7 +152,7 @@
     {
      "name": "2B",
      "img": "../assets/images/portraits/2B_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -160,7 +160,7 @@
     {
      "name": "Luka",
      "img": "../assets/images/portraits/Luka_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -168,7 +168,7 @@
     {
      "name": "Rodman",
      "img": "../assets/images/portraits/Rodman_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -176,7 +176,7 @@
     {
      "name": "Booker",
      "img": "../assets/images/portraits/Booker_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -184,7 +184,7 @@
     {
      "name": "Sanji",
      "img": "../assets/images/portraits/Sanji_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -192,7 +192,7 @@
     {
      "name": "Selina",
      "img": "../assets/images/portraits/Selina_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -200,7 +200,7 @@
     {
      "name": "Kuroko",
      "img": "../assets/images/portraits/Kuroko_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -208,7 +208,7 @@
     {
      "name": "Tyrant",
      "img": "../assets/images/portraits/Tyrant_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -216,7 +216,7 @@
     {
      "name": "Answer",
      "img": "../assets/images/portraits/Iverson_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -224,7 +224,7 @@
     {
      "name": "Shaq",
      "img": "../assets/images/portraits/Shaq_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -232,7 +232,7 @@
     {
      "name": "Moon",
      "img": "../assets/images/portraits/Moon_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -240,7 +240,7 @@
     {
      "name": "Lebron",
      "img": "../assets/images/portraits/Lebron_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -248,7 +248,7 @@
     {
      "name": "Uncle Drew",
      "img": "../assets/images/portraits/UncleDrew_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -256,7 +256,7 @@
     {
      "name": "Mary",
      "img": "../assets/images/portraits/Mary_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -264,7 +264,7 @@
     {
      "name": "Livia",
      "img": "../assets/images/portraits/Livia_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -272,7 +272,7 @@
     {
      "name": "Mai",
      "img": "../assets/images/portraits/Mai_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -280,7 +280,7 @@
     {
      "name": "Mitsuki",
      "img": "../assets/images/portraits/Mitsuki_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -288,7 +288,7 @@
     {
      "name": "Claw",
      "img": "../assets/images/portraits/Claw_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -296,7 +296,7 @@
     {
      "name": "Mac",
      "img": "../assets/images/portraits/Mac_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -304,7 +304,7 @@
     {
      "name": "Gori",
      "img": "../assets/images/portraits/Gori_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -312,7 +312,7 @@
     {
      "name": "Beard",
      "img": "../assets/images/portraits/Beard_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -320,7 +320,7 @@
     {
      "name": "Ryo",
      "img": "../assets/images/portraits/Ryo_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -328,7 +328,7 @@
     {
      "name": "Tsuna",
      "img": "../assets/images/portraits/Tsuna_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -349,7 +349,7 @@
     {
      "name": "Embiid",
      "img": "../assets/images/portraits/Embiid_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -373,7 +373,7 @@
     {
      "name": "Gori",
      "img": "../assets/images/portraits/Gori_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -413,7 +413,7 @@
     {
       "name": "Juri",
       "img": "../assets/images/portraits/Juri_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "C",
       "position2": null,
       "position3": null
@@ -429,7 +429,7 @@
     {
      "name": "Livia",
      "img": "../assets/images/portraits/Livia_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -485,7 +485,7 @@
     {
      "name": "Scorpion",
      "img": "../assets/images/portraits/Scorpion_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -493,7 +493,7 @@
     {
      "name": "Selina",
      "img": "../assets/images/portraits/Selina_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -509,7 +509,7 @@
     {
      "name": "Shaq",
      "img": "../assets/images/portraits/Shaq_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -541,7 +541,7 @@
     {
      "name": "Yashiro",
      "img": "../assets/images/portraits/Yashiro_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "C",
      "position2": null,
      "position3": null
@@ -554,7 +554,7 @@
     {
      "name": "Claw",
      "img": "../assets/images/portraits/Claw_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -594,7 +594,7 @@
     {
      "name": "Giannis",
      "img": "../assets/images/portraits/Giannis_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -650,7 +650,7 @@
     {
      "name": "Lebron",
      "img": "../assets/images/portraits/Lebron_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -706,7 +706,7 @@
     {
      "name": "Rodman",
      "img": "../assets/images/portraits/Rodman_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -714,7 +714,7 @@
     {
      "name": "Rose",
      "img": "../assets/images/portraits/Rose_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -762,7 +762,7 @@
     {
      "name": "Tsuna",
      "img": "../assets/images/portraits/Tsuna_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -770,7 +770,7 @@
     {
      "name": "Tyrant",
      "img": "../assets/images/portraits/Tyrant_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PF",
      "position2": null,
      "position3": null
@@ -857,7 +857,7 @@
     {
       "name": "Kaito Kid",
       "img": "../assets/images/portraits/Kaito_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SF",
       "position2": null,
       "position3": null
@@ -897,7 +897,7 @@
     {
      "name": "Luka",
      "img": "../assets/images/portraits/Luka_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -913,7 +913,7 @@
     {
      "name": "Mac",
      "img": "../assets/images/portraits/Mac_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -921,7 +921,7 @@
     {
      "name": "Mai",
      "img": "../assets/images/portraits/Mai_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -945,7 +945,7 @@
     {
      "name": "Sanji",
      "img": "../assets/images/portraits/Sanji_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
      "position3": null
@@ -969,7 +969,7 @@
     {
      "name": "Uncle Drew",
      "img": "../assets/images/portraits/UncleDrew_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -985,7 +985,7 @@
     {
       "name": "Widow",
       "img": "../assets/images/portraits/BlackWidow_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SF",
       "position2": null,
       "position3": null
@@ -993,7 +993,7 @@
     {
       "name": "Yor",
       "img": "../assets/images/portraits/Yor_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SF",
       "position2": null,
       "position3": null
@@ -1006,7 +1006,7 @@
     {
      "name": "Ancient",
      "img": "../assets/images/portraits/Ancient_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1038,7 +1038,7 @@
     {
      "name": "Baby",
      "img": "../assets/images/portraits/Baby_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1046,7 +1046,7 @@
     {
      "name": "Beard",
      "img": "../assets/images/portraits/Beard_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1054,7 +1054,7 @@
     {
      "name": "Booker",
      "img": "../assets/images/portraits/Booker_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1134,7 +1134,7 @@
     {
       "name": "Levi",
       "img": "../assets/images/portraits/Levi_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SG",
       "position2": null,
       "position3": null
@@ -1158,7 +1158,7 @@
     {
       "name": "Mamba",
       "img": "../assets/images/portraits/Mamba_full.png",
-      "rating": "Rating 500",
+      "rating": "Rating 600",
       "position1": "SG",
       "position2": null,
       "position3": null
@@ -1174,7 +1174,7 @@
     {
      "name": "Mitsuki",
      "img": "../assets/images/portraits/Mitsuki_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1182,7 +1182,7 @@
     {
      "name": "Moon",
      "img": "../assets/images/portraits/Moon_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "SG",
      "position2": null,
      "position3": null
@@ -1235,7 +1235,7 @@
     {
      "name": "2B",
      "img": "../assets/images/portraits/2B_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1251,7 +1251,7 @@
     {
      "name": "Answer",
      "img": "../assets/images/portraits/Iverson_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1275,7 +1275,7 @@
     {
      "name": "Curry",
      "img": "../assets/images/portraits/Curry_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1291,7 +1291,7 @@
     {
      "name": "Ezio",
      "img": "../assets/images/portraits/Ezio_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1339,7 +1339,7 @@
     {
      "name": "Kuroko",
      "img": "../assets/images/portraits/Kuroko_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1371,7 +1371,7 @@
     {
      "name": "Mary",
      "img": "../assets/images/portraits/Mary_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1387,7 +1387,7 @@
     {
      "name": "Ryo",
      "img": "../assets/images/portraits/Ryo_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
@@ -1395,7 +1395,7 @@
     {
      "name": "Seraphine",
      "img": "../assets/images/portraits/Seraphine_full.png",
-     "rating": "Rating 500",
+     "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
      "position3": null
