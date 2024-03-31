@@ -1,16 +1,15 @@
 # `ContactFail - 热血街篮 Viewer`
 This project was created for some brief React and frontend/vanilla css practice; the premise is it allows American and Southeast Asian users to view Basketrio Content 3-6 months early, and in reasonably detail without having to login to the game.
-- Considering adding admin panel for easier community maintenance in the future.
+(Considering adding admin panel for easier community maintenance in the future.)
 
 
 ![contactfail gif demo ](contactfail.gif)
 
 <a href="https://contactfail.como">ContactFail.com/</a> or via pages at <a href="https://alienfunbug.github.io/ketrio">https://alienfunbug.github.io/ketrio/</a> shows a live view of the site.
 
-### `Process For Updating Main Page With New Character Information`
+### `Creation process for importing new characters`
 This resource was originally designed to be taken over by the community; to update the content please see the following steps:
 
-#### `Creation process for importing new characters`
 - Add the following character details info into 'src\data\characterData\characters.json':
 - name/fate/position/featureName/featureDescription/stats/passive/eliteSkill_file_name
 - highlights(youtube tag link)
