@@ -1,4 +1,4 @@
-# `ContactFail - 热血街篮 Character Viewer`
+# `ContactFail - 热血街篮 Viewer`
 This project was created for some brief React and frontend/vanilla css practice; the premise is it allows American and Southeast Asian users to view Basketrio Content 3-6 months early, and in reasonably detail without having to login to the game.
 - Considering adding admin panel for easier community maintenance in the future.
 
