@@ -2,7 +2,14 @@
   {
    "position": "All-Stars",
    "players": [
-
+    {
+      "name": "Blake",
+      "img": "../assets/images/portraits/Blake_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
     
     {
       "name": "Gwen",
@@ -551,6 +558,15 @@
   {
    "position": "Power Forwards",
    "players": [
+    {
+      "name": "Blake",
+      "img": "../assets/images/portraits/Blake_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
+    
     {
      "name": "Claw",
      "img": "../assets/images/portraits/Claw_full.png",

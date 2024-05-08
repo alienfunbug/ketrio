@@ -2979,5 +2979,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/gwen_pg_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Blake",
+    "characterImage": "../assets/images/ranking_images/ranking_large_blake.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "MZ Harley",
+    "fate2": "Sophia CyborgT",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Aerial Wizard: ",
+        "featureDescription": "On Offense, Decrease Stamina Consumption by 50% while sprinting without the ball. L/D FG% and passing distance are slightly increased for 3 seconds after receiving a pass.",
+        "skill": "Monster Alley",
+        "skillDescription": "Request Monster Alley-oop from long range. Blake can Monster Alley-oop Pass (consumes Stamina). Monster Alley can be combined with Layup/Shot Pass and Unyielding Will.",
+        "statsPositive": "+12 L/D +12 Contact +3 Stamina +3 Run +2 M.Shot",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/blake_pf_elite_skills.png"
+      }
+    ]
   }
 ]
