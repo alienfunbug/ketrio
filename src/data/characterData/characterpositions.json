@@ -118,7 +118,7 @@
     },
     {
      "name": "Widow",
-     "img": "../assets/images/portraits/blackwidow_full.png",
+     "img": "../assets/images/portraits/widow_full.png",
      "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
@@ -221,7 +221,7 @@
      "position3": null
     },
     {
-     "name": "Answer",
+     "name": "Iverson",
      "img": "../assets/images/portraits/iverson_full.png",
      "rating": "Rating 600",
      "position1": "PG",
@@ -253,8 +253,8 @@
      "position3": null
     },
     {
-     "name": "Uncle Drew",
-     "img": "../assets/images/portraits/uncledrew_full.png",
+     "name": "Kyrie",
+     "img": "../assets/images/portraits/kyrie_full.png",
      "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
@@ -301,8 +301,8 @@
      "position3": null
     },
     {
-     "name": "Mac",
-     "img": "../assets/images/portraits/mac_full.png",
+     "name": "TMac",
+     "img": "../assets/images/portraits/tmac_full.png",
      "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
@@ -927,8 +927,8 @@
      "position3": "PG"
     },
     {
-     "name": "Mac",
-     "img": "../assets/images/portraits/mac_full.png",
+     "name": "TMac",
+     "img": "../assets/images/portraits/tmac_full.png",
      "rating": "Rating 600",
      "position1": "SF",
      "position2": null,
@@ -983,8 +983,8 @@
      "position3": "PF"
     },
     {
-     "name": "Uncle Drew",
-     "img": "../assets/images/portraits/uncledrew_full.png",
+     "name": "Kyrie",
+     "img": "../assets/images/portraits/kyrie_full.png",
      "rating": "Rating 600",
      "position1": "PG",
      "position2": null,
@@ -1000,7 +1000,7 @@
     },
     {
       "name": "Widow",
-      "img": "../assets/images/portraits/blackwidow_full.png",
+      "img": "../assets/images/portraits/widow_full.png",
       "rating": "Rating 600",
       "position1": "SF",
       "position2": null,
@@ -1265,7 +1265,7 @@
      "position3": "SF"
     },
     {
-     "name": "Answer",
+     "name": "Iverson",
      "img": "../assets/images/portraits/iverson_full.png",
      "rating": "Rating 600",
      "position1": "PG",

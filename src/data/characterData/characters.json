@@ -2071,8 +2071,8 @@
   },
 
   {
-    "selectedCharacter": "Mac",
-    "characterImage": "../assets/images/ranking_images/ranking_large_mac.png",
+    "selectedCharacter": "TMac",
+    "characterImage": "../assets/images/ranking_images/ranking_large_tmac.png",
     "rating": "Rating 600",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2094,7 +2094,7 @@
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/mac_sf_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/tmac_sf_elite_skills.png"
       }
     ]
   },
@@ -2127,8 +2127,8 @@
     ]
   },
   {
-    "selectedCharacter": "Uncle Drew",
-    "characterImage": "../assets/images/ranking_images/ranking_large_uncledrew.png",
+    "selectedCharacter": "Kyrie",
+    "characterImage": "../assets/images/ranking_images/ranking_large_kyrie.png",
     "rating": "Rating 600",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2150,7 +2150,7 @@
         "statsNegative": "",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/uncledrew_sf_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/kyrie_sf_elite_skills.png"
       }
     ]
   },
@@ -2586,7 +2586,7 @@
   },
   {
     "selectedCharacter": "Widow",
-    "characterImage": "../assets/images/ranking_images/ranking_large_blackwidow.png",
+    "characterImage": "../assets/images/ranking_images/ranking_large_widow.png",
     "rating": "Rating 600",
     "cost": "From Recruitment",
     "TBD": "TBD",
@@ -2608,7 +2608,7 @@
         "statsNegative": "-5 L/D -5 Steal -5 Inside Shot",
         "statsNeutral": "",
         "passive": "+15% M.Shot Res.",
-        "eliteSkills": "../assets/images/char_elite_skills/blackwidow_sf_elite_skills.png"
+        "eliteSkills": "../assets/images/char_elite_skills/widow_sf_elite_skills.png"
       }
     ]
   },
