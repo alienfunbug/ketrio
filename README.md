@@ -18,7 +18,7 @@ This resource was originally designed to be taken over by the community; to upda
     
 - Add character info to 'src\data\characterData\characterpositions.json'
 - Add character ranking image to 'public\assets\images\ranking_images' in format: ranking_large_name.png (aim for 4:5 aspect ratio or 800x900 / 710x800 pixels)
-- Add character recruitment image to folder 'public\assets\images\portraits' in format: Name_full.png -- (aim for 4:5 aspect ratio or 800x900 / 710x800 pixels)
+- Add character recruitment image to folder 'public\assets\images\portraits' in format: name_full.png -- (aim for 4:5 aspect ratio or 800x900 / 710x800 pixels)
 - Add character eliteSkill image to  folder 'public\assets\images\char_elite_skills' in format: name_position_elite_skills.png(ratio and size doesnt matter much)
 
 ![JSON char example2](json_demo2.png)
