@@ -1915,7 +1915,7 @@
       {
         "position": "Power_Forward",
         "featureName": "Wild Roar!: ",
-        "featureDescription": "Increase Rebound Height and Range by 10%.",
+        "featureDescription": "Each successful block, increase stack of \"Wild roar!\" up to 3 Stacks. For each stack, increase rebound range by 5%. Effect lasts until a successful rebound. ",
         "skill": "Stuffed",
         "skillDescription": "Increase Blocking Range but decreases Block and Catch Activation Rate.",
         "statsPositive": "+15 Rebound +15 Block",
