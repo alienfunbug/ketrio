@@ -738,7 +738,7 @@
       {
         "position": "SF",
         "featureName": "Cloud III: ",
-        "featureDescription": "After successful mid shot, FAIRLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
+        "featureDescription": "After successful Mid Shot, FAIRLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -955,7 +955,7 @@
       {
         "position": "SF",
         "featureName": "Gray Hair II: ",
-        "featureDescription": "After successful mid shot, MARGINALLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
+        "featureDescription": "After successful Mid Shot, MARGINALLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1077,7 +1077,7 @@
       {
         "position": "SG",
         "featureName": "Goggles I: ",
-        "featureDescription": "MARGINALLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "MARGINALLY increases 3pt FG% after missing an open 3pt Shot. Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1171,7 +1171,7 @@
       {
         "position": "SG",
         "featureName": "Iga II - ERROR: ",
-        "featureDescription": "MARGINALLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "featureDescription": "MARGINALLY increases 3pt FG % after scoring Mid Shot. Stacks (2x). Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1224,7 +1224,7 @@
       {
         "position": "SG",
         "featureName": "Cutie III: ",
-        "featureDescription": "SLIGHTLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "SLIGHTLY increases 3pt FG% after missing an open 3pt Shot. Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1253,7 +1253,7 @@
       {
         "position": "SF",
         "featureName": "Fire Ant I: ",
-        "featureDescription": "Scoring midrange shot SLIGHTLY icnreases Block Res and Mid Shot Interruption Res. Stacks (2x). Clears after gaining 2 point lead.",
+        "featureDescription": "Scoring Mid shot SLIGHTLY icnreases Block Res and Mid Shot Interruption Res. Stacks (2x). Clears after gaining 2 point lead.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1277,7 +1277,7 @@
       {
         "position": "SG",
         "featureName": "Fire Ant III: ",
-        "featureDescription": "Scoring 3pt shot SLIGHTLY increase 3pt FG%. Stacks (2x). Clears after missing a 3pt shot.",
+        "featureDescription": "Scoring 3pt Shot SLIGHTLY increase 3pt FG%. Stacks (2x). Clears after missing a 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1371,7 +1371,7 @@
       {
         "position": "SG",
         "featureName": "Morale I - ERROR: ",
-        "featureDescription": "MARGINALLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "featureDescription": "MARGINALLY increases 3pt FG % after scoring Mid Shot. Stacks (2x). Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1453,7 +1453,7 @@
       {
         "position": "SG",
         "featureName": "Exotic II: ",
-        "featureDescription": "FAIRLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "featureDescription": "FAIRLY increases 3pt FG % after scoring Mid Shot. Stacks (2x). Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1465,7 +1465,7 @@
       {
         "position": "SF",
         "featureName": "Exotic I: ",
-        "featureDescription": "FAIRLY increase Block Resist/Mid Shot FG% after scoring midrange shot. Stacks (2x). Clears after 2 point lead.",
+        "featureDescription": "FAIRLY increase Block Resist/Mid Shot FG% after scoring Mid Shot. Stacks (2x). Clears after 2 point lead.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1547,7 +1547,7 @@
       {
         "position": "SG",
         "featureName": "Lumi II: ",
-        "featureDescription": "FAIRLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "featureDescription": "FAIRLY increases 3pt FG % after scoring Mid Shot. Stacks (2x). Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1600,7 +1600,7 @@
       {
         "position": "SG",
         "featureName": "Charm II: ",
-        "featureDescription": "FAIRLY increases 3pt FG% after missing an open 3pt shot. Clears after successfully making 3pt shot.",
+        "featureDescription": "FAIRLY increases 3pt FG% after missing an open 3pt Shot. Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -1759,7 +1759,7 @@
       {
         "position": "SG",
         "featureName": "Heels II: ",
-        "featureDescription": "SLIGHTLY increases 3pt FG % after scoring midrange shot. Stacks (2x). Clears after successfully making 3pt shot.",
+        "featureDescription": "SLIGHTLY increases 3pt FG % after scoring Mid Shot. Stacks (2x). Clears after successfully making 3pt Shot.",
         "skill": "None",
         "skillDescription": "None",
         "statsPositive": "",
@@ -2172,7 +2172,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Distance: ",
-        "featureDescription": "(CONSIDERABLY?) Increase 3pt range.",
+        "featureDescription": "(CONSIDERABLY?) Increase 3pt Range.",
         "skill": "Cresent Step",
         "skillDescription": "Increase backroll turn distance and fadeaway release speed after backroll turn.",
         "statsPositive": "+10 3pt Shot +5 Run",
@@ -2519,7 +2519,7 @@
         "featureName": "Insight: ",
         "featureDescription": "While winning, increase Shot Interference Rate. While losing, increase Open Shot Success Rate.",
         "skill": "Focus Drift Shot",
-        "skillDescription": "Baby can use Focus 3pt Shot from 3pt range, or can abruptly drift to the side if the defense is contesting.",
+        "skillDescription": "Baby can use Focus 3pt Shot from 3pt Range, or can abruptly drift to the side if the defense is contesting.",
         "statsPositive": "+16 3pt Shot +6 Run +6 Stamina",
         "statsNegative": "-8 Inside Shot -5 L/D",
         "statsNeutral": "",
@@ -2545,7 +2545,7 @@
       {
         "position": "Point_Guard",
         "featureName": "3pt Gravity: ",
-        "featureDescription": "Increase 3pt Range. Increase movement speed near 3pt line (away from the basket). Increase 3pt FG% when open.",
+        "featureDescription": "Increase 3pt Range. Increase movement speed near 3pt Line (away from the basket). Increase 3pt FG% when open.",
         "skill": "Chef's Shot",
         "skillDescription": "Activating Chef's \"QuickShot\" increases signature shot Speed and increases 3pt FG% when open. Double tap to Activate Chef's \"SlowShot\" and increases 3pt Resistance.",
         "statsPositive": "+10 3pt Shot +10 Run +5 M.Shot +5 Stamina +5 Control +3 Pass",
@@ -3006,6 +3006,34 @@
         "statsNeutral": "",
         "passive": "+15% Block Rate",
         "eliteSkills": "../assets/images/char_elite_skills/blake_pf_elite_skills.png"
+      }
+    ]
+  },
+  {
+    "selectedCharacter": "Quinn",
+    "characterImage": "../assets/images/ranking_images/ranking_large_quinn.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Tsukino Antony",
+    "fate2": "CyborgT Diana",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Juggler: ",
+        "featureDescription": "Harley Quinn can Shot Pass.",
+        "skill": "Monster Alley",
+        "skillDescription": "Harley plays Mind Games with her opponents using Dream Shake. Dream Shake can Fade or Layup/Dunk depending on Position and Range. Must equip Dash Dribble.",
+        "statsPositive": "+6 M.Shot +6 3pt Shot +6 L/D +6 Stamina +6 Pass",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/quinn_sf_elite_skills.png"
       }
     ]
   }

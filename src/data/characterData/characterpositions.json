@@ -3,6 +3,15 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Quinn",
+      "img": "../assets/images/portraits/quinn_full.png",
+      "rating": "Rating 600",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+
+    {
       "name": "Blake",
       "img": "../assets/images/portraits/blake_full.png",
       "rating": "Rating 600",
