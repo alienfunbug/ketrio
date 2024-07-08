@@ -896,6 +896,14 @@
      "position3": null
     },
     {
+      "name": "Kyrie",
+      "img": "../assets/images/portraits/kyrie_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
+    {
      "name": "Lana",
      "img": "../assets/images/portraits/lana_full.png",
      "rating": "Rating 500",
@@ -935,14 +943,7 @@
      "position2": "SG",
      "position3": "PG"
     },
-    {
-     "name": "TMac",
-     "img": "../assets/images/portraits/tmac_full.png",
-     "rating": "Rating 600",
-     "position1": "SF",
-     "position2": null,
-     "position3": null
-    },
+
     {
      "name": "Mai",
      "img": "../assets/images/portraits/mai_full.png",
@@ -968,6 +969,14 @@
      "position3": "PF"
     },
     {
+      "name": "Quinn",
+      "img": "../assets/images/portraits/quinn_full.png",
+      "rating": "Rating 600",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+    {
      "name": "Sanji",
      "img": "../assets/images/portraits/sanji_full.png",
      "rating": "Rating 600",
@@ -984,6 +993,14 @@
      "position3": "PG"
     },
     {
+      "name": "TMac",
+      "img": "../assets/images/portraits/tmac_full.png",
+      "rating": "Rating 600",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+    {
      "name": "Tsukino",
      "img": "../assets/images/portraits/tsukino_full.png",
      "rating": "Rating 500",
@@ -991,14 +1008,7 @@
      "position2": "C",
      "position3": "PF"
     },
-    {
-     "name": "Kyrie",
-     "img": "../assets/images/portraits/kyrie_full.png",
-     "rating": "Rating 600",
-     "position1": "PG",
-     "position2": null,
-     "position3": null
-    },
+
     {
      "name": "Victor",
      "img": "../assets/images/portraits/victor_full.png",

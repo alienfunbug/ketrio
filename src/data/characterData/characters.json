@@ -2172,7 +2172,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Distance: ",
-        "featureDescription": "(CONSIDERABLY?) Increase 3pt Range.",
+        "featureDescription": "Increase 3pt Range.",
         "skill": "Cresent Step",
         "skillDescription": "Increase backroll turn distance and fadeaway release speed after backroll turn.",
         "statsPositive": "+10 3pt Shot +5 Run",
