@@ -3028,7 +3028,7 @@
         "featureName": "Juggler: ",
         "featureDescription": "Harley Quinn can pass out of most shots and Pull Up Jumpers[Nerfed/Removed PUJ pass].",
         "skill": "Monster Alley",
-        "skillDescription": "Harley plays Mind Games with her opponents using Dream Shake. Dream Shake can Fade or Layup depending on Position and Range [Buffed:reduce interrupt size/block timing].",
+        "skillDescription": "Harley plays Mind Games with her opponents using Dream Shake. Dream Shake can Fade or Layup depending on Position and Range[Buffed/reduced interrupt size and block timing. Increased passing speed. Increased Dream Shake Layup range and can now pass out of Dream Shake Fade].",
         "statsPositive": "+6 M.Shot +6 3pt Shot +6 L/D +6 Stamina +6 Pass",
         "statsNegative": "",
         "statsNeutral": "",
