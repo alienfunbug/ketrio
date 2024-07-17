@@ -28,20 +28,21 @@
       "position2": null,
       "position3": null
      },
-    {
-      "name": "Mamba",
-      "img": "../assets/images/portraits/mamba_full.png",
-      "rating": "Rating 600",
-      "position1": "SG",
-      "position2": null,
-      "position3": null
-     },
+
 
     {
       "name": "Juri",
       "img": "../assets/images/portraits/juri_full.png",
       "rating": "Rating 600",
       "position1": "C",
+      "position2": null,
+      "position3": null
+     },
+     {
+      "name": "Levi",
+      "img": "../assets/images/portraits/levi_full.png",
+      "rating": "Rating 600",
+      "position1": "SG",
       "position2": null,
       "position3": null
      },
@@ -53,9 +54,11 @@
       "position2": null,
       "position3": null
      },
-    {
-      "name": "Levi",
-      "img": "../assets/images/portraits/levi_full.png",
+
+
+     {
+      "name": "Mamba",
+      "img": "../assets/images/portraits/mamba_full.png",
       "rating": "Rating 600",
       "position1": "SG",
       "position2": null,
