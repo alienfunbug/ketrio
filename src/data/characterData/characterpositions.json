@@ -3,6 +3,15 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Android 18",
+      "img": "../assets/images/portraits/18_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
+
+    {
       "name": "Quinn",
       "img": "../assets/images/portraits/quinn_full.png",
       "rating": "Rating 600",
@@ -1270,6 +1279,14 @@
   {
    "position": "Point Guards",
    "players": [
+    {
+      "name": "Android 18",
+      "img": "../assets/images/portraits/18_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "2B",
      "img": "../assets/images/portraits/2b_full.png",

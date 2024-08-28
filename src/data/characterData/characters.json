@@ -3036,5 +3036,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/quinn_sf_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Android 18",
+    "characterImage": "../assets/images/ranking_images/ranking_large_18.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lora Min-Jun",
+    "fate2": "Diana Johnson",
+    "fate3": "Jessica Kai",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Warfare: ",
+        "featureDescription": "Android 18 has Elite Playmaking Abilities. After using a pass skill (kill pass, baseball, or touch pass) the receiver's Normal Shot Speed will be increased for a period of time.",
+        "skill": "Kill Pass",
+        "skillDescription": "While Android 18 is on the court, her teammate's gain +1m passing range and +10% passing speed. When Android 18's team switches from Defense to Offense, the entire team's movement speed will increase for 3 seconds. For each block, loose ball, steal, or assist made by 18, the entire team receives 1 stack: Pass Speed +1% | Pass Distance +0.1m | Block Rate +2% | Interrupt +1% | Open Mid FG +2% | Open 3pt FG +1.2%. Stacks (5x).",
+        "statsPositive": "+10 Pass +10 Run +8 Stamina +3 3pt Shot +2 M.Shot +2 Steal +2 Block ",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed.",
+        "eliteSkills": "../assets/images/char_elite_skills/18_pg_elite_skills.png"
+      }
+    ]
   }
 ]
