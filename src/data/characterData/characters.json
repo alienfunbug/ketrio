@@ -81,6 +81,48 @@
     ]
   },
 
+  
+  {
+    "selectedCharacter": "Wukong",
+    "characterImage": "../assets/images/ranking_images/ranking_large_wukong.png",
+    "rating": "Rating 400",
+    "cost": "Wukong Voucher",
+    "TBD": "TBD",
+    "positionCount": 2,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "CyborgT Diana",
+    "fate2": "CyborgT Taylor",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "PF",
+        "featureName": "Monkey II: ",
+        "featureDescription": "After receiving a pass in midrange SLIGHTLY increases Dunk Rate, L/D range, and Contact for 5s.",
+        "skill": "None",
+        "skillDescription": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/wukong_pf_elite_skills.png"
+      },
+      {
+        "position": "SF",
+        "featureName": "Monkey I: ",
+        "featureDescription": "After successful Mid Shot, SLIGHTLY increase Mid Shot FG%. Stacks (3x). Clears upon missing a shot or gaining 2 point lead.",
+        "skill": "None",
+        "skillDescription": "None",
+        "statsPositive": "",
+        "statsNegative": "",
+        "statsNeutral": "None",
+        "passive": "+13.5% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/wukong_sf_elite_skills.png"
+      }
+    ]
+  },
+
   {
     "selectedCharacter": "Rick",
     "characterImage": "../assets/images/ranking_images/ranking_large_rick.png",
@@ -2089,7 +2131,7 @@
         "featureName": "Tracy: ",
         "featureDescription": "While losing in last 35s, CONSIDERABLY increase 3pt FG%.",
         "skill": "Power 3pt",
-        "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed. Shooting from \"Hot Spots\" (last two shot locations) increase FG%.",
+        "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed. Shooting from \"Hot Spots\" (last three shot locations) increase FG%.",
         "statsPositive": "+25 3pt Shot +7 Pass",
         "statsNegative": "-10 Contact",
         "statsNeutral": "",
