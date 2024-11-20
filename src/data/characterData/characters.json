@@ -3106,5 +3106,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/18_pg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Jokic",
+    "characterImage": "../assets/images/ranking_images/ranking_large_jokic.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Frank Sakura",
+    "fate2": "Diana Yuhyun",
+    "fate3": "Arthur Max",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "MVP: ",
+        "featureDescription": "Jokic has increased Rebound Contact, Screen Range, and Pass Distance. Additionally, after each assist or score, Joker receives 1 Stack of Open 3pt FG%. After reaching 5 Stacks GREATLY increase chance of making 3pt Shot. Whether 3pt Shot is successful or not, all Stacks will be cleared. Stacks (5x).  ",
+        "skill": "Bully Ball",
+        "skillDescription": "Jokic can also Pass Dash and QUICK SCREEN. Jokic can also intentionally bump players while posted up with a chance to knock them down. Bully Ball can connected with other Post Up Moves including Turn Around Fade Away, reducing Interruption Zone. ",
+        "statsPositive": "+10 Block, +8 Contact, +5 Rebound, +3 Run, +3 Stamina, +3 M.Shot",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/jokic_c_elite_skills.png"
+      }
+    ]
   }
 ]
