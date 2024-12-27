@@ -2869,7 +2869,7 @@
       {
         "position": "Power_Forward",
         "featureName": "Tower: ",
-        "featureDescription": "After a shot, increase Boxout Size and Contact; if in Superior Boxout Position, increase Boxout Contact and Rebound Contact.",
+        "featureDescription": "After a shot, increase Boxout Size and Boxout Contact; if in Superior Boxout Position, increase Boxout Contact and Rebound Contact.",
         "skill": "Swarm",
         "skillDescription": "When in Inferior Boxout Position, Ryu can Swarm with high chance of landing in Superior Boxout Position.",
         "statsPositive": "+20 Contact +5 Rebound +3 Run",

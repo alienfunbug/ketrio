@@ -1,0 +1,22 @@
+[
+  {
+    "position": "Center",
+    "skill": ["Post-Up Hook", "Post-Up Hook NEW", "Hook", "Box Out", "Dunk Focus", "Catch & Spin Drive", "SP Rebound", "Power Block", "SP Under-Hoop Pass", "Chip Out", "Shake Resist", "Screen Dash", "Power Rebound", "Direct Pass", "Screen Dodge", "Rebound Pass", "SP Box Out", "Flank Screen", "Chase Down Block", "Putback", "Dream Shake", "Chase Block & Catch", "Post Fadeaway"]
+  },
+  {
+    "position": "Power Forward", 
+    "skill": ["Post-Up Hook", "Post-Up Hook NEW", "SP Dunk", "Box Out", "Power Block", "Dunk Focus", "Turn Around Fade Away", "Turn Around Fade Away NEW", "SP Rebound", "Screen Dash", "Post-Up Crossover", "Post-Up Crossover NEW", "Shake Resist", "Chip Out", "Block Pass", "SP Box Out", "Post-Up Jumper", "Flank Screen", "Direct Pass", "Catch & Spin Drive", "Power Rebound", "Block & Catch", "Putback", "Unyielding Will", "Chip & Pass", "Double Clutch Dunk"]
+  },
+  {
+    "position": "Small Forward",
+    "skill": ["Block Pass", "Fade Away", "Fade Away NEW", "SP Layup", "Dash Dribble", "Double Clutch", "Shake Resist", "Quick Jumper", "Quick Jumper NEW", "Dunk Focus", "Quick Stepback", "Power Block", "Direct Pass", "Back Dribble", "Jumper Drive", "Screen Dodge", "Pull-Up Jumper", "Stepback Dribble", "SP Drive", "Side Step", "Catch & Dash", "Crossover Spin", "Drive Pass", "Floater"]
+  },
+  {
+    "position": "Point Guard",
+    "skill": ["Fade Away", "Fade Away NEW", "Stepback", "Shake Resist", "Strong Diving Catch", "Dash Dribble", "Sp Layup", "Dunk Focus", "Quick Pass", "Double Clutch", "Direct Pass", "Baseball Pass", "Screen Dodge", "SP Intercept", "SP Steal", "Power Block", "Back Dribble", "Jumper Pass", "Alley Oop", "Pass Dash", "Buzzer Beater", "Focus 3PT", "Drive Layup"]
+  },
+  {
+    "position": "Shooting Guard",
+    "skill": ["Fade Away", "Fade Away NEW", "Spin Move Stepback", "Dash Dribble", "Shake Resist", "Diving Catch", "SP Layup", "Dunk Focus", "Double Clutch", "Quick Pass", "SP 3PT Shot", "Quick Jumper", "Quick Jumper NEW", "Back Dribble", "SP Intercept", "Direct Pass", "Jumper Drive", "Screen Dodge", "Offball Fast Drive", "Catch & Dash", "Stepback Dribble", "Pass Dash", "Drift Shot", "Drive Pass", "Drive Layup"]
+  }
+]

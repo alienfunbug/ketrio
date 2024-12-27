@@ -595,14 +595,7 @@
   {
    "position": "Power Forwards",
    "players": [
-    {
-      "name": "Wukong",
-      "img": "../assets/images/portraits/wukong_full.png",
-      "rating": "Rating 400",
-      "position1": "PF",
-      "position2": "SF",
-      "position3": null
-    },
+
     {
       "name": "Blake",
       "img": "../assets/images/portraits/blake_full.png",
@@ -843,12 +836,7 @@
      "position1": "PF",
      "position2": "C",
      "position3": null
-    }
-  ]
- },
-  {
-   "position": "Small Forwards",
-   "players": [
+    },
     {
       "name": "Wukong",
       "img": "../assets/images/portraits/wukong_full.png",
@@ -856,7 +844,13 @@
       "position1": "PF",
       "position2": "SF",
       "position3": null
-    },
+    }
+  ]
+ },
+  {
+   "position": "Small Forwards",
+   "players": [
+
     {
      "name": "Antony",
      "img": "../assets/images/portraits/antony_full.png",
@@ -1069,7 +1063,14 @@
       "position2": null,
       "position3": null
      },
-
+     {
+      "name": "Wukong",
+      "img": "../assets/images/portraits/wukong_full.png",
+      "rating": "Rating 400",
+      "position1": "PF",
+      "position2": "SF",
+      "position3": null
+    },
     {
       "name": "Yor",
       "img": "../assets/images/portraits/yor_full.png",
