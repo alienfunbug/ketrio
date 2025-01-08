@@ -2129,7 +2129,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Tracy: ",
-        "featureDescription": "In last 35s, MASSIVELY (only character with this adjective) increase 3pt FG%. Slightly increase movement speed. ",
+        "featureDescription": "In last 35s, MASSIVELY (only character with this modifier) increase 3pt FG%. Slightly increase movement speed. ",
         "skill": "Power 3pt",
         "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed. Shooting from \"Hot Spots\" (last three shot locations) increase FG% and shooting speed.",
         "statsPositive": "+25 3pt Shot +7 Pass",
