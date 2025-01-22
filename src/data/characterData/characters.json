@@ -2757,7 +2757,7 @@
       {
         "position": "Power_Forward",
         "featureName": "The Monster: ",
-        "featureDescription": "On Offense, after using Dash or Post Up, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
+        "featureDescription": "On Offense, after using Sprint or Catch and Dash, Increase Dunk Range. On Defense, after using Dash or \"Quick Step\", Increase Block Range.",
         "skill": "Quick Step",
         "skillDescription": "Offense: After receiving a pass, Giannis can \"Catch and Dash\" or sprint in a direction (Can be knocked down) to gain space. Defense: Increase Dash Speed and Reduce Stamina Cost (Cannot be knocked down).",
         "statsPositive": "+10 Contact +8 Stamina +8 Run +3 L/D +3 Block +2 Rebound +2 Inside Shot",
