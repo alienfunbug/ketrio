@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Tifa",
+      "img": "../assets/images/portraits/tifa_full.png",
+      "rating": "Rating 600",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Jokic",
       "img": "../assets/images/portraits/jokic_full.png",
       "rating": "Rating 600",
@@ -1292,6 +1300,14 @@
      "position2": "PG",
      "position3": null
     },
+    {
+      "name": "Tifa Lockhart",
+      "img": "../assets/images/portraits/tifa_full.png",
+      "rating": "Rating 600",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Victor",
      "img": "../assets/images/portraits/victor_full.png",

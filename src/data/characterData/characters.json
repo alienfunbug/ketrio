@@ -3134,5 +3134,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/jokic_c_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Tifa",
+    "characterImage": "../assets/images/ranking_images/ranking_large_tifa.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lumi Hong",
+    "fate2": "Johnson Shalice",
+    "fate3": "Max Lorsha",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Heat Check: ",
+        "featureDescription": "For 3 seconds after a pass, Increase Open 3pt FG%, Open Mid Shot FG%, and L/D FG%. This buff can be transferred to a teammate within 3 seconds to reset the timer.",
+        "skill": "Change of Pace",
+        "skillDescription": "When Tifa Offball Dashes, the second Offball Dash does not consume stamina. Tifa's collision radius is reduced while Offball Dashing, Pass Dashing, and Catch and Dashing. Tifa has Increased Open 3pt FG% and slightly reduced 3pt Resist (ignore this). Tifa's also has a Unique Signature Quick Jumper.",
+        "statsPositive": "+15 3pt Shot, +10 M.Shot, +5 Stamina, +5 Pass, +2 Run",
+        "statsNegative": "-7 Steal",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/tifa_sg_elite_skills.png"
+      }
+    ]
   }
 ]
