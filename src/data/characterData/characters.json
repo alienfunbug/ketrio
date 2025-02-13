@@ -3150,7 +3150,7 @@
     "avatar": "Avatar image",
     "characterPosition": [
       {
-        "position": "Power_Forward",
+        "position": "Shooting_Guard",
         "featureName": "Heat Check: ",
         "featureDescription": "For 3 seconds after a pass, Increase Open 3pt FG%, Open Mid Shot FG%, and L/D FG%. This buff can be transferred to a teammate within 3 seconds to reset the timer.",
         "skill": "Change of Pace",
