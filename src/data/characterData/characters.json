@@ -3124,9 +3124,9 @@
       {
         "position": "Center",
         "featureName": "MVP: ",
-        "featureDescription": "Jokic has increased Rebound Contact, Screen Range, and Pass Distance. Additionally, after each assist or score, Jokic receives 1 Stack of Open 3pt FG%. After reaching 5 Stacks GREATLY increase chance of making 3pt Shot. Whether 3pt Shot is successful or not, all Stacks will be cleared. Stacks (5x).  ",
+        "featureDescription": "After each assist or score, Jokic receives 1 Stack of Open 3pt FG%. After reaching 5 Stacks GREATLY increase chance of making 3pt Shot. Whether 3pt Shot is successful or not, all Stacks will be cleared. Stacks (5x). ",
         "skill": "Bully Ball",
-        "skillDescription": "Jokic can Pass Dash and \"Quick Screen!\". Jokic can also play Bully Ball while posted up with a chance to knock defenders down. Bully Ball can be connected with other Post Up Moves including Turn Around Fade Away and \"Floater\", reducing Interruption Zone.",
+        "skillDescription": "Jokic has increased Rebound Contact, Screen Range, and Pass Distance. Jokic can Pass Dash and \"Quick Screen!\". \"Quick Screen!\" reduces the screen activation time, giving defenders less time to react and avoid screens. Jokic can also play Bully Ball, dashing while posted up, to knock down defenders. Bully Ball can be connected with other Post Up Moves including Turn Around Fade Away and \"Floater\", reducing Interruption Zone.",
         "statsPositive": "+25 Contact, +10 Pass, +8 L/D, +5 Rebound, +2 3pt Shot, +2 M.Shot, +2 Inside Shot",
         "statsNegative": "-8 Control, -8 Steal, -3 Stamina, -2 Block",
         "statsNeutral": "",
