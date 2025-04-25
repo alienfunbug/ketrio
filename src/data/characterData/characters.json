@@ -2129,7 +2129,7 @@
       {
         "position": "Small_Forward",
         "featureName": "Tracy: ",
-        "featureDescription": "In last 35s, MASSIVELY (only character with this modifier) increase 3pt FG%. Slightly increase movement speed. ",
+        "featureDescription": "In last 35s, MASSIVELY (only character with this modifier) increase 3pt FG%. Slightly increase movement speed. In Overtime, Slightly increase 3pt FG%.",
         "skill": "Power 3pt",
         "skillDescription": "Increases 3pt FG%, but decreases Shooting Speed. Shooting from \"Hot Spots\" (last three shot locations) increase FG% and shooting speed.",
         "statsPositive": "+25 3pt Shot +7 Pass",
@@ -2415,7 +2415,7 @@
       {
         "position": "Shooting_Guard",
         "featureName": "Wobbly Ankles: ",
-        "featureDescription": "After being knocked down, Increase Recovery Speed, offball dash speed, and Steal Success on for a short period of time on Defense.",
+        "featureDescription": "After being knocked down, Increase Recovery Speed. After each score or assist,increase Open Mid Shot FG% and Open 3pt FG%. Stacks (3x).",
         "skill": "Pull-up Jump Shot",
         "skillDescription": "Mix-up Opponent's Defense with the option to Shoot or Pass out of Pull-Up Jumper Shot. ",
         "statsPositive": "+12 M.Shot +13 3pt Shot +5 Stamina +5 Pass",
