@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Luong",
+      "img": "../assets/images/portraits/luong_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Tifa",
       "img": "../assets/images/portraits/tifa_full.png",
       "rating": "Rating 600",
@@ -757,6 +765,14 @@
      "position2": "C",
      "position3": null
     },
+    {
+      "name": "Luong",
+      "img": "../assets/images/portraits/luong_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Raven",
      "img": "../assets/images/portraits/raven_full.png",

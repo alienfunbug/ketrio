@@ -3163,4 +3163,33 @@
       }
     ]
   }
+  ,
+  {
+    "selectedCharacter": "Luong",
+    "characterImage": "../assets/images/ranking_images/ranking_large_luong.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "cxJvYeh7mqk",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Sakura Maple",
+    "fate2": "Yuhyun Frank",
+    "fate3": "Lorsha Arthur",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Roll The Dice: ",
+        "featureDescription": "In Offensive Round,reduce opponents Contact. If the position is PG or SG, further reduce opponents Contact. In Defensive Round, reduce Scoring FG% and Contact of the person being guarded. When Luong successfully blocks the opponent, further reduce Scoring FG% and Contact. Effect can be combined with her skill, and lasts until the end of the game.",
+        "skill": "360 Tip-In",
+        "skillDescription": "Luong can Tip-In from any angle. When switching from Offense to Defense, Rebound | Mid Shot | L/D | Block | Contact | and Run stat increase. Stacks (3x). Effect lasts until end of game.",
+        "statsPositive": "+20 Rebound +15 Contact +10 L/D +5 Stamina",
+        "statsNegative": "-5 Inside Shot -5 Steal",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/luong_pf_elite_skills.png"
+      }
+    ]
+  }
 ]
