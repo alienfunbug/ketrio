@@ -2444,7 +2444,7 @@
       {
         "position": "Power_Forward",
         "featureName": "Fighting Hard: ",
-        "featureDescription": "For each successful Rebound, increase stack of \"Fighting Hard\" up to 5 Stacks. For each stack, increase Open Shot Success Rate for teammates. Effect lasts until end of the game.",
+        "featureDescription": "Rodman has Enhanced Chip properties. For each successful Rebound, increase stack of \"Fighting Hard\" up to 5 Stacks. For each stack, increase Open Shot Success Rate for teammates. Effect lasts until end of the game.",
         "skill": "Rebound Dunk",
         "skillDescription": "After grabbing the rebound, press and hold Dunk to trigger quick scoring animation.",
         "statsPositive": "+25 Rebound +18 Contact +10 Block +5 Run",
@@ -2869,7 +2869,7 @@
       {
         "position": "Power_Forward",
         "featureName": "Tower: ",
-        "featureDescription": "After a shot, increase Boxout Size and Boxout Contact; if in Superior Boxout Position, increase Boxout Contact and Rebound Contact.",
+        "featureDescription": "Ryu has Enhanced Chip properties. After a shot, increase Boxout Size and Boxout Contact; if in Superior Boxout Position, increase Boxout Contact and Rebound Contact.",
         "skill": "Swarm",
         "skillDescription": "When in Inferior Boxout Position, Ryu can Swarm with high chance of landing in Superior Boxout Position.",
         "statsPositive": "+20 Contact +5 Rebound +3 Run",
@@ -3181,7 +3181,7 @@
       {
         "position": "Power_Forward",
         "featureName": "Roll The Dice: ",
-        "featureDescription": "In Offensive Round,reduce opponents Contact. If the position is PG or SG, further reduce opponents Contact. In Defensive Round, reduce Scoring FG% and Contact of the person being guarded. When Luong successfully blocks the opponent, further reduce Scoring FG% and Contact. Effect can be combined with her skill, and lasts until the end of the game.",
+        "featureDescription": "In Offensive Round, reduce opponents Contact. If the position is PG or SG, further reduce opponents Contact. In Defensive Round, reduce Scoring FG% and Contact of the person being guarded. When Luong successfully blocks the opponent, further reduce Scoring FG% and Contact. Effects can stack, and lasts until the end of the game.",
         "skill": "360 Tip-In",
         "skillDescription": "Luong can Tip-In from any angle. When switching from Offense to Defense, Rebound | Mid Shot | L/D | Block | Contact | and Run stat increase. Stacks (3x). Effect lasts until end of game.",
         "statsPositive": "+20 Rebound +15 Contact +10 L/D +5 Stamina",
