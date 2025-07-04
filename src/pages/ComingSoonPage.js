@@ -540,7 +540,7 @@ const characterDefaults = {
           <thead>
             <tr>
               <th>Stat</th>
-              <th>Cloth</th>
+              <th>Clothes</th>
               <th>Runes</th>
               <th>Perim Build</th>
               <th>Interior</th>
