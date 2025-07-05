@@ -420,7 +420,7 @@ const characterDefaults = {
 
   return (
     <div className="stat-calculator">
-      <h1>Stat Build Calculator</h1>
+      <h1>DCD Build Calculator</h1>
       
       <div className="section">
         <h2>Character & Build Info</h2>
@@ -505,7 +505,7 @@ const characterDefaults = {
       </div>
 
       <div className="section">
-        <h2>Red Runes</h2>
+        <h2>Red Potential</h2>
         <div className="selected-list">
           {renderSelectedRunes('red')}
         </div>
@@ -515,7 +515,7 @@ const characterDefaults = {
       </div>
 
       <div className="section">
-        <h2>Green Runes</h2>
+        <h2>Green Potential</h2>
         <div className="selected-list">
           {renderSelectedRunes('green')}
         </div>
@@ -525,7 +525,7 @@ const characterDefaults = {
       </div>
 
       <div className="section">
-        <h2>Blue Runes</h2>
+        <h2>Blue Potential</h2>
         <div className="selected-list">
           {renderSelectedRunes('blue')}
         </div>
