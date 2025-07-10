@@ -150,6 +150,10 @@ const characterDefaults = {
     perimeter: {dunk:124, layupClose:125, midrange:114, "3pt":110, dribble:56, steal:53, block:125, reb:127, contest:121, pass:61, vertical:76, movement:52, consistency:51, strength:130},
     interior: {dunk:124, layupClose:125, midrange:114, "3pt":110, dribble:56, steal:53, block:125, reb:127, contest:121, pass:61, vertical:76, movement:52, consistency:51, strength:130}
   },
+  "Malone": {
+    perimeter: {dunk:130, layupClose:121, midrange:139, "3pt":45, dribble:66, steal:50, block:132, reb:133, contest:117, pass:72, vertical:116, movement:71, consistency:69, strength:138},
+    interior: {dunk:130, layupClose:121, midrange:139, "3pt":45, dribble:66, steal:50, block:132, reb:133, contest:117, pass:72, vertical:116, movement:71, consistency:69, strength:138},
+  },
   "McGrady": {
     perimeter: {dunk:111, layupClose:104, midrange:135, "3pt":126, dribble:122, steal:64, block:73, reb:58, contest:94, pass:110, vertical:93, movement:102, consistency:91, strength:78},
     interior: {dunk:111, layupClose:104, midrange:135, "3pt":126, dribble:122, steal:64, block:73, reb:58, contest:94, pass:110, vertical:93, movement:102, consistency:91, strength:78}
@@ -535,7 +539,7 @@ const characterDefaults = {
       </div>
 
       <div className="section">
-        <h2>Results</h2>
+        <h2>{charName ? `${charName} Results` : 'Results'}</h2>
         <table className="result-table">
           <thead>
             <tr>
