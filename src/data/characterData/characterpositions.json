@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Durant",
+      "img": "../assets/images/portraits/durant_full.png",
+      "rating": "Rating 600",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Luong",
       "img": "../assets/images/portraits/luong_full.png",
       "rating": "Rating 600",
@@ -908,6 +916,14 @@
      "position2": "SG",
      "position3": null
     },
+    {
+      "name": "Durant",
+      "img": "../assets/images/portraits/durant_full.png",
+      "rating": "Rating 600",
+      "position1": "SF",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Elke",
      "img": "../assets/images/portraits/elke_full.png",

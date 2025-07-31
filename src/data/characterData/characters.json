@@ -3191,5 +3191,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/luong_pf_elite_skills.png"
       }
     ]
+  },
+  
+  {
+    "selectedCharacter": "Durant",
+    "characterImage": "../assets/images/ranking_images/ranking_large_durant.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "Iu3d8x9K1L8",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Hong Raven",
+    "fate2": "Shalice Harley",
+    "fate3": "Arthur Taylor",
+    "avatar": " image",
+    "characterPosition": [
+      {
+        "position": "Small_Forward",
+        "featureName": "Slim Reaper: ",
+        "featureDescription": "KD doesn't mind help defense when calling ISO. Size-Up Dribble increases steal resistance, Hesi Drive increases knockdown resistance. While shooting, Size-Up increases contest resistance and reduces opponent's block range.",
+        "skill": "Hesi Drive",
+        "skillDescription": "KD has four different Hesi animations. Each directions can be connected and the drive tempo can be changed by altering the speed of the direction; Drives can be connected to Pull Up Jumper, Side Step, Step Back,and Cross Spin. Each Hesi Drive will consume a small amount of stamina.",
+        "statsPositive": "+10 M.Shot +5 Block +5 Contact +5 Stamina +5 Run +3 3pt Shot +3 Run +3 L/D",
+        "statsNegative": "-3 Pass",
+        "statsNeutral": "",
+        "passive": "+15% M.Shot Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/durant_sf_elite_skills.png"
+      }
+    ]
   }
 ]
