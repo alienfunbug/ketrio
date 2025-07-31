@@ -75,7 +75,14 @@
   color: var(--default-gray);
   text-align: center;
   font-size: 22px;
+
+  width: 200px;         /* Match image width */
+  max-width: 100%;      /* Responsive fallback */
+  margin: 0 auto;       /* Center text under image*/
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
+
 
 @media only screen and (max-width: 650px) {
  
@@ -126,5 +133,12 @@
     text-align: center;
     font-size: 18px;
   }
+  .landing-profile .landing-image,
+  .landing-profile .landing-display {
+    width: 120px;   /* mobile image width*/
+    font-size: 1em; 
+  }
+
+  
 }
 

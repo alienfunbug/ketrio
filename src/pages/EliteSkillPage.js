@@ -12,7 +12,7 @@ function EliteSkillPage() {
 
   return (
     <div className="landing-container">
-            <Link
+      <Link
         className="landing-back-button"
         to={{
           pathname: `/`,
@@ -22,6 +22,7 @@ function EliteSkillPage() {
         {" "}
         Back
       </Link>
+      
       <div className="landing-content">
         <span className="landing-title"> ...Elite Skills...</span>
         <div className="landing-profiles">

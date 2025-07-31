@@ -152,3 +152,36 @@
     padding: 8px 12px;
   }
 }
+
+.stat-navbar {
+  width: 100%;
+  
+  height: 40px;
+  display: flex;
+  
+  align-items: center;
+  background: #fff;
+  
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+
+  padding-left: 0px;
+  margin-bottom: 16px; 
+  position: relative;
+  z-index: 2;
+}
+
+.landing-back-button {
+  background: none;
+  border: none;
+  color: #646464;
+  font-size: 1.2em;
+  cursor: pointer;
+  padding: 8px 16px;
+  margin-left: -10px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/**.landing-back-button:hover {
+  color: #3498db;
+}**/

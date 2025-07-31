@@ -1,13 +1,8 @@
 [
   {
     "image_src": "/assets/images/landing_page/lead_char.gif",
-    "display": "Characters",
+    "display": "Trio Characters",
     "link": "characters"
-  },
-  {
-    "image_src": "/assets/videos/landing_page/weekly.gif",
-    "display": "Weekly Video",
-    "link": "weeklyvideo"
   },
   {
     "image_src": "/assets/videos/landing_page/skills_page/eliteskills.gif",
@@ -15,8 +10,13 @@
     "link": "skills"
   },
   {
+    "image_src": "/assets/videos/landing_page/weekly.gif",
+    "display": "DCD League",
+    "link": "league"
+  },
+  {
     "image_src": "/assets/images/landing_page/dcd_potential_calculator.png",
-    "display": "DCD Potential",
-    "link": "comingsoon"
+    "display": "DCD Potential Builder",
+    "link": "statcalculator"
   }
 ]
