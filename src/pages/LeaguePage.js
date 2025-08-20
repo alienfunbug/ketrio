@@ -6,11 +6,11 @@ import "./LeaguePage.css";
 
 function LeaguePage() {
 
-/*
+
   useEffect(() => {
-    window.location.href = "https://www.youtube.com/watch?v=nnnikhT-law";
+    window.location.href = "https://docs.google.com/presentation/d/1Ge7srjtToo-dHsIxTiUcOKfhXowY98lkTDPduxFuCL0/present?usp=sharing";
   }, []);
-*/
+
 
   return (
     <div>

@@ -86,6 +86,18 @@ const characterDefaults = {
     perimeter: {dunk:140, layupClose:111, midrange:93, "3pt":73, dribble:59, steal:48, block:125, reb:111, contest:114, pass:60, vertical:137, movement:70, consistency:53, strength:135},
     interior: {dunk:140, layupClose:111, midrange:93, "3pt":73, dribble:59, steal:48, block:125, reb:111, contest:114, pass:60, vertical:137, movement:70, consistency:53, strength:135}
   },
+    "Green": {
+    perimeter: {dunk:121, layupClose:111, midrange:90, "3pt":107, dribble:65, steal:65, block:102, reb:116, contest:132, pass:76, vertical:105, movement:75, consistency:71, strength:124},
+    interior: {dunk:121, layupClose:111, midrange:90, "3pt":107, dribble:65, steal:65, block:102, reb:116, contest:132, pass:76, vertical:105, movement:75, consistency:71, strength:124}
+  },
+  "Guo Ailun": {
+    perimeter: {dunk:46, layupClose:140, midrange:138, "3pt":117, dribble:136, steal:76, block:38, reb:42, contest:93, pass:135, vertical:71, movement:111, consistency:97, strength:72},
+    interior:{dunk:46, layupClose:140, midrange:138, "3pt":117, dribble:136, steal:76, block:38, reb:42, contest:93, pass:135, vertical:71, movement:111, consistency:97, strength:72}
+  },
+  "Haliburton": {
+    perimeter: {dunk:39, layupClose:139, midrange:139, "3pt":133, dribble:134, steal:84, block:46, reb:39, contest:94, pass:141, vertical:59, movement:106, consistency:104, strength:70},
+    interior: {dunk:39, layupClose:139, midrange:139, "3pt":133, dribble:134, steal:84, block:46, reb:39, contest:94, pass:141, vertical:59, movement:106, consistency:104, strength:70},
+  },
   "Han Xu": {
     perimeter: {dunk:108, layupClose:137, midrange:119, "3pt":101, dribble:68, steal:65, block:114, reb:125, contest:120, pass:84, vertical:78, movement:78, consistency:73, strength:112},
     interior: {dunk:108, layupClose:137, midrange:119, "3pt":101, dribble:68, steal:65, block:114, reb:125, contest:120, pass:84, vertical:78, movement:78, consistency:73, strength:112}
@@ -109,6 +121,10 @@ const characterDefaults = {
   "James": {
     perimeter: {dunk:138, layupClose:120, midrange:118, "3pt":83, dribble:100, steal:75, block:121, reb:94, contest:115, pass:102, vertical:125, movement:92, consistency:111, strength:133},
     interior: {dunk:138, layupClose:120, midrange:118, "3pt":83, dribble:100, steal:75, block:121, reb:94, contest:115, pass:102, vertical:125, movement:92, consistency:111, strength:133}
+  },
+  "James '16": {
+    perimeter: {dunk:140, layupClose:112, midrange:134, "3pt":113, dribble:101, steal:65, block:111, reb:77, contest:109, pass:111, vertical:131, movement:97, consistency:92, strength:134},
+    interior: {dunk:140, layupClose:112, midrange:134, "3pt":113, dribble:101, steal:65, block:111, reb:77, contest:109, pass:111, vertical:131, movement:97, consistency:92, strength:134}
   },
   "Johnson": {
     perimeter: {dunk:72, layupClose:135, midrange:130, "3pt":117, dribble:115, steal:72, block:88, reb:74, contest:113, pass:89, vertical:105, movement:80, consistency:84, strength:90},
@@ -190,7 +206,7 @@ const characterDefaults = {
     perimeter: {dunk:131, layupClose:137, midrange:87, "3pt":30, dribble:52, steal:58, block:121, reb:143, contest:132, pass:68, vertical:135, movement:82, consistency:90, strength:122},
     interior: {dunk:131, layupClose:137, midrange:87, "3pt":30, dribble:52, steal:58, block:121, reb:143, contest:132, pass:68, vertical:135, movement:82, consistency:90, strength:122}
   },
-  "Rose": {
+  "Rose '11": {
     perimeter: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75},
     interior: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75}
   },
@@ -229,6 +245,10 @@ const characterDefaults = {
   "Williamson": {
     perimeter: {dunk:141, layupClose:135, midrange:56, "3pt":25, dribble:67, steal:54, block:130, reb:107, contest:129, pass:56, vertical:142, movement:73, consistency:48, strength:140},
     interior: {dunk:141, layupClose:135, midrange:56, "3pt":25, dribble:67, steal:54, block:130, reb:107, contest:129, pass:56, vertical:142, movement:73, consistency:48, strength:140}
+  },
+    "Yi Jianlian": {
+    perimeter: {dunk:137, layupClose:114, midrange:99, "3pt":88, dribble:63, steal:52, block:121, reb:125, contest:120, pass:69, vertical:123, movement:76, consistency:60, strength:129},
+    interior: {dunk:137, layupClose:114, midrange:99, "3pt":88, dribble:63, steal:52, block:121, reb:125, contest:120, pass:69, vertical:123, movement:76, consistency:60, strength:129}
   },
   "Zhou Chang": {
     perimeter: {dunk:52, layupClose:134, midrange:123, "3pt":116, dribble:138, steal:65, block:39, reb:40, contest:84, pass:135, vertical:85, movement:114, consistency:99, strength:74},
