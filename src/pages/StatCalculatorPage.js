@@ -22,6 +22,10 @@ const characterDefaults = {
     perimeter: {dunk:142, layupClose:131, midrange:71, "3pt":30, dribble:70, steal:59, block:140, reb:123, contest:132, pass:77, vertical:139, movement:82, consistency:60, strength:140},
     interior: {dunk:142, layupClose:131, midrange:71, "3pt":30, dribble:70, steal:59, block:140, reb:123, contest:132, pass:77, vertical:139, movement:82, consistency:60, strength:140}
   },
+    "Ball": {
+    perimeter: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
+    interior: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
+  },
   "Booker": {
     perimeter: {dunk:46, layupClose:142, midrange:142, "3pt":135, dribble:135, steal:70, block:53, reb:41, contest:87, pass:123, vertical:69, movement:97, consistency:93, strength:58},
     interior: {dunk:46, layupClose:142, midrange:142, "3pt":135, dribble:135, steal:70, block:53, reb:41, contest:87, pass:123, vertical:69, movement:97, consistency:93, strength:58}
@@ -178,6 +182,10 @@ const characterDefaults = {
     perimeter: {dunk:42, layupClose:134, midrange:135, "3pt":136, dribble:127, steal:76, block:57, reb:43, contest:88, pass:126, vertical:77, movement:99, consistency:93, strength:64},
     interior: {dunk:42, layupClose:134, midrange:135, "3pt":136, dribble:127, steal:76, block:57, reb:43, contest:88, pass:126, vertical:77, movement:99, consistency:93, strength:64}
   },
+    "Mourning": {
+    perimeter: {dunk:132, layupClose:129, midrange:125, "3pt":46, dribble:59, steal:59, block:135, reb:133, contest:125, pass:65, vertical:118, movement:61, consistency:72, strength:131},
+    interior: {dunk:132, layupClose:129, midrange:125, "3pt":46, dribble:59, steal:59, block:135, reb:133, contest:125, pass:65, vertical:118, movement:61, consistency:72, strength:131}
+  },
   "Murray": {
     perimeter: {dunk:46, layupClose:141, midrange:131, "3pt":127, dribble:134, steal:77, block:47, reb:43, contest:86, pass:135, vertical:78, movement:101, consistency:94, strength:59},
     interior: {dunk:46, layupClose:141, midrange:131, "3pt":127, dribble:134, steal:77, block:47, reb:43, contest:86, pass:135, vertical:78, movement:101, consistency:94, strength:59}
@@ -218,7 +226,11 @@ const characterDefaults = {
     perimeter: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121},
     interior: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121}
   },
-  "Tatum": {
+  "Karl-Anthony Towns": {
+    perimeter: {dunk:104, layupClose:128, midrange:111, "3pt":125, dribble:68, steal:53, block:125, reb:130, contest:118, pass:78, vertical:94, movement:66, consistency:62, strength:123},
+    interior: {dunk:104, layupClose:128, midrange:111, "3pt":125, dribble:68, steal:53, block:125, reb:130, contest:118, pass:78, vertical:94, movement:66, consistency:62, strength:123}
+  }, 
+    "Tatum": {
     perimeter: {dunk:100, layupClose:90, midrange:135, "3pt":125, dribble:110, steal:110, block:95, reb:95, contest:90, pass:115, vertical:90, movement:110, consistency:110, strength:90},
     interior: {dunk:120, layupClose:110, midrange:105, "3pt":95, dribble:90, steal:90, block:125, reb:125, contest:110, pass:95, vertical:110, movement:90, consistency:90, strength:110}
   },
@@ -238,6 +250,7 @@ const characterDefaults = {
     perimeter: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95},
     interior: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95}
   },
+  
   "Wiggins": {
     perimeter: {dunk:119, layupClose:121, midrange:119, "3pt":93, dribble:95, steal:72, block:107, reb:94, contest:113, pass:85, vertical:122, movement:81, consistency:101, strength:116},
     interior: {dunk:119, layupClose:121, midrange:119, "3pt":93, dribble:95, steal:72, block:107, reb:94, contest:113, pass:85, vertical:122, movement:81, consistency:101, strength:116}
