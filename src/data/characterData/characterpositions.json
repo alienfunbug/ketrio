@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Nezha",
+      "img": "../assets/images/portraits/nezha_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Durant",
       "img": "../assets/images/portraits/durant_full.png",
       "rating": "Rating 600",
@@ -1513,6 +1521,14 @@
      "position2": null,
      "position3": null
     },
+    {
+      "name": "Nezha",
+      "img": "../assets/images/portraits/nezha_full.png",
+      "rating": "Rating 600",
+      "position1": "PG",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Rick",
      "img": "../assets/images/portraits/rick_full.png",

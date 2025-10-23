@@ -3220,5 +3220,35 @@
         "eliteSkills": "../assets/images/char_elite_skills/durant_sf_elite_skills.png"
       }
     ]
+  },
+
+  
+  {
+    "selectedCharacter": "Nezha",
+    "characterImage": "../assets/images/ranking_images/ranking_large_nezha.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Maple Lana",
+    "fate2": "Victor Antony",
+    "fate3": "Taylor Hayes",
+    "avatar": " image",
+    "characterPosition": [
+      {
+        "position": "Point_Guard",
+        "featureName": "Contact: ",
+        "featureDescription": "Nezha has increased block range against Layups and Dunks. In the event of a Contact Fail, there's a chance the ball will be blocked into a live rebound.",
+        "skill": "Dash",
+        "skillDescription": "Nezha accumulates energy each time you score or assist. With full energy, you can catch and dash multiple times in a row, but only in 90 or 180 degree angles. After the second dash, you can trigger dunks which allow SP layups,Trick Layups, Trick Dunks, and SP Dunks. When the third energy bar is full, there a chance to trigger unyielding will during dunks.",
+        "statsPositive": "+10 L/D, +8 Run, +5 Contact, +5 Pass, +5 Stamina",
+        "statsNegative": "",
+        "statsNeutral": "",
+        "passive": "+15% Pass Speed.",
+        "eliteSkills": "../assets/images/char_elite_skills/nezha_pg_elite_skills.png"
+      }
+    ]
   }
 ]
