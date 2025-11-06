@@ -10,6 +10,10 @@ function StatCalculatorPage() {
   const stats = ["dunk","midrange","dribble","block","contest","vertical","consistency","layupClose","3pt","steal","reb","pass","movement","strength"];
   
 const characterDefaults = {
+  "Adams": {
+    perimeter: {dunk:135, layupClose:140, midrange:70, "3pt":32, dribble:57, steal:58, block:131, reb:136, contest:131, pass:65, vertical:70, movement:53, consistency:73, strength:131},
+    interior: {dunk:135, layupClose:140, midrange:70, "3pt":32, dribble:57, steal:58, block:131, reb:136, contest:131, pass:65, vertical:70, movement:53, consistency:73, strength:131}
+  },
   "Adebayo": {
     perimeter: {dunk:132, layupClose:133, midrange:80, "3pt":28, dribble:58, steal:57, block:130, reb:131, contest:132, pass:68, vertical:96, movement:75, consistency:82, strength:130},
     interior: {dunk:132, layupClose:133, midrange:80, "3pt":28, dribble:58, steal:57, block:130, reb:131, contest:132, pass:68, vertical:96, movement:75, consistency:82, strength:130}
@@ -22,7 +26,11 @@ const characterDefaults = {
     perimeter: {dunk:142, layupClose:131, midrange:71, "3pt":30, dribble:70, steal:59, block:140, reb:123, contest:132, pass:77, vertical:139, movement:82, consistency:60, strength:140},
     interior: {dunk:142, layupClose:131, midrange:71, "3pt":30, dribble:70, steal:59, block:140, reb:123, contest:132, pass:77, vertical:139, movement:82, consistency:60, strength:140}
   },
-    "Ball": {
+  "Anderson": {
+    perimeter: {dunk:115, layupClose:111, midrange:84, "3pt":81, dribble:62, steal:93, block:140, reb:128, contest:120, pass:94, vertical:118, movement:60, consistency:46, strength:129},
+    interior: {dunk:115, layupClose:111, midrange:84, "3pt":81, dribble:62, steal:93, block:140, reb:128, contest:120, pass:94, vertical:118, movement:60, consistency:46, strength:129},
+  },
+  "Ball": {
     perimeter: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
     interior: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
   },
@@ -53,6 +61,10 @@ const characterDefaults = {
   "Curry": {
     perimeter: {dunk:20, layupClose:143, midrange:141, "3pt":144, dribble:140, steal:94, block:39, reb:40, contest:78, pass:138, vertical:55, movement:116, consistency:106, strength:66},
     interior: {dunk:20, layupClose:143, midrange:141, "3pt":144, dribble:140, steal:94, block:39, reb:40, contest:78, pass:138, vertical:55, movement:116, consistency:106, strength:66}
+  },
+  "Crawford": {
+    perimeter: {dunk:37, layupClose:131, midrange:130, "3pt":133, dribble:129, steal:76, block:52, reb:40, contest:85, pass:115, vertical:60, movement:95, consistency:88, strength:56},
+    interior: {dunk:37, layupClose:131, midrange:130, "3pt":133, dribble:129, steal:76, block:52, reb:40, contest:85, pass:115, vertical:60, movement:95, consistency:88, strength:56}
   },
   "Davis": {
     perimeter: {dunk:135, layupClose:127, midrange:114, "3pt":58, dribble:58, steal:52, block:130, reb:126, contest:126, pass:66, vertical:132, movement:75, consistency:68, strength:116},
@@ -110,6 +122,14 @@ const characterDefaults = {
     perimeter: {dunk:48, layupClose:135, midrange:132, "3pt":133, dribble:143, steal:66, block:61, reb:45, contest:90, pass:131, vertical:80, movement:103, consistency:89, strength:89},
     interior: {dunk:48, layupClose:135, midrange:132, "3pt":133, dribble:143, steal:66, block:61, reb:45, contest:90, pass:131, vertical:80, movement:103, consistency:89, strength:89}
   },
+  "Hayward": {
+    perimeter: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99},
+    interior: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99}
+  },
+  "Hong Shou": {
+    perimeter: {dunk:30, layupClose:119, midrange:129, "3pt":87, dribble:127, steal:101, block:50, reb:46, contest:93, pass:136, vertical:47, movement:98, consistency:108, strength:79},
+    interior: {dunk:30, layupClose:119, midrange:129, "3pt":87, dribble:127, steal:101, block:50, reb:46, contest:93, pass:136, vertical:47, movement:98, consistency:108, strength:79}
+  },
   "Ingram": {
     perimeter: {dunk:117, layupClose:125, midrange:139, "3pt":118, dribble:113, steal:76, block:86, reb:71, contest:116, pass:99, vertical:92, movement:83, consistency:105, strength:88},
     interior: {dunk:117, layupClose:125, midrange:139, "3pt":118, dribble:113, steal:76, block:86, reb:71, contest:116, pass:99, vertical:92, movement:83, consistency:105, strength:88}
@@ -146,6 +166,10 @@ const characterDefaults = {
     perimeter: {dunk:27, layupClose:136, midrange:119, "3pt":110, dribble:118, steal:105, block:36, reb:61, contest:106, pass:143, vertical:58, movement:110, consistency:108, strength:89},
     interior: {dunk:27, layupClose:136, midrange:119, "3pt":110, dribble:118, steal:105, block:36, reb:61, contest:106, pass:143, vertical:58, movement:110, consistency:108, strength:89}
   },
+  "Kuminga": {
+    perimeter: {dunk:136, layupClose:114, midrange:90, "3pt":62, dribble:58, steal:37, block:116, reb:124, contest:118, pass:62, vertical:125, movement:69, consistency:51, strength:131},
+    interior: {dunk:136, layupClose:114, midrange:90, "3pt":62, dribble:58, steal:37, block:116, reb:124, contest:118, pass:62, vertical:125, movement:69, consistency:51, strength:131},
+  },  
   "LaVine": {
     perimeter: {dunk:106, layupClose:107, midrange:107, "3pt":125, dribble:109, steal:75, block:51, reb:32, contest:88, pass:113, vertical:108, movement:99, consistency:87, strength:88},
     interior: {dunk:106, layupClose:107, midrange:107, "3pt":125, dribble:109, steal:75, block:51, reb:32, contest:88, pass:113, vertical:108, movement:99, consistency:87, strength:88}
@@ -182,7 +206,15 @@ const characterDefaults = {
     perimeter: {dunk:42, layupClose:134, midrange:135, "3pt":136, dribble:127, steal:76, block:57, reb:43, contest:88, pass:126, vertical:77, movement:99, consistency:93, strength:64},
     interior: {dunk:42, layupClose:134, midrange:135, "3pt":136, dribble:127, steal:76, block:57, reb:43, contest:88, pass:126, vertical:77, movement:99, consistency:93, strength:64}
   },
-    "Mourning": {
+  "McDyess": {
+    perimeter: {dunk:139, layupClose:136, midrange:50, "3pt":25, dribble:65, steal:47, block:129, reb:116, contest:125, pass:73, vertical:132, movement:66, consistency:50, strength:137},
+    interior: {dunk:139, layupClose:136, midrange:50, "3pt":25, dribble:65, steal:47, block:129, reb:116, contest:125, pass:73, vertical:132, movement:66, consistency:50, strength:137},
+  },
+  "Miller": {
+    perimeter: {dunk:132, layupClose:133, midrange:80, "3pt":38, dribble:47, steal:56, block:131, reb:134, contest:125, pass:60, vertical:89, movement:67, consistency:56, strength:130},
+    interior: {dunk:132, layupClose:133, midrange:80, "3pt":38, dribble:47, steal:56, block:131, reb:134, contest:125, pass:60, vertical:89, movement:67, consistency:56, strength:130}
+  },
+  "Mourning": {
     perimeter: {dunk:132, layupClose:129, midrange:125, "3pt":46, dribble:59, steal:59, block:135, reb:133, contest:125, pass:65, vertical:118, movement:61, consistency:72, strength:131},
     interior: {dunk:132, layupClose:129, midrange:125, "3pt":46, dribble:59, steal:59, block:135, reb:133, contest:125, pass:65, vertical:118, movement:61, consistency:72, strength:131}
   },
@@ -194,6 +226,10 @@ const characterDefaults = {
     perimeter: {dunk:125, layupClose:125, midrange:131, "3pt":126, dribble:60, steal:57, block:121, reb:121, contest:116, pass:68, vertical:92, movement:64, consistency:54, strength:120},
     interior: {dunk:125, layupClose:125, midrange:131, "3pt":126, dribble:60, steal:57, block:121, reb:121, contest:116, pass:68, vertical:92, movement:64, consistency:54, strength:120}
   },
+  "Nurkic": {
+    perimeter: {dunk:120, layupClose:136, midrange:99, "3pt":50, dribble:54, steal:58, block:122, reb:131, contest:133, pass:67, vertical:68, movement:62, consistency:54, strength:131},
+    interior: {dunk:120, layupClose:136, midrange:99, "3pt":50, dribble:54, steal:58, block:122, reb:131, contest:133, pass:67, vertical:68, movement:62, consistency:54, strength:131},
+  },
   "Olajuwon": {
     perimeter: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120},
     interior: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120}
@@ -201,6 +237,10 @@ const characterDefaults = {
   "Paul": {
     perimeter: {dunk:25, layupClose:120, midrange:142, "3pt":89, dribble:134, steal:125, block:34, reb:33, contest:108, pass:142, vertical:56, movement:106, consistency:121, strength:69},
     interior: {dunk:25, layupClose:120, midrange:142, "3pt":89, dribble:134, steal:125, block:34, reb:33, contest:108, pass:142, vertical:56, movement:106, consistency:121, strength:69}
+  },
+  "Peterson": {
+    perimeter: {dunk:105, layupClose:134, midrange:133, "3pt":92, dribble:110, steal:74, block:96, reb:81, contest:113, pass:86, vertical:105, movement:70, consistency:76, strength:90},
+    interior: {dunk:105, layupClose:134, midrange:133, "3pt":92, dribble:110, steal:74, block:96, reb:81, contest:113, pass:86, vertical:105, movement:70, consistency:76, strength:90}
   },
   "Pierce": {
     perimeter: {dunk:109, layupClose:126, midrange:129, "3pt":127, dribble:90, steal:89, block:91, reb:82, contest:123, pass:90, vertical:93, movement:88, consistency:113, strength:124},
@@ -218,6 +258,18 @@ const characterDefaults = {
     perimeter: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75},
     interior: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75}
   },
+  "Schroder": {
+    perimeter: {dunk:36, layupClose:132, midrange:132, "3pt":119, dribble:133, steal:81, block:50, reb:32, contest:95, pass:113, vertical:68, movement:93, consistency:85, strength:58},
+    interior: {dunk:36, layupClose:132, midrange:132, "3pt":119, dribble:133, steal:81, block:50, reb:32, contest:95, pass:113, vertical:68, movement:93, consistency:85, strength:58}
+  },
+  "Seth": {
+    perimeter: {dunk:35, layupClose:130, midrange:137, "3pt":137, dribble:119, steal:93, block:52, reb:32, contest:82, pass:106, vertical:66, movement:96, consistency:85, strength:58},
+    interior: {dunk:35, layupClose:130, midrange:137, "3pt":137, dribble:119, steal:93, block:52, reb:32, contest:82, pass:106, vertical:66, movement:96, consistency:85, strength:58}
+  },
+  "Siakam": {
+    perimeter: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121},
+    interior: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121}
+  },
   "S.G. Alexander": {
     perimeter: {dunk:36, layupClose:135, midrange:142, "3pt":119, dribble:128, steal:96, block:71, reb:40, contest:91, pass:130, vertical:61, movement:107, consistency:100, strength:71},
     interior: {dunk:36, layupClose:135, midrange:142, "3pt":119, dribble:128, steal:96, block:71, reb:40, contest:91, pass:130, vertical:61, movement:107, consistency:100, strength:71}
@@ -230,7 +282,7 @@ const characterDefaults = {
     perimeter: {dunk:104, layupClose:128, midrange:111, "3pt":120, dribble:68, steal:53, block:125, reb:130, contest:118, pass:78, vertical:94, movement:66, consistency:62, strength:123},
     interior: {dunk:104, layupClose:128, midrange:111, "3pt":120, dribble:68, steal:53, block:125, reb:130, contest:118, pass:78, vertical:94, movement:66, consistency:62, strength:123}
   }, 
-    "Tatum": {
+  "Tatum": {
     perimeter: {dunk:100, layupClose:90, midrange:135, "3pt":125, dribble:110, steal:110, block:95, reb:95, contest:90, pass:115, vertical:90, movement:110, consistency:110, strength:90},
     interior: {dunk:120, layupClose:110, midrange:105, "3pt":95, dribble:90, steal:90, block:125, reb:125, contest:110, pass:95, vertical:110, movement:90, consistency:90, strength:110}
   },
@@ -250,7 +302,7 @@ const characterDefaults = {
     perimeter: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95},
     interior: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95}
   },
-    "Westbrook Prime": {
+  "Westbrook Prime": {
     perimeter: {dunk:109, layupClose:106, midrange:123, "3pt":96, dribble:105, steal:95, block:36, reb:91, contest:85, pass:132, vertical:101, movement:120, consistency:69, strength:95},
     interior: {dunk:109, layupClose:106, midrange:123, "3pt":96, dribble:105, steal:95, block:36, reb:91, contest:85, pass:132, vertical:101, movement:120, consistency:69, strength:95},
   },
