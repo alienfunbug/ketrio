@@ -126,6 +126,10 @@ const characterDefaults = {
     perimeter: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99},
     interior: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99}
   },
+  "Holiday": {
+    perimeter: {dunk:32, layupClose:135, midrange:133, "3pt":120, dribble:117, steal:103, block:68, reb:39, contest:96, pass:124, vertical:59, movement:106, consistency:105, strength:90},
+    interior: {dunk:32, layupClose:135, midrange:133, "3pt":120, dribble:117, steal:103, block:68, reb:39, contest:96, pass:124, vertical:59, movement:106, consistency:105, strength:90}
+  },
   "Hong Shou": {
     perimeter: {dunk:30, layupClose:119, midrange:129, "3pt":87, dribble:127, steal:101, block:50, reb:46, contest:93, pass:136, vertical:47, movement:98, consistency:108, strength:79},
     interior: {dunk:30, layupClose:119, midrange:129, "3pt":87, dribble:127, steal:101, block:50, reb:46, contest:93, pass:136, vertical:47, movement:98, consistency:108, strength:79}
