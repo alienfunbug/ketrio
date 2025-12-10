@@ -298,6 +298,10 @@ const characterDefaults = {
     perimeter: {dunk:137, layupClose:126, midrange:61, "3pt":28, dribble:56, steal:77, block:139, reb:134, contest:131, pass:69, vertical:125, movement:76, consistency:93, strength:134},
     interior: {dunk:137, layupClose:126, midrange:61, "3pt":28, dribble:56, steal:77, block:139, reb:134, contest:131, pass:69, vertical:125, movement:76, consistency:93, strength:134}
   },
+  "Wembanyama": {
+    perimeter: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:137, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112},
+    interior: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:137, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112}
+  },
   "Westbrook": {
     perimeter: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95},
     interior: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95}
