@@ -270,10 +270,6 @@ const characterDefaults = {
     perimeter: {dunk:35, layupClose:130, midrange:137, "3pt":137, dribble:119, steal:93, block:52, reb:32, contest:82, pass:106, vertical:66, movement:96, consistency:85, strength:58},
     interior: {dunk:35, layupClose:130, midrange:137, "3pt":137, dribble:119, steal:93, block:52, reb:32, contest:82, pass:106, vertical:66, movement:96, consistency:85, strength:58}
   },
-  "Siakam": {
-    perimeter: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121},
-    interior: {dunk:130, layupClose:128, midrange:105, "3pt":56, dribble:72, steal:53, block:113, reb:115, contest:117, pass:79, vertical:129, movement:76, consistency:49, strength:121}
-  },
   "S.G. Alexander": {
     perimeter: {dunk:36, layupClose:135, midrange:142, "3pt":119, dribble:128, steal:96, block:71, reb:40, contest:91, pass:130, vertical:61, movement:107, consistency:100, strength:71},
     interior: {dunk:36, layupClose:135, midrange:142, "3pt":119, dribble:128, steal:96, block:71, reb:40, contest:91, pass:130, vertical:61, movement:107, consistency:100, strength:71}
