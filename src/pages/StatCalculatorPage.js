@@ -126,6 +126,10 @@ const characterDefaults = {
     perimeter: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99},
     interior: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99}
   },
+  "Herro": {
+    perimeter: {dunk:43, layupClose:135, midrange:138, "3pt":137, dribble:120, steal:77, block:52, reb:42, contest:87, pass:128, vertical:74, movement:98, consistency:104, strength:62},
+    interior:{dunk:43, layupClose:135, midrange:138, "3pt":137, dribble:120, steal:77, block:52, reb:42, contest:87, pass:128, vertical:74, movement:98, consistency:104, strength:62}
+  },
   "Holiday": {
     perimeter: {dunk:32, layupClose:135, midrange:133, "3pt":120, dribble:117, steal:103, block:68, reb:39, contest:96, pass:124, vertical:59, movement:106, consistency:105, strength:90},
     interior: {dunk:32, layupClose:135, midrange:133, "3pt":120, dribble:117, steal:103, block:68, reb:39, contest:96, pass:124, vertical:59, movement:106, consistency:105, strength:90}
@@ -299,8 +303,8 @@ const characterDefaults = {
     interior: {dunk:137, layupClose:126, midrange:61, "3pt":28, dribble:56, steal:77, block:139, reb:134, contest:131, pass:69, vertical:125, movement:76, consistency:93, strength:134}
   },
   "Wembanyama": {
-    perimeter: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:137, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112},
-    interior: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:137, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112}
+    perimeter: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:132, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112},
+    interior: {dunk:132, layupClose:127, midrange:98, "3pt":105, dribble:78, steal:53, block:143, reb:132, contest:125, pass:70, vertical:92, movement:70, consistency:53, strength:112}
   },
   "Westbrook": {
     perimeter: {dunk:98, layupClose:111, midrange:90, "3pt":71, dribble:120, steal:84, block:46, reb:80, contest:86, pass:118, vertical:101, movement:125, consistency:74, strength:95},
