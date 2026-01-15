@@ -2,6 +2,15 @@
   {
    "position": "All-Stars",
    "players": [
+
+    {
+      "name": "Davis",
+      "img": "../assets/images/portraits/davis_full.png",
+      "rating": "Rating 600",
+      "position1": "C",
+      "position2": null,
+      "position3": null
+     },
     {
       "name": "Nezha",
       "img": "../assets/images/portraits/nezha_full.png",
@@ -414,6 +423,14 @@
      "position2": "PF",
      "position3": null
     },
+    {
+      "name": "Davis",
+      "img": "../assets/images/portraits/davis_full.png",
+      "rating": "Rating 600",
+      "position1": "C",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Embiid",
      "img": "../assets/images/portraits/embiid_full.png",

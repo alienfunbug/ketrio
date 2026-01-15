@@ -114,6 +114,10 @@ const characterDefaults = {
     perimeter: {dunk:39, layupClose:139, midrange:139, "3pt":133, dribble:134, steal:84, block:46, reb:39, contest:94, pass:141, vertical:59, movement:106, consistency:104, strength:70},
     interior: {dunk:39, layupClose:139, midrange:139, "3pt":133, dribble:134, steal:84, block:46, reb:39, contest:94, pass:141, vertical:59, movement:106, consistency:104, strength:70},
   },
+  "Hansen": {
+    perimeter: {dunk:130, layupClose:125, midrange:122, "3pt":104, dribble:61, steal:51, block:119, reb:130, contest:125, pass:88, vertical:74, movement:70, consistency:56, strength:127},
+    interior: {dunk:130, layupClose:125, midrange:122, "3pt":104, dribble:61, steal:51, block:119, reb:130, contest:125, pass:88, vertical:74, movement:70, consistency:56, strength:127}
+  },
   "Han Xu": {
     perimeter: {dunk:108, layupClose:137, midrange:119, "3pt":101, dribble:68, steal:65, block:114, reb:125, contest:120, pass:84, vertical:78, movement:78, consistency:73, strength:112},
     interior: {dunk:108, layupClose:137, midrange:119, "3pt":101, dribble:68, steal:65, block:114, reb:125, contest:120, pass:84, vertical:78, movement:78, consistency:73, strength:112}
@@ -145,6 +149,10 @@ const characterDefaults = {
   "Irving": {
     perimeter: {dunk:25, layupClose:143, midrange:140, "3pt":130, dribble:145, steal:84, block:52, reb:36, contest:85, pass:137, vertical:80, movement:112, consistency:99, strength:60},
     interior: {dunk:25, layupClose:143, midrange:140, "3pt":130, dribble:145, steal:84, block:52, reb:36, contest:85, pass:137, vertical:80, movement:112, consistency:99, strength:60}
+  },
+  "Iverson": {
+    perimeter: {dunk:46, layupClose:143, midrange:142, "3pt":116, dribble:145, steal:87, block:59, reb:36, contest:85, pass:125, vertical:94, movement:113, consistency:101, strength:71},
+    interior: {dunk:46, layupClose:143, midrange:142, "3pt":116, dribble:145, steal:87, block:59, reb:36, contest:85, pass:125, vertical:94, movement:113, consistency:101, strength:71}
   },
   "Jackson Jr.": {
     perimeter: {dunk:131, layupClose:114, midrange:104, "3pt":101, dribble:66, steal:56, block:127, reb:92, contest:116, pass:62, vertical:133, movement:69, consistency:64, strength:123},

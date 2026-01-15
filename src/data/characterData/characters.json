@@ -3250,5 +3250,33 @@
         "eliteSkills": "../assets/images/char_elite_skills/nezha_pg_elite_skills.png"
       }
     ]
+  },
+  {
+    "selectedCharacter": "Davis",
+    "characterImage": "../assets/images/ranking_images/ranking_large_davis.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Raven Emily",
+    "fate2": "Harley Min-Jun",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Center",
+        "featureName": "The Brow: ",
+        "featureDescription": "After scoring or assisting, increase rebounding contact, block distance, chasedown distance, defensive movement speed, and contest rate; Stacks (3x). After rebounding or blocking, increases L/D FG, L/D distance, and mid-range FG; Stacks (3x).",
+        "skill": "Offense First",
+        "skillDescription": "On offense \"Call for Ball\" can be used to screen or activate offensive options such as quick jumper, fadeaway, catch an drive, catch and step back, or touch pass/quick pass. The fadeaway significantly reduces the interference zone, and the step back slightly increases the speed of a normal shot.",
+        "statsPositive": "+12 Run +10 Block +8 M.Shot +5 L/D +5 Contact +5 Stamina",
+        "statsNegative": "-5 Control -5 Pass",
+        "statsNeutral": "",
+        "passive": "+15% Reb.Cont.",
+        "eliteSkills": "../assets/images/char_elite_skills/davis_c_elite_skills.png"
+      }
+    ]
   }
 ]
