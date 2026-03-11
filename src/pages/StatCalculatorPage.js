@@ -30,6 +30,10 @@ const characterDefaults = {
     perimeter: {dunk:115, layupClose:111, midrange:84, "3pt":81, dribble:62, steal:93, block:140, reb:128, contest:120, pass:94, vertical:118, movement:60, consistency:46, strength:129},
     interior: {dunk:115, layupClose:111, midrange:84, "3pt":81, dribble:62, steal:93, block:140, reb:128, contest:120, pass:94, vertical:118, movement:60, consistency:46, strength:129},
   },
+  "Artest": {
+    perimeter: {dunk:115, layupClose:108, midrange:127, "3pt":113, dribble:86, steal:108, block:101, reb:78, contest:119, pass:81, vertical:104, movement:93, consistency:114, strength:128},
+    interior: {dunk:115, layupClose:108, midrange:127, "3pt":113, dribble:86, steal:108, block:101, reb:78, contest:119, pass:81, vertical:104, movement:93, consistency:114, strength:128}
+  },
   "Ball": {
     perimeter: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
     interior: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
