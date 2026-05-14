@@ -282,6 +282,10 @@ const characterDefaults = {
     perimeter: {dunk:131, layupClose:137, midrange:87, "3pt":30, dribble:52, steal:58, block:121, reb:143, contest:132, pass:68, vertical:135, movement:82, consistency:90, strength:122},
     interior: {dunk:131, layupClose:137, midrange:87, "3pt":30, dribble:52, steal:58, block:121, reb:143, contest:132, pass:68, vertical:135, movement:82, consistency:90, strength:122}
   },
+  "Rondo": {
+    perimeter: {dunk:31, layupClose:142, midrange:120, "3pt":103, dribble:128, steal:114, block:41, reb:56, contest:106, pass:143, vertical:74, movement:105, consistency:102, strength:61},
+    interior: {dunk:31, layupClose:142, midrange:120, "3pt":103, dribble:128, steal:114, block:41, reb:56, contest:106, pass:143, vertical:74, movement:105, consistency:102, strength:61}
+  },
   "Rose '11": {
     perimeter: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75},
     interior: {dunk:110, layupClose:123, midrange:120, "3pt":115, dribble:131, steal:85, block:40, reb:35, contest:88, pass:126, vertical:108, movement:121, consistency:86, strength:75}
