@@ -42,6 +42,10 @@ const characterDefaults = {
     perimeter: {dunk:46, layupClose:142, midrange:142, "3pt":135, dribble:135, steal:70, block:53, reb:41, contest:87, pass:123, vertical:69, movement:97, consistency:93, strength:58},
     interior: {dunk:46, layupClose:142, midrange:142, "3pt":135, dribble:135, steal:70, block:53, reb:41, contest:87, pass:123, vertical:69, movement:97, consistency:93, strength:58}
   },
+  "Bridges": {
+    perimeter: {dunk:121, layupClose:119, midrange:126, "3pt":111, dribble:105, steal:105, block:87, reb:66, contest:121, pass:88, vertical:100, movement:91, consistency:106, strength:93},
+    interior:  {dunk:121, layupClose:119, midrange:126, "3pt":111, dribble:105, steal:105, block:87, reb:66, contest:121, pass:88, vertical:100, movement:91, consistency:106, strength:93},
+  },
   "Brooks": {
     perimeter: {dunk:115, layupClose:125, midrange:133, "3pt":112, dribble:107, steal:97, block:80, reb:68, contest:137, pass:77, vertical:99, movement:73, consistency:114, strength:91},
     interior: {dunk:115, layupClose:125, midrange:133, "3pt":112, dribble:107, steal:97, block:80, reb:68, contest:137, pass:77, vertical:99, movement:73, consistency:114, strength:91}
@@ -86,10 +90,15 @@ const characterDefaults = {
     perimeter: {dunk:113, layupClose:140, midrange:144, "3pt":121, dribble:123, steal:70, block:101, reb:92, contest:115, pass:90, vertical:110, movement:75, consistency:87, strength:95},
     interior: {dunk:113, layupClose:140, midrange:144, "3pt":121, dribble:123, steal:70, block:101, reb:92, contest:115, pass:90, vertical:110, movement:75, consistency:87, strength:95}
   },
+    "Edwards": {
+    perimeter: {dunk:126, layupClose:111, midrange:131, "3pt":131, dribble:119, steal:66, block:62, reb:37, contest:85, pass:114, vertical:111, movement:108, consistency:93, strength:74},
+    interior: {dunk:126, layupClose:111, midrange:131, "3pt":131, dribble:119, steal:66, block:62, reb:37, contest:85, pass:114, vertical:111, movement:108, consistency:93, strength:74},
+  },
   "Embiid": {
     perimeter: {dunk:131, layupClose:134, midrange:115, "3pt":63, dribble:65, steal:52, block:130, reb:130, contest:127, pass:81, vertical:87, movement:66, consistency:75, strength:132},
     interior: {dunk:131, layupClose:134, midrange:115, "3pt":63, dribble:65, steal:52, block:130, reb:130, contest:127, pass:81, vertical:87, movement:66, consistency:75, strength:132}
   },
+
   "Fu Zhi": {
     perimeter: {dunk:99, layupClose:121, midrange:122, "3pt":87, dribble:82, steal:125, block:88, reb:71, contest:140, pass:86, vertical:105, movement:72, consistency:128, strength:111},
     interior: {dunk:99, layupClose:121, midrange:122, "3pt":87, dribble:82, steal:125, block:88, reb:71, contest:140, pass:86, vertical:105, movement:72, consistency:128, strength:111}
