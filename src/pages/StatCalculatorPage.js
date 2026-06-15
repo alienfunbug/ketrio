@@ -34,6 +34,11 @@ const characterDefaults = {
     perimeter: {dunk:115, layupClose:108, midrange:127, "3pt":113, dribble:86, steal:108, block:101, reb:78, contest:119, pass:81, vertical:104, movement:93, consistency:114, strength:128},
     interior: {dunk:115, layupClose:108, midrange:127, "3pt":113, dribble:86, steal:108, block:101, reb:78, contest:119, pass:81, vertical:104, movement:93, consistency:114, strength:128}
   },
+
+  "Ayla": {
+    perimeter: {dunk:48, layupClose:131, midrange:131, "3pt":133, dribble:138, steal:71, block:56, reb:47, contest:87, pass:130, vertical:92, movement:103, consistency:109, strength:64},
+    interior: {dunk:48, layupClose:131, midrange:131, "3pt":133, dribble:138, steal:71, block:56, reb:47, contest:87, pass:130, vertical:92, movement:103, consistency:109, strength:64}
+  },
   "Ball": {
     perimeter: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
     interior: {dunk:43, layupClose:136, midrange:135, "3pt":121, dribble:135, steal:72, block:53, reb:48, contest:91, pass:142, vertical:58, movement:108, consistency:100, strength:66},
@@ -85,6 +90,10 @@ const characterDefaults = {
   "Doncic": {
     perimeter: {dunk:40, layupClose:139, midrange:138, "3pt":119, dribble:137, steal:52, block:54, reb:57, contest:89, pass:136, vertical:52, movement:108, consistency:98, strength:84},
     interior: {dunk:40, layupClose:139, midrange:138, "3pt":119, dribble:137, steal:52, block:54, reb:57, contest:89, pass:136, vertical:52, movement:108, consistency:98, strength:84}
+  },
+  "Duncan": {
+    perimeter: {dunk:131, layupClose:120, midrange:135, "3pt":42, dribble:71, steal:51, block:134, reb:139, contest:116, pass:80, vertical:110, movement:74, consistency:68, strength:128},
+    interior: {dunk:131, layupClose:120, midrange:135, "3pt":42, dribble:71, steal:51, block:134, reb:139, contest:116, pass:80, vertical:110, movement:74, consistency:68, strength:128}
   },
   "Durant": {
     perimeter: {dunk:113, layupClose:140, midrange:144, "3pt":121, dribble:123, steal:70, block:101, reb:92, contest:115, pass:90, vertical:110, movement:75, consistency:87, strength:95},
