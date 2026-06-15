@@ -185,3 +185,40 @@
 /**.landing-back-button:hover {
   color: #3498db;
 }**/
+
+/* Respect user agent dark preference: let browser set dark colors */
+@media (prefers-color-scheme: dark) {
+  .stat-calculator { background: #07101a; color: #e6eef8; }
+  /* softer gray cards for dark mode */
+  .stat-calculator .section { background: #1f2937; box-shadow: 0 2px 8px rgba(0,0,0,0.6); }
+  .stat-calculator .selected-list { background: #111827; border-color: rgba(255,255,255,0.06); }
+  .stat-calculator .selected-item { background: #0b1220; color: #e6eef8; }
+  .stat-calculator .rune-btn.red { background: #ff6b6b; }
+  .stat-calculator .rune-btn.green { background: #58d68d; }
+  .stat-calculator .rune-btn.blue { background: #5aa9ff; }
+  .stat-navbar { background: #0f1720; }
+  .landing-back-button { color: #9fb1c9; }
+
+  /* Inputs, selects, and table cells: subdued 'bubble' background */
+  .stat-calculator input[type=text],
+  .stat-calculator input[type=number],
+  .stat-calculator select,
+  .stat-calculator textarea {
+    background: #111827;
+    color: #e6eef8;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 6px;
+    padding: 6px;
+  }
+
+  .stat-calculator .stat-table th,
+  .stat-calculator .stat-table td,
+  .stat-calculator .result-table th,
+  .stat-calculator .result-table td {
+    background: rgba(255,255,255,0.02);
+    border-color: rgba(255,255,255,0.04);
+  }
+
+  /* make selected-list chips slightly darker for depth */
+  .stat-calculator .selected-item { background: rgba(255,255,255,0.03); }
+}
