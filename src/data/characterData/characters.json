@@ -3278,5 +3278,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/davis_c_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Mina",
+    "characterImage": "../assets/images/ranking_images/ranking_large_mina.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Lana MZ",
+    "fate2": "Antony Sophia",
+    "fate3": "Colonel Jessica",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Shooting_Guard",
+        "featureName": "Power Cords: ",
+        "featureDescription": "Mina enters the DJ Domain to immediately increase Open 3pt FG%, Open Mid Shot FG%, and L/D FG%. Mina also gains increased L/D Distance and has her Interruption Zone reduced. Effects last 2s after leaving the domain.",
+        "skill": "DJ Design",
+        "skillDescription": "Mina can use a charge to Drop a DJ Domain. While inside the Domain, Mina can trigger (off-ball) DJ Dash, without a screen. Mina starts the game with +1 charge, gaining +1 charge every 30 seconds.  Only two Domains can be active on the court at once. Dropping a third Domain auto-clears the oldest one.",
+        "statsPositive": "+12 3pt, +5 M.Shot, +5 L/D, +8 Stamina, +5 Run, +2 Pass",
+        "statsNegative": "-5 Rebound, -3 Steal, -2 Control",
+        "statsNeutral": "",
+        "passive": "+10% 3pt Res.",
+        "eliteSkills": "../assets/images/char_elite_skills/mina_sg_elite_skills.png"
+      }
+    ]
   }
 ]

@@ -2,7 +2,14 @@
   {
    "position": "All-Stars",
    "players": [
-
+    {
+      "name": "Mina",
+      "img": "../assets/images/portraits/mina_full.png",
+      "rating": "Rating 600",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
+     },
     {
       "name": "Davis",
       "img": "../assets/images/portraits/davis_full.png",
@@ -1316,6 +1323,14 @@
      "position1": "SG",
      "position2": "SF",
      "position3": null
+    },
+    {
+      "name": "Mina",
+      "img": "../assets/images/portraits/mina_full.png",
+      "rating": "Rating 600",
+      "position1": "SG",
+      "position2": null,
+      "position3": null
     },
     {
      "name": "Mitsuki",
