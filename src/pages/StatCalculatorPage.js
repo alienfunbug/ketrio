@@ -276,6 +276,10 @@ const characterDefaults = {
     perimeter: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120},
     interior: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120}
   },
+  "Parker": {
+    perimeter: {dunk:28, layupClose:143, midrange:141, "3pt":124, dribble:138, steal:94, block:39, reb:38, contest:92, pass:135, vertical:66, movement:122, consistency:100, strength:68},
+    interior: {dunk:28, layupClose:143, midrange:141, "3pt":124, dribble:138, steal:94, block:39, reb:38, contest:92, pass:135, vertical:66, movement:122, consistency:100, strength:68}
+  },
   "Paul": {
     perimeter: {dunk:25, layupClose:120, midrange:142, "3pt":89, dribble:134, steal:125, block:34, reb:33, contest:108, pass:142, vertical:56, movement:106, consistency:121, strength:69},
     interior: {dunk:25, layupClose:120, midrange:142, "3pt":89, dribble:134, steal:125, block:34, reb:33, contest:108, pass:142, vertical:56, movement:106, consistency:121, strength:69}
