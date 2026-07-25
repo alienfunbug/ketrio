@@ -3307,5 +3307,34 @@
         "eliteSkills": "../assets/images/char_elite_skills/mina_sg_elite_skills.png"
       }
     ]
+  },
+
+  {
+    "selectedCharacter": "Tiny",
+    "characterImage": "../assets/images/ranking_images/ranking_large_tiny.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Emily Tsukino",
+    "fate2": "Min-Jun CyborgT",
+    "fate3": "Jessica Kai",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Shift General: ",
+        "featureDescription": "Tiny's Post Up moves have a chance to ankle break opponents and increase opponent's ankle break animation duration. She also has increased knockdown resistance.",
+        "skill": "DJ Design",
+        "skillDescription": "Tiny can use several options out of her postup resulting in various shuffles, drives, and mixups. These mixups can be connected into Post Up Jumper, Turning Fade, L/Ds, and additional shuffles or drives",
+        "statsPositive": "+10 Stamina, +8 M.Shot, +5 L/D, +5 Run, +5 Contact,2 Block, +2 Control",
+        "statsNegative": "-3 Rebound, -3 3pt, -2 Inside Shot, -2 Steal",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/tiny_pf_elite_skills.png"
+      }
+    ]
   }
 ]
