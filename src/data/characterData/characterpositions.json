@@ -3,6 +3,14 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Tiny",
+      "img": "../assets/images/portraits/tiny_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
+    {
       "name": "Mina",
       "img": "../assets/images/portraits/mina_full.png",
       "rating": "Rating 600",
@@ -869,6 +877,14 @@
      "position2": "C",
      "position3": null
     },
+    {
+      "name": "Tiny",
+      "img": "../assets/images/portraits/tiny_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Tsukino",
      "img": "../assets/images/portraits/tsukino_full.png",
