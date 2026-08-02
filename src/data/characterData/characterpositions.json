@@ -3,6 +3,15 @@
    "position": "All-Stars",
    "players": [
     {
+      "name": "Hanamichi",
+      "img": "../assets/images/portraits/hanamichi_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
+
+    {
       "name": "Tiny",
       "img": "../assets/images/portraits/tiny_full.png",
       "rating": "Rating 600",
@@ -717,6 +726,14 @@
      "position2": null,
      "position3": null
     },
+    {
+      "name": "Hanamichi",
+      "img": "../assets/images/portraits/hanamichi_full.png",
+      "rating": "Rating 600",
+      "position1": "PF",
+      "position2": null,
+      "position3": null
+     },
     {
      "name": "Harley",
      "img": "../assets/images/portraits/harley_full.png",

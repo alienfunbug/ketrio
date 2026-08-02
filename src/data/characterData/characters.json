@@ -3328,12 +3328,42 @@
         "featureName": "Shift General: ",
         "featureDescription": "Tiny's Post Up moves have a chance to ankle break opponents and increase opponent's ankle break animation duration. She also has increased knockdown resistance.",
         "skill": "DJ Design",
-        "skillDescription": "Tiny can use several options out of her postup resulting in various shuffles, drives, and mixups. These mixups can be connected into Post Up Jumper, Turning Fade, L/Ds, and additional shuffles or drives",
+        "skillDescription": "Tiny can use several options out of her postup resulting in various shuffles, drives, and mixups. These mixups can be connected into Post Up Jumper, Turning Fade, L/Ds, and additional shuffles or drives.",
         "statsPositive": "+10 Stamina, +8 M.Shot, +5 L/D, +5 Run, +5 Contact,2 Block, +2 Control",
         "statsNegative": "-3 Rebound, -3 3pt, -2 Inside Shot, -2 Steal",
         "statsNeutral": "",
         "passive": "+15% Block Rate",
         "eliteSkills": "../assets/images/char_elite_skills/tiny_pf_elite_skills.png"
+      }
+    ]
+  },
+
+   {
+    "selectedCharacter": "Hanamichi",
+    "characterImage": "../assets/images/ranking_images/ranking_large_hanamichi.png",
+    "rating": "Rating 600",
+    "cost": "From Recruitment",
+    "TBD": "TBD",
+    "positionCount": 1,
+    "highlights": "",
+    "evolve": "EVOLVE DETAILS",
+    "fate1": "Nova Lora",
+    "fate2": "Sophia Diana",
+    "fate3": "Hayes Colonel",
+    "avatar": "Avatar image",
+    "characterPosition": [
+      {
+        "position": "Power_Forward",
+        "featureName": "Genius: ",
+        "featureDescription": "When a teammate's shot is contested Hanamichi's boxout increases. When an opponent's shot is contested, Hanamichi's Boxout and Rebound Contact increases. While standing with close to the basket, Hanamichi's block range increases.",
+        "skill": "Genius",
+        "skillDescription": "Hanamichi has increased movement speed during Boxout. When Hanamichi successfully Boxouts an opponent, his Rebound Contact increases for 3 seconds, and the opponet cannot jump for rebounds.",
+        "ultimate": "Hanamichi uses 300 energy to activate Quick Rebound which increases Rebound Height, Rebound Range, and Rebound Contact. This Ultimate can be used to Counter Chip-out.",
+        "statsPositive": "+25 Contact, +20 Rebound, +8 Run, +8 Stamina",
+        "statsNegative": "-20 3pt, -16 Control, -5 Steal, -2 Pass",
+        "statsNeutral": "",
+        "passive": "+15% Block Rate",
+        "eliteSkills": "../assets/images/char_elite_skills/hanamichi_pf_elite_skills.png"
       }
     ]
   }

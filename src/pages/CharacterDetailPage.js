@@ -33,6 +33,7 @@ function CharacterDetailPage(props) {
             featureDescription={characterPosition.featureDescription}
             skill={characterPosition.skill}
             skillDescription={characterPosition.skillDescription}
+            ultimate={characterPosition.ultimate}
             statsPositive={characterPosition.statsPositive}
             statsNegative={characterPosition.statsNegative}
             statsNeutral={characterPosition.statsNeutral}

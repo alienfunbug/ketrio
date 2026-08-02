@@ -11,6 +11,7 @@ function PositionDetail(props) {
     featureDescription,
 
     skillDescription,
+    ultimate,
     statsPositive,
     statsNegative,
     statsNeutral,
@@ -31,6 +32,12 @@ function PositionDetail(props) {
           <span className="details-header">Skill: </span>
           <span /*PUT STUFF HERE */>{skillDescription}</span>
         </div>
+        {ultimate ? (
+        <div className="details-padded-div">
+          <span className="details-header">Ultimate: </span>
+          <span>{ultimate}</span>
+        </div>
+        ) : null}
         <span className="details-header">Stats:</span>
         <span className="details-stats">
           <span className="details-stats-neutral">{statsNeutral}</span>
