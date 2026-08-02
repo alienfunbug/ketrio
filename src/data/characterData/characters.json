@@ -3358,7 +3358,7 @@
         "featureDescription": "When a teammate's shot is contested Hanamichi's boxout increases. When an opponent's shot is contested, Hanamichi's Boxout and Rebound Contact increases. While standing with close to the basket, Hanamichi's block range increases.",
         "skill": "Genius",
         "skillDescription": "Hanamichi has increased movement speed during Boxout. When Hanamichi successfully Boxouts an opponent, his Rebound Contact increases for 3 seconds, and the opponet cannot jump for rebounds.",
-        "ultimate": "Hanamichi uses 300 energy to activate Quick Rebound which increases Rebound Height, Rebound Range, and Rebound Contact. This Ultimate can be used to Counter Chip-out.",
+        "ultimate": "Hanamichi uses 300 energy to activate Quick Rebound which increases Rebound Height, Rebound Range, and Rebound Contact. This Ultimate can be used to Counter Chip-out. Max Energy: 900. Cost Per Use: 300. Restores 1 charge every 60 seconds.",
         "statsPositive": "+25 Contact, +20 Rebound, +8 Run, +8 Stamina",
         "statsNegative": "-20 3pt, -16 Control, -5 Steal, -2 Pass",
         "statsNeutral": "",
