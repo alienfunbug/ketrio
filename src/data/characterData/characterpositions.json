@@ -3,8 +3,8 @@
    "position": "All-Stars",
    "players": [
     {
-      "name": "Hanamichi",
-      "img": "../assets/images/portraits/hanamichi_full.png",
+      "name": "Natsuki",
+      "img": "../assets/images/portraits/natsuki_full.png",
       "rating": "Rating 600",
       "position1": "PF",
       "position2": null,
@@ -727,8 +727,8 @@
      "position3": null
     },
     {
-      "name": "Hanamichi",
-      "img": "../assets/images/portraits/hanamichi_full.png",
+      "name": "Natsuki",
+      "img": "../assets/images/portraits/natsuki_full.png",
       "rating": "Rating 600",
       "position1": "PF",
       "position2": null,
