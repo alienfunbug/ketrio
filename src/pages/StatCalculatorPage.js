@@ -240,6 +240,10 @@ const characterDefaults = {
     perimeter: {dunk:130, layupClose:121, midrange:139, "3pt":45, dribble:66, steal:50, block:132, reb:133, contest:117, pass:72, vertical:116, movement:71, consistency:69, strength:138},
     interior: {dunk:130, layupClose:121, midrange:139, "3pt":45, dribble:66, steal:50, block:132, reb:133, contest:117, pass:72, vertical:116, movement:71, consistency:69, strength:138},
   },
+  "Markkanen": {
+    perimeter: {dunk:135, layupClose:117, midrange:111, "3pt":119, dribble:62, steal:49, block:111, reb:127, contest:115, pass:76, vertical:92, movement:61, consistency:67, strength:114},
+    interior: {dunk:135, layupClose:117, midrange:111, "3pt":119, dribble:62, steal:49, block:111, reb:127, contest:115, pass:76, vertical:92, movement:61, consistency:67, strength:114}
+  },
   "McGrady": {
     perimeter: {dunk:111, layupClose:104, midrange:135, "3pt":126, dribble:122, steal:64, block:73, reb:58, contest:94, pass:110, vertical:93, movement:102, consistency:91, strength:78},
     interior: {dunk:111, layupClose:104, midrange:135, "3pt":126, dribble:122, steal:64, block:73, reb:58, contest:94, pass:110, vertical:93, movement:102, consistency:91, strength:78}
@@ -275,6 +279,10 @@ const characterDefaults = {
   "Olajuwon": {
     perimeter: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120},
     interior: {dunk:131, layupClose:138, midrange:118, "3pt":32, dribble:77, steal:57, block:143, reb:140, contest:126, pass:65, vertical:90, movement:70, consistency:82, strength:120}
+  },
+  "Oneal": {
+    perimeter: {dunk:143, layupClose:135, midrange:53, "3pt":22, dribble:56, steal:58, block:143, reb:142, contest:131, pass:70, vertical:139, movement:90, consistency:68, strength:141},
+    interior: {dunk:143, layupClose:135, midrange:53, "3pt":22, dribble:56, steal:58, block:143, reb:142, contest:131, pass:70, vertical:139, movement:90, consistency:68, strength:141}
   },
   "Parker": {
     perimeter: {dunk:28, layupClose:143, midrange:141, "3pt":124, dribble:138, steal:94, block:39, reb:38, contest:92, pass:135, vertical:66, movement:122, consistency:100, strength:68},
