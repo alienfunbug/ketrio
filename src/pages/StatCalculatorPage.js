@@ -204,6 +204,11 @@ const characterDefaults = {
     perimeter: {dunk:125, layupClose:114, midrange:100, "3pt":28, dribble:74, steal:56, block:131, reb:117, contest:123, pass:64, vertical:134, movement:67, consistency:62, strength:131},
     interior: {dunk:125, layupClose:114, midrange:100, "3pt":28, dribble:74, steal:56, block:131, reb:117, contest:123, pass:64, vertical:134, movement:67, consistency:62, strength:131}
   },
+
+  "Kawamura": {
+    perimeter: {dunk:24, layupClose:136, midrange:137, "3pt":122, dribble:136, steal:107, block:25, reb:29, contest:89, pass:133, vertical:65, movement:111, consistency:116, strength:69},
+    interior:{dunk:24, layupClose:136, midrange:137, "3pt":122, dribble:136, steal:107, block:25, reb:29, contest:89, pass:133, vertical:65, movement:111, consistency:116, strength:69},
+  },  
   "Kidd": {
     perimeter: {dunk:27, layupClose:136, midrange:119, "3pt":110, dribble:118, steal:105, block:36, reb:61, contest:106, pass:143, vertical:58, movement:110, consistency:108, strength:89},
     interior: {dunk:27, layupClose:136, midrange:119, "3pt":110, dribble:118, steal:105, block:36, reb:61, contest:106, pass:143, vertical:58, movement:110, consistency:108, strength:89}
