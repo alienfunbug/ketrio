@@ -120,6 +120,12 @@ const characterDefaults = {
     perimeter: {dunk:114, layupClose:116, midrange:133, "3pt":123, dribble:114, steal:99, block:79, reb:62, contest:115, pass:103, vertical:74, movement:80, consistency:121, strength:92},
     interior: {dunk:114, layupClose:116, midrange:133, "3pt":123, dribble:114, steal:99, block:79, reb:62, contest:115, pass:103, vertical:74, movement:80, consistency:121, strength:92}
   },
+
+  "Ginobili": {
+    perimeter: {dunk:82, layupClose:129, midrange:122, "3pt":132, dribble:139, steal:84, block:67, reb:42, contest:87, pass:130, vertical:74, movement:102, consistency:91, strength:66},
+    interior: {dunk:82, layupClose:129, midrange:122, "3pt":132, dribble:139, steal:84, block:67, reb:42, contest:87, pass:130, vertical:74, movement:102, consistency:91, strength:66}
+  },
+
   "Gordon": {
     perimeter: {dunk:140, layupClose:111, midrange:93, "3pt":73, dribble:59, steal:48, block:125, reb:111, contest:114, pass:60, vertical:137, movement:70, consistency:53, strength:135},
     interior: {dunk:140, layupClose:111, midrange:93, "3pt":73, dribble:59, steal:48, block:125, reb:111, contest:114, pass:60, vertical:137, movement:70, consistency:53, strength:135}
