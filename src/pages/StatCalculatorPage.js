@@ -59,6 +59,11 @@ const characterDefaults = {
     perimeter: {dunk:119, layupClose:102, midrange:136, "3pt":118, dribble:96, steal:95, block:107, reb:76, contest:118, pass:91, vertical:113, movement:91, consistency:111, strength:98},
     interior: {dunk:119, layupClose:102, midrange:136, "3pt":118, dribble:96, steal:95, block:107, reb:76, contest:118, pass:91, vertical:113, movement:91, consistency:111, strength:98}
   },
+  "Brunsen": {
+    perimeter: {dunk:36, layupClose:141, midrange:140, "3pt":133, dribble:137, steal:86, block:39, reb:39, contest:93, pass:132, vertical:61, movement:108, consistency:106, strength:75},
+    interior: {dunk:36, layupClose:141, midrange:140, "3pt":133, dribble:137, steal:86, block:39, reb:39, contest:93, pass:132, vertical:61, movement:108, consistency:106, strength:75}
+  },
+  
   "Butler": {
     perimeter: {dunk:123, layupClose:110, midrange:127, "3pt":85, dribble:96, steal:92, block:115, reb:91, contest:120, pass:84, vertical:107, movement:90, consistency:111, strength:122},
     interior: {dunk:123, layupClose:110, midrange:127, "3pt":85, dribble:96, steal:92, block:115, reb:91, contest:120, pass:84, vertical:107, movement:90, consistency:111, strength:122}
@@ -157,6 +162,10 @@ const characterDefaults = {
   "Harden": {
     perimeter: {dunk:48, layupClose:135, midrange:132, "3pt":133, dribble:143, steal:66, block:61, reb:45, contest:90, pass:131, vertical:80, movement:103, consistency:89, strength:89},
     interior: {dunk:48, layupClose:135, midrange:132, "3pt":133, dribble:143, steal:66, block:61, reb:45, contest:90, pass:131, vertical:80, movement:103, consistency:89, strength:89}
+  },
+    "Hart": {
+    perimeter: {dunk:87, layupClose:112, midrange:120, "3pt":122, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72},
+    interior: {dunk:87, layupClose:112, midrange:120, "3pt":122, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72}
   },
   "Hayward": {
     perimeter: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99},
