@@ -164,8 +164,8 @@ const characterDefaults = {
     interior: {dunk:48, layupClose:135, midrange:132, "3pt":133, dribble:143, steal:66, block:61, reb:45, contest:90, pass:131, vertical:80, movement:103, consistency:89, strength:89}
   },
     "Hart": {
-    perimeter: {dunk:87, layupClose:112, midrange:120, "3pt":122, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72},
-    interior: {dunk:87, layupClose:112, midrange:120, "3pt":122, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72}
+    perimeter: {dunk:87, layupClose:112, midrange:120, "3pt":117, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72},
+    interior: {dunk:87, layupClose:112, midrange:120, "3pt":117, dribble:100, steal:95, block:68, reb:87, contest:93, pass:95, vertical:76, movement:96, consistency:90, strength:72}
   },
   "Hayward": {
     perimeter: {dunk:98, layupClose:139, midrange:135, "3pt":80, dribble:113, steal:71, block:98, reb:75, contest:116, pass:84, vertical:107, movement:81, consistency:83, strength:99},
